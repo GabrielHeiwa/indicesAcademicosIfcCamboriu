@@ -366,11 +366,13 @@ class HashMap {
         const scale = {
             title: {
                 display: true,
-                text: informaion_relations[information]
+                text: informaion_relations[information] === "Número de aluno" 
+                    ? "Número de alunos" 
+                    : informaion_relations[information] + " (%)",
             },
             max,
         };
-        console.log(scale)
+
         return {
             data, 
             title,
