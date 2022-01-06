@@ -361,7 +361,7 @@ class HashMap {
             datasets,
         };
 
-        const title =  `Gráfico sobre ${informaion_relations[information]} dos anos ${years.join(", ")}`;
+        const title =  `Gráfico sobre ${informaion_relations[information]}`;
         let max = Math.ceil(biggerValue / 10) * 10;
         const scale = {
             title: {

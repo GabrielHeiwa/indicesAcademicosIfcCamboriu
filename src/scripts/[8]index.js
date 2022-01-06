@@ -43,7 +43,7 @@ window.onload = () => {
 
     loadMattersInSelect(matters);
 
-    window.scrollTo(document.getElementById('stage-5').offsetTop, document.getElementById('stage-5').offsetTop);
+    window.scrollTo(0, 0);
 };
 
 module.exports = { chart };
