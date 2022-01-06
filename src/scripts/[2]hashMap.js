@@ -362,10 +362,15 @@ class HashMap {
         };
 
         const title =  `Gráfico sobre ${informaion_relations[information]} dos anos ${years.join(", ")}`;
-        const max = Math.floor(biggerValue * 1.5) > 100 ? 100 : Math.floor(biggerValue * 1.5);
+        let max = Math.ceil(biggerValue / 10) * 10;
         const scale = {
+            title: {
+                display: true,
+                text: informaion_relations[information]
+            },
             max,
-        }
+        };
+        console.log(scale)
         return {
             data, 
             title,

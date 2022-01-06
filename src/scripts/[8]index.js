@@ -1,6 +1,6 @@
 
 const hashMap = require('./[2]hashMap');
-const {inputSelectDiscipline} = require('./[3]disciplines');
+const { inputSelectDiscipline } = require('./[3]disciplines');
 const { loadMattersInSelect } = require('./[4]matters');
 
 let ctx = document.getElementById("chart");
@@ -20,20 +20,30 @@ let chart = new Chart(ctx, {
                 align: "start",
             }
         },
-        scale: {
-            min: 0, 
-            max: 100
+        scales: {
+            y: {
+                title: {
+                    display: true,
+                    text: "Dado do eixo Y",
+                },
+            },
+            x: {
+                title: {
+                    display: true,
+                    text: "Ano"
+                }
+            }
         }
     }
 });
-    
+
 window.onload = () => {
     const discipline = inputSelectDiscipline.value;
     const matters = hashMap.filterByDiscipline(discipline);
 
     loadMattersInSelect(matters);
 
-    window.scrollTo(0, 0);
+    window.scrollTo(document.getElementById('stage-5').offsetTop, document.getElementById('stage-5').offsetTop);
 };
 
 module.exports = { chart };
