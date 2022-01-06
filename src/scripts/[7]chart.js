@@ -24,6 +24,8 @@ btnGenerateChart.addEventListener('click', () => {
 
     const result = hashMap.get(getOptions);
     chart.data = result.data;
+    chart.options.scale.y = result.scale;
     pTitleChart.textContent = result.title;
+
     chart.update();
 });

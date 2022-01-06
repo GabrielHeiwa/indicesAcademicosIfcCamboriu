@@ -297,6 +297,7 @@ class HashMap {
 
     get({ matters, years, discipline, information }) {
         const dataInformtions = [];
+        let biggerValue = 0;
 
         for (let matter of matters) {
             const index = this.hashing(matter);
@@ -314,7 +315,7 @@ class HashMap {
                     }
                 }
             }
-        }
+        };
 
         const datasets = [];
         const mattersDatasets = [];
@@ -325,6 +326,9 @@ class HashMap {
             if (mattersDatasets.includes(matter_name)) {
                 matterPosition = mattersDatasets.indexOf(matter_name);
                 yearPosition = years.indexOf(value.matter_year);
+
+                if (value[information] > biggerValue)
+                    biggerValue = value[information];
 
                 datasets[matterPosition].data[yearPosition] = value[information];
 
@@ -342,6 +346,9 @@ class HashMap {
                 yearPosition = years.indexOf(value.matter_year);
                 matterPosition = matters.indexOf(matter_name);
 
+                if (value[information] > biggerValue)
+                    biggerValue = value[information];
+
                 datasets[matterPosition].data[yearPosition] = value[information];
             }
         }
@@ -352,10 +359,14 @@ class HashMap {
         };
 
         const title =  `Gráfico sobre ${informaion_relations[information]} dos anos ${years.join(", ")}`;
-
+        const scale = {
+            min: 0,
+            max: Math.floor(biggerValue * 1.5),
+        }
         return {
             data, 
-            title
+            title,
+            scale
         };
 
         function compare(matter, mattername, year, cursor) {
