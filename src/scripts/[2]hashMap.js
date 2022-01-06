@@ -21,6 +21,18 @@ class HashMap {
     #table = new Array(HASH_MAP_SIZE)
     #disciplines = [];
     #years = [];
+    #colors = [
+        '#16a085',
+        '#2ecc71',
+        '#3498db',
+        '#8e44ad',
+        '#2c3e50',
+        '#f1c40f',
+        '#e67e22',
+        '#e74c3c',
+        '#7f8c8d',
+        '#000000'
+    ]
 
     hashing(key) {
         let hash = 0;
@@ -264,17 +276,6 @@ class HashMap {
         return this.#years;
     };
 
-    randomColors() {
-        let color = "rgba(";
-        for (let index = 0; index < 2; index++) {
-            color += Math.floor(Math.random() * 255) + ",";
-
-        };
-        color += Math.floor(Math.random() * 255) + ", 0.5)";     
-        console.log   
-        return color;
-    };
-
     filterByDiscipline(discipline) {
         const matters = [];
 
@@ -297,7 +298,7 @@ class HashMap {
 
     get({ matters, years, discipline, information }) {
         const dataInformtions = [];
-        let biggerValue = 0;
+        let biggerValue = 0, indexColors = 0;
 
         for (let matter of matters) {
             const index = this.hashing(matter);
@@ -333,7 +334,9 @@ class HashMap {
                 datasets[matterPosition].data[yearPosition] = value[information];
 
             } else {
-                const color = this.randomColors();
+                const color = this.#colors[indexColors];
+                indexColors++;
+                
                 mattersDatasets.push(matter_name);
                 datasets.push({
                     label: matter_name,
