@@ -1,0 +1,221 @@
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+    <link rel="shortcut icon" href="./assets/pet.png" type="image/png">
+    <link rel="stylesheet" href="./styles/output.css">
+    <title>Indices Academicos</title>
+</head>
+
+<body class="overflow-hidden">
+
+    <div id="stage-1" class="stage-1 w-full h-full bg-white">
+        <div class="flex space-around">
+            <div class="w-full h-screen flex justify-center items-center flex-row">
+                <div class="h-48 w-4/5 ">
+                    <p class="text-2xl text-green-700 text-left pb-3 pl-1">Selecione um curso</p>
+                    <div
+                        class="select-cursor relative w-full border-2 border-green-700 rounded-sm h-12 mb-2 flex flex-row items-center">
+                        <input readonly class="w-full h-full outline-none pl-2 cursor-pointer"
+                            placeholder="Selecione um curso..." type="text">
+                        <img class="w-auto h-1/2 px-2" src="./assets/caret-down-solid.svg" />
+                    </div>
+
+
+                    <div class="select-options
+                            border-2 rounded-sm border-green-700 
+                            w-auto h-auto text-gray-900 
+                            sr-only
+                            max-h-48
+                            whitespace-nowrap overflow-y-auto
+                            "></div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="stage-2" class="stage-2 w-full h-full bg-white">
+        <div class="flex space-around">
+            <div class="w-full h-screen flex justify-center flex-row">
+                <div class="h-48 w-4/5 mt-12">
+                    <p class="text-2xl text-green-700 text-left pb-3 pl-1">Selecione as máterias</p>
+                    <div
+                        class="select-matter relative w-full border-2 border-green-700 rounded-sm h-12 mb-2 flex flex-row items-center">
+                        <input class="
+                                w-full h-full
+                                ml-2 pl-2 
+                                outline-none placeholder:text-black" type="text"
+                            placeholder="Digite o nome da máteria...">
+                        <p class="
+                            clear-matters-selected
+                            px-3 py-1 m-1 
+                            border-2 border-green-700
+                            rounded-sm
+                            transition delay-50
+                            hover:bg-white hover:border-green-500 
+                            cursor-pointer
+                            font-semibold">Limpar</p>
+                    </div>
+
+
+                    <div class="select-matters
+                        border-2 border-green-700
+                        overflow-y-auto
+                        h-48 w-full">
+
+                    </div>
+
+                    <div class="flex justify-between font-mono">
+                        <a class="
+                                p-2 mt-1
+                                border-2 border-green-700
+                                rounded-sm
+                                transition delay-50
+                                hover:bg-white hover:border-green-500" href="#stage-1">
+                            <p class="text-left">Voltar</p>
+                        </a>
+                        <a class="
+                                p-2 mt-1
+                                border-2 border-green-700
+                                rounded-sm
+                                transition delay-50
+                                hover:bg-white hover:border-green-500 
+                                go-stage-3 cursor-pointer py-2">
+                            <p class="text-right">Próximo</p>
+                        </a>
+                    </div>
+
+                    <div class="div-selected-matter flex flex-row flex-wrap"></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="stage-3" class="stage-3 select-information w-full h-full bg-white">
+        <div class="flex space-around">
+            <div class="w-full h-screen flex justify-center items-center flex-row">
+                <div class="h-48 w-4/5">
+                    <p class="text-2xl text-green-700 text-left pb-3 pl-1">Qual informação deseja ver?</p>
+                    <div
+                        class="select-cursor relative w-full bg-white border-2 border-green-700 h-12 mb-2 flex flex-row items-center">
+                        <input readonly class="w-full h-full  outline-none pl-2 font-sans text-md cursor-pointer"
+                            type="text">
+
+                    </div>
+
+
+                    <div class="select-options-information 
+                            border-2 border-green-700
+                            bg-white w-auto text-black 
+                            h-48
+                            sr-only whitespace-nowrap overflow-y-auto
+                            "></div>
+
+
+                    <div class="flex justify-between text-black font-mono">
+                        <a class="
+                            p-2 mt-1
+                            border-2 border-green-700
+                            rounded-sm
+                            transition delay-50
+                            hover:bg-white hover:border-green-500" href="#stage-2">
+                            <p>Voltar</p>
+                        </a>
+                        <a class="
+                                p-2 mt-1
+                                border-2 border-green-700
+                                rounded-sm
+                                transition delay-50
+                                hover:bg-white hover:border-green-500 
+                                cursor-pointer go-stage-4">
+                            <p>Próximo</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="stage-4" class="stage-4 select-years w-full h-full bg-white">
+        <div class="flex space-around">
+            <div class="w-full h-screen flex justify-center items-center flex-row">
+                <div class="h-48 w-4/5">
+                    <p class="text-2xl text-green-700 text-left pb-3 pl-1">Qual(is) ano(s) deseja ver o(s) dados?</p>
+                    <div
+                        class="select-cursor relative w-full border-2 border-green-700 bg-white h-12 mb-2 flex flex-row items-center">
+                        <input readonly class="w-full h-full outline-none pl-2 font-sans text-md" type="text">
+
+                    </div>
+
+
+                    <div class="select-options-years
+                            bg-white w-auto text-gray-900 
+                            border-2 border-green-700
+                            h-48
+                            whitespace-nowrap overflow-y-auto
+                            "></div>
+
+                    <div class="flex justify-between text-black py-2 font-mono">
+                        <a class="
+                            p-2 mt-1
+                            border-2 border-green-700
+                            rounded-sm
+                            transition delay-50
+                            hover:bg-white hover:border-green-500" href="#stage-3">
+                            <p>Voltar</p>
+                        </a>
+                        <a class="
+                            p-2 mt-1
+                            border-2 border-green-700
+                            rounded-sm
+                            transition delay-50
+                            hover:bg-white hover:border-green-500 btn-generate-chart" href="#stage-5">
+                            <p>Gerar gráfico</p>
+                        </a>
+                    </div>
+
+                    <div class="selected-years flex flex-row flex-wrap"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="stage-5" class="stage-6 graph w-full h-full flex items-center justify-center flex-col">
+        <div class="stage-5-content w-2/3 h-auto bg-green-900">
+            <p class="text-white text-lg text-center font-sans py-2 title-chart">Titulo</p>
+            <canvas class="m-4 p-4 bg-white" id="chart"></canvas>
+
+        </div>
+
+        <div class="text-green-900 w-auto h-16 flex items-center justify-center">
+            <div>
+                <a href="#stage-1">
+                    <p class="
+                    p-2
+                    border-2 border-green-700
+                    rounded-sm
+                    transition delay-50
+                    hover:bg-white hover:border-green-500 cursor-pointer font-mono text-lg">
+                        Voltar para o ínicio</p>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- <script defer src="../../HashMap/src/index.js"></script>
+    <script defer src="../scripts/typeChart.js"></script>
+    <script defer src="../scripts/disciplines.js"></script>
+    <script defer src="../scripts/matters.js"></script>
+    <script defer src="../scripts/information.js"></script>
+    <script defer src="../scripts/years.js"></script>
+    <script defer src="../scripts/chart.js"></script>
+    <script defer src="../scripts/index.js"></script> -->
+    <script src="./scripts/data.bundle.js"></script>
+    <script src="./scripts/main.bundle.js"></script>
+</body>
+
+</html>

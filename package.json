@@ -1,0 +1,16 @@
+{
+  "name": "Indices_Academicos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config webpack.config.js && tailwindcss build -i ./src/styles/main.css -o ./dist/output.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "live-server": "^1.2.1",
+    "postcss": "^8.4.5",
+    "postcss-cli": "^9.1.0",
+    "tailwindcss": "^3.0.7"
+  }
+}
