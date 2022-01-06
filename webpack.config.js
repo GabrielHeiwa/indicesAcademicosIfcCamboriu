@@ -20,7 +20,7 @@ module.exports = {
     },
     // entry: './src/scripts/[1]indice.js',
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'dist/scripts'),
         filename: '[name].bundle.js'
     }
 }

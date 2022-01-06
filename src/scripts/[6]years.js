@@ -49,7 +49,7 @@ function addAndRemoveYearToSelected(matterName) {
         const buttonYear = document.createElement("button");
         buttonYear.textContent = "X";
         buttonYear.className = "w-8 h-8 bg-red-500 hover:bg-red-700 text-white p-1 rounded";
-        buttonYear.addEventListener("click", () => addAndRemoveYearToSelected(matter));
+        buttonYear.addEventListener("click", () => addAndRemoveYearToSelected(year));
 
         divYear.appendChild(pYear);
         divYear.appendChild(buttonYear);

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "webpack --config webpack.config.js && tailwindcss build -i ./src/styles/main.css -o ./dist/output.css"
+    "build": "webpack --config webpack.config.js && tailwindcss build -i ./src/styles/main.css -o ./dist/styles/output.css"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
