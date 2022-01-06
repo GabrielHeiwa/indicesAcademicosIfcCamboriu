@@ -336,7 +336,7 @@ class HashMap {
             } else {
                 const color = this.#colors[indexColors];
                 indexColors++;
-                
+
                 mattersDatasets.push(matter_name);
                 datasets.push({
                     label: matter_name,
@@ -362,9 +362,9 @@ class HashMap {
         };
 
         const title =  `Gráfico sobre ${informaion_relations[information]} dos anos ${years.join(", ")}`;
+        const max = Math.floor(biggerValue * 1.5) > 100 ? 100 : Math.floor(biggerValue * 1.5);
         const scale = {
-            min: 0,
-            max: Math.floor(biggerValue * 1.5),
+            max,
         }
         return {
             data, 
