@@ -28,4 +28,6 @@ btnGenerateChart.addEventListener('click', () => {
     pTitleChart.textContent = result.title;
 
     chart.update();
+
+    inputInformation.value = "Selecione uma informação";
 });

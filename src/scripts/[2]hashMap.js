@@ -284,7 +284,6 @@ class HashMap {
             };
         };
 
-        console.log(matters);
         return matters;
     };
 
