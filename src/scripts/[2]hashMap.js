@@ -21,6 +21,7 @@ class HashMap {
     #table = new Array(HASH_MAP_SIZE)
     #disciplines = [];
     #years = [];
+    #mattersNames = [];
     #colors = [
         '#16a085',
         '#2ecc71',
@@ -57,6 +58,9 @@ class HashMap {
 
         if (!this.#years.includes(value.matter_year))
             this.#years.push(value.matter_year);
+
+        if (!this.#mattersNames.includes(value.matter_name))
+            this.#mattersNames.push(value.matter_name);
 
         // Tratament of negative values in the values of keys, because is the error fo aproximation
         for (const [key, data] of Object.entries(value))
@@ -252,20 +256,7 @@ class HashMap {
     };
 
     getMattersNames() {
-        const mattersNames = [];
-
-        for (let index = 0; index < this.#size; index++) {
-            let current = this.#table[index];
-
-            mattersNames.push(current.value.matter_name);
-
-            while (current.next != null) {
-                current = current.next;
-                mattersNames.push(current.value.matter_name);
-            };
-        };
-
-        return mattersNames;
+        return this.#mattersNames;
     };
 
     getDisciplines() {
@@ -293,6 +284,7 @@ class HashMap {
             };
         };
 
+        console.log(matters);
         return matters;
     };
 

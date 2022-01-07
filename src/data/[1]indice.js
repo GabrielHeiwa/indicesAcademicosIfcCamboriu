@@ -2,7 +2,7 @@ module.exports = indices = [
     {
         "matter_id": 1,
         "matter_name": "AQUICULTURA GERAL",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -18,7 +18,7 @@ module.exports = indices = [
     {
         "matter_id": 2,
         "matter_name": "ZOOLOGIA AGRICOLA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -34,7 +34,7 @@ module.exports = indices = [
     {
         "matter_id": 3,
         "matter_name": "BIOLOGIA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -50,7 +50,7 @@ module.exports = indices = [
     {
         "matter_id": 4,
         "matter_name": "DESENHO TECNICO",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -66,7 +66,7 @@ module.exports = indices = [
     {
         "matter_id": 5,
         "matter_name": "FISICA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -82,7 +82,7 @@ module.exports = indices = [
     {
         "matter_id": 6,
         "matter_name": "INTRODUCAO A AGRONOMIA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -98,7 +98,7 @@ module.exports = indices = [
     {
         "matter_id": 7,
         "matter_name": "MATEMATICA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -114,7 +114,7 @@ module.exports = indices = [
     {
         "matter_id": 8,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -130,7 +130,7 @@ module.exports = indices = [
     {
         "matter_id": 9,
         "matter_name": "PORTUGUES INSTRUMENTAL",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -146,7 +146,7 @@ module.exports = indices = [
     {
         "matter_id": 10,
         "matter_name": "ANATOMIA E FISIOLOGIA ANIMAL",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -162,7 +162,7 @@ module.exports = indices = [
     {
         "matter_id": 11,
         "matter_name": "BOTANICA SISTEMATICA",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -178,7 +178,7 @@ module.exports = indices = [
     {
         "matter_id": 12,
         "matter_name": "CALCULO DIFERENCIAL INTEGRAL",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -194,7 +194,7 @@ module.exports = indices = [
     {
         "matter_id": 13,
         "matter_name": "GENESE E CLASSIFICACAO DOS SOLOS",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -210,7 +210,7 @@ module.exports = indices = [
     {
         "matter_id": 14,
         "matter_name": "MORFOLOGIA VEGETAL",
-        "matter_cursor": "Bacharelado em Agronomia",
+        "matter_cursor": "BACHARELADO EM AGRONOMIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -226,7 +226,7 @@ module.exports = indices = [
     {
         "matter_id": 15,
         "matter_name": "ALGORITMOS E PROGRAMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -242,7 +242,7 @@ module.exports = indices = [
     {
         "matter_id": 16,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -258,7 +258,7 @@ module.exports = indices = [
     {
         "matter_id": 17,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -274,7 +274,7 @@ module.exports = indices = [
     {
         "matter_id": 18,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -290,7 +290,7 @@ module.exports = indices = [
     {
         "matter_id": 19,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -306,7 +306,7 @@ module.exports = indices = [
     {
         "matter_id": 20,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -322,7 +322,7 @@ module.exports = indices = [
     {
         "matter_id": 21,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -338,7 +338,7 @@ module.exports = indices = [
     {
         "matter_id": 22,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -354,7 +354,7 @@ module.exports = indices = [
     {
         "matter_id": 23,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -370,7 +370,7 @@ module.exports = indices = [
     {
         "matter_id": 24,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -385,8 +385,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 25,
-        "matter_name": " MATEMATICA APLICADA A SISTEMAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MATEMATICA APLICADA A SISTEMAS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -402,7 +402,7 @@ module.exports = indices = [
     {
         "matter_id": 26,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -418,7 +418,7 @@ module.exports = indices = [
     {
         "matter_id": 27,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -434,7 +434,7 @@ module.exports = indices = [
     {
         "matter_id": 28,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -450,7 +450,7 @@ module.exports = indices = [
     {
         "matter_id": 29,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -466,7 +466,7 @@ module.exports = indices = [
     {
         "matter_id": 30,
         "matter_name": "REDES DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -482,7 +482,7 @@ module.exports = indices = [
     {
         "matter_id": 31,
         "matter_name": "REDES SEM FIO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -498,7 +498,7 @@ module.exports = indices = [
     {
         "matter_id": 32,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -514,7 +514,7 @@ module.exports = indices = [
     {
         "matter_id": 33,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -530,7 +530,7 @@ module.exports = indices = [
     {
         "matter_id": 34,
         "matter_name": "TECNICAS DE COMUNICACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -546,7 +546,7 @@ module.exports = indices = [
     {
         "matter_id": 35,
         "matter_name": "TEORIA GERAL DE SISTEMAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -562,7 +562,7 @@ module.exports = indices = [
     {
         "matter_id": 36,
         "matter_name": "TCC I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -578,7 +578,7 @@ module.exports = indices = [
     {
         "matter_id": 37,
         "matter_name": "ARQUITETURA DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -593,8 +593,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 38,
-        "matter_name": "BANCO DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -609,8 +609,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 39,
-        "matter_name": "DESENVOLVIMENTO WEB II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -625,8 +625,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 40,
-        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -641,8 +641,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 41,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -657,8 +657,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 42,
-        "matter_name": "ENGENHARIA DE SOFTWARE I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -673,8 +673,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 43,
-        "matter_name": "ESTRUTURA DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTRUTURA DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -690,7 +690,7 @@ module.exports = indices = [
     {
         "matter_id": 44,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -705,8 +705,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 45,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -721,8 +721,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 46,
-        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -738,7 +738,7 @@ module.exports = indices = [
     {
         "matter_id": 47,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -753,8 +753,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 48,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -770,7 +770,7 @@ module.exports = indices = [
     {
         "matter_id": 49,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -786,7 +786,7 @@ module.exports = indices = [
     {
         "matter_id": 50,
         "matter_name": "OPTATIVA III",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -802,7 +802,7 @@ module.exports = indices = [
     {
         "matter_id": 51,
         "matter_name": "OPTATIVA IV",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -818,7 +818,7 @@ module.exports = indices = [
     {
         "matter_id": 52,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -834,7 +834,7 @@ module.exports = indices = [
     {
         "matter_id": 53,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -850,7 +850,7 @@ module.exports = indices = [
     {
         "matter_id": 54,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -865,8 +865,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 55,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -881,8 +881,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 56,
-        "matter_name": "QUALIDADE DE SOFTWARE ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOFTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -897,8 +897,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 57,
-        "matter_name": "REDES DE COMPUTADORES II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -913,8 +913,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 58,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -930,7 +930,7 @@ module.exports = indices = [
     {
         "matter_id": 59,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -946,7 +946,7 @@ module.exports = indices = [
     {
         "matter_id": 60,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -962,7 +962,7 @@ module.exports = indices = [
     {
         "matter_id": 61,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -978,7 +978,7 @@ module.exports = indices = [
     {
         "matter_id": 62,
         "matter_name": "ESTRUTURA DE DADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -994,7 +994,7 @@ module.exports = indices = [
     {
         "matter_id": 63,
         "matter_name": "FUNDAMENTOS DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -1010,7 +1010,7 @@ module.exports = indices = [
     {
         "matter_id": 64,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -1026,7 +1026,7 @@ module.exports = indices = [
     {
         "matter_id": 65,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -1042,7 +1042,7 @@ module.exports = indices = [
     {
         "matter_id": 66,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -1058,7 +1058,7 @@ module.exports = indices = [
     {
         "matter_id": 67,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -1074,7 +1074,7 @@ module.exports = indices = [
     {
         "matter_id": 68,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -1090,7 +1090,7 @@ module.exports = indices = [
     {
         "matter_id": 69,
         "matter_name": "MATEMATICA FUNDAMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -1106,7 +1106,7 @@ module.exports = indices = [
     {
         "matter_id": 70,
         "matter_name": "PROGRAMACAO AVANCADA EM WEBMAPAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -1122,7 +1122,7 @@ module.exports = indices = [
     {
         "matter_id": 71,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 4,
@@ -1138,7 +1138,7 @@ module.exports = indices = [
     {
         "matter_id": 72,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -1154,7 +1154,7 @@ module.exports = indices = [
     {
         "matter_id": 73,
         "matter_name": "REDES SEM FIO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -1170,7 +1170,7 @@ module.exports = indices = [
     {
         "matter_id": 74,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -1186,7 +1186,7 @@ module.exports = indices = [
     {
         "matter_id": 75,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1202,7 +1202,7 @@ module.exports = indices = [
     {
         "matter_id": 76,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -1218,7 +1218,7 @@ module.exports = indices = [
     {
         "matter_id": 77,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -1234,7 +1234,7 @@ module.exports = indices = [
     {
         "matter_id": 78,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -1250,7 +1250,7 @@ module.exports = indices = [
     {
         "matter_id": 79,
         "matter_name": "CIDADES INTELIGENTES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -1266,7 +1266,7 @@ module.exports = indices = [
     {
         "matter_id": 80,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -1282,7 +1282,7 @@ module.exports = indices = [
     {
         "matter_id": 81,
         "matter_name": "ENGENHARIA DE SOFTWARE I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -1298,7 +1298,7 @@ module.exports = indices = [
     {
         "matter_id": 82,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1314,7 +1314,7 @@ module.exports = indices = [
     {
         "matter_id": 83,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -1330,7 +1330,7 @@ module.exports = indices = [
     {
         "matter_id": 84,
         "matter_name": "FUNDAMENTOS DE ECONOMIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -1346,7 +1346,7 @@ module.exports = indices = [
     {
         "matter_id": 85,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -1362,7 +1362,7 @@ module.exports = indices = [
     {
         "matter_id": 86,
         "matter_name": "GERENCIAMENTO DE PROJETO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -1378,7 +1378,7 @@ module.exports = indices = [
     {
         "matter_id": 87,
         "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -1394,7 +1394,7 @@ module.exports = indices = [
     {
         "matter_id": 88,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -1410,7 +1410,7 @@ module.exports = indices = [
     {
         "matter_id": 89,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -1426,7 +1426,7 @@ module.exports = indices = [
     {
         "matter_id": 90,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -1442,7 +1442,7 @@ module.exports = indices = [
     {
         "matter_id": 91,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -1458,7 +1458,7 @@ module.exports = indices = [
     {
         "matter_id": 92,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -1474,7 +1474,7 @@ module.exports = indices = [
     {
         "matter_id": 93,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -1490,7 +1490,7 @@ module.exports = indices = [
     {
         "matter_id": 94,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -1506,7 +1506,7 @@ module.exports = indices = [
     {
         "matter_id": 95,
         "matter_name": "QUALIDADE DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -1522,7 +1522,7 @@ module.exports = indices = [
     {
         "matter_id": 96,
         "matter_name": "REDES DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -1538,7 +1538,7 @@ module.exports = indices = [
     {
         "matter_id": 97,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -1554,7 +1554,7 @@ module.exports = indices = [
     {
         "matter_id": 98,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -1570,7 +1570,7 @@ module.exports = indices = [
     {
         "matter_id": 99,
         "matter_name": "TOPICOS AVANCADOS EM TECNOLOGIAS WEB",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -1586,7 +1586,7 @@ module.exports = indices = [
     {
         "matter_id": 100,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -1602,7 +1602,7 @@ module.exports = indices = [
     {
         "matter_id": 101,
         "matter_name": "ARQUITETURA E ORGANIZACAO DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -1618,7 +1618,7 @@ module.exports = indices = [
     {
         "matter_id": 102,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -1634,7 +1634,7 @@ module.exports = indices = [
     {
         "matter_id": 103,
         "matter_name": "DATA WAREHOUSE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -1650,7 +1650,7 @@ module.exports = indices = [
     {
         "matter_id": 104,
         "matter_name": "DESENVOLVIMENTO WEB II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -1666,7 +1666,7 @@ module.exports = indices = [
     {
         "matter_id": 105,
         "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -1682,7 +1682,7 @@ module.exports = indices = [
     {
         "matter_id": 106,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -1697,8 +1697,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 107,
-        "matter_name": "Algoritimos e Programacao de computadores",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ALGORITIMOS E PROGRAMACAO DE COMPUTADORES",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -1713,8 +1713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 108,
-        "matter_name": "Banco de Dados II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -1729,8 +1729,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 109,
-        "matter_name": "Desenvolvimento Web I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1745,8 +1745,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 110,
-        "matter_name": "Engenharia de Software II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -1761,8 +1761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 111,
-        "matter_name": "Estatistica",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTATISTICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1777,8 +1777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 112,
-        "matter_name": "Ingles Instrumental ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "INGLES INSTRUMENTAL",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -1793,8 +1793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 113,
-        "matter_name": "Introducao a Tecnologia da Informacao ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1809,8 +1809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 114,
-        "matter_name": "Matematica aplicada a sistemas de informacao ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -1825,8 +1825,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 115,
-        "matter_name": "Matematica Discreta",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MATEMATICA DISCRETA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -1841,8 +1841,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 116,
-        "matter_name": "Programacao Orientada a Objetos II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -1857,8 +1857,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 117,
-        "matter_name": "Redes de computadores I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -1873,8 +1873,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 118,
-        "matter_name": "Redes sem fio",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES SEM FIO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -1889,8 +1889,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 119,
-        "matter_name": "Servicos de redes",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SERVICOS DE REDES",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -1905,8 +1905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 120,
-        "matter_name": "Sistemas Operacionais ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SISTEMAS OPERACIONAIS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -1921,8 +1921,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 121,
-        "matter_name": "Tecnicas de comunicacao ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TECNICAS DE COMUNICACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -1937,8 +1937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 122,
-        "matter_name": "Teoria Geral de sistema",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TEORIA GERAL DE SISTEMA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -1953,8 +1953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 123,
-        "matter_name": "Arquitetura de computadores",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ARQUITETURA DE COMPUTADORES",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -1969,8 +1969,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 124,
-        "matter_name": "Banco de dados I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 54,
@@ -1985,8 +1985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 125,
-        "matter_name": "Desenvolvimento web II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -2001,8 +2001,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 126,
-        "matter_name": "Economia aplicada a tecnologia ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -2017,8 +2017,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 127,
-        "matter_name": "Emgenharia de software I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2033,8 +2033,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 128,
-        "matter_name": "Estrutura de dados",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTRUTURA DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -2049,8 +2049,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 129,
-        "matter_name": "Fundamentos de Sistemas de informacao ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -2065,8 +2065,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 130,
-        "matter_name": "Ingles Instrumental ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "INGLES INSTRUMENTAL",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -2081,8 +2081,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 131,
-        "matter_name": "Legislacao e etica na informatica",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2097,8 +2097,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 132,
-        "matter_name": "Metodologia Cientifica",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "METODOLOGIA CIENTIFICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -2113,8 +2113,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 133,
-        "matter_name": "Pesquisa Operacional ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PESQUISA OPERACIONAL",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -2129,8 +2129,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 134,
-        "matter_name": "Probabilidade",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROBABILIDADE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -2145,8 +2145,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 135,
-        "matter_name": "Qualidade de sotware ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -2161,8 +2161,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 136,
-        "matter_name": "Redes de Computadores II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2177,8 +2177,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 137,
-        "matter_name": "Seguranca da informacao ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -2193,8 +2193,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 138,
-        "matter_name": "Sociologia e Informatica",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SOCIOLOGIA E INFORMATICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -2209,8 +2209,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 139,
-        "matter_name": "Teoria Geral de Administracao",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2226,7 +2226,7 @@ module.exports = indices = [
     {
         "matter_id": 140,
         "matter_name": "ALGORITIMOS E PROGRAMACAO DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -2242,7 +2242,7 @@ module.exports = indices = [
     {
         "matter_id": 141,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -2258,7 +2258,7 @@ module.exports = indices = [
     {
         "matter_id": 142,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -2274,7 +2274,7 @@ module.exports = indices = [
     {
         "matter_id": 143,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -2290,7 +2290,7 @@ module.exports = indices = [
     {
         "matter_id": 144,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -2306,7 +2306,7 @@ module.exports = indices = [
     {
         "matter_id": 145,
         "matter_name": "ESPECIAL- ESTRUTURA DE DADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -2322,7 +2322,7 @@ module.exports = indices = [
     {
         "matter_id": 146,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -2338,7 +2338,7 @@ module.exports = indices = [
     {
         "matter_id": 147,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -2354,7 +2354,7 @@ module.exports = indices = [
     {
         "matter_id": 148,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -2370,7 +2370,7 @@ module.exports = indices = [
     {
         "matter_id": 149,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -2386,7 +2386,7 @@ module.exports = indices = [
     {
         "matter_id": 150,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -2402,7 +2402,7 @@ module.exports = indices = [
     {
         "matter_id": 151,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -2418,7 +2418,7 @@ module.exports = indices = [
     {
         "matter_id": 152,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -2434,7 +2434,7 @@ module.exports = indices = [
     {
         "matter_id": 153,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -2450,7 +2450,7 @@ module.exports = indices = [
     {
         "matter_id": 154,
         "matter_name": "OPTATIVA I-SISTEMAS DISTRIBUIDOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -2466,7 +2466,7 @@ module.exports = indices = [
     {
         "matter_id": 155,
         "matter_name": "OPTATIVA II-GESTAO DO CONHECIMENTO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -2482,7 +2482,7 @@ module.exports = indices = [
     {
         "matter_id": 156,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -2498,7 +2498,7 @@ module.exports = indices = [
     {
         "matter_id": 157,
         "matter_name": "REDES DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -2514,7 +2514,7 @@ module.exports = indices = [
     {
         "matter_id": 158,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -2530,7 +2530,7 @@ module.exports = indices = [
     {
         "matter_id": 159,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -2546,7 +2546,7 @@ module.exports = indices = [
     {
         "matter_id": 160,
         "matter_name": "TECNICAS DE COMUNICACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -2562,7 +2562,7 @@ module.exports = indices = [
     {
         "matter_id": 161,
         "matter_name": "TEORIAS GERAL DE SISTEMAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -2578,7 +2578,7 @@ module.exports = indices = [
     {
         "matter_id": 162,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -2594,7 +2594,7 @@ module.exports = indices = [
     {
         "matter_id": 163,
         "matter_name": "ARQUITETURA DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2610,7 +2610,7 @@ module.exports = indices = [
     {
         "matter_id": 164,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -2625,8 +2625,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 165,
-        "matter_name": "DESENVOLVIMENTO WEB II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -2641,8 +2641,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 166,
-        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -2657,8 +2657,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 167,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -2673,8 +2673,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 168,
-        "matter_name": "ENGENHARIA DE SOFTWARE I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -2690,7 +2690,7 @@ module.exports = indices = [
     {
         "matter_id": 169,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -2705,8 +2705,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 170,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -2721,8 +2721,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 171,
-        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -2738,7 +2738,7 @@ module.exports = indices = [
     {
         "matter_id": 172,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -2753,8 +2753,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 173,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -2769,8 +2769,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 174,
-        "matter_name": "METODOLOGIA CIENTIFICA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "METODOLOGIA CIENTIFICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -2786,7 +2786,7 @@ module.exports = indices = [
     {
         "matter_id": 175,
         "matter_name": "OPTATIVA III",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -2802,7 +2802,7 @@ module.exports = indices = [
     {
         "matter_id": 176,
         "matter_name": "OPTATIVA IV",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -2818,7 +2818,7 @@ module.exports = indices = [
     {
         "matter_id": 177,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -2833,8 +2833,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 178,
-        "matter_name": "PESQUISA OPERACIONAL ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PESQUISA OPERACIONAL",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -2850,7 +2850,7 @@ module.exports = indices = [
     {
         "matter_id": 179,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -2865,8 +2865,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 180,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -2881,8 +2881,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 181,
-        "matter_name": "QUALIDADE DE SOFTWARE ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOFTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -2897,8 +2897,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 182,
-        "matter_name": "REDES DE COMPUTADORES II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -2914,7 +2914,7 @@ module.exports = indices = [
     {
         "matter_id": 183,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -2930,7 +2930,7 @@ module.exports = indices = [
     {
         "matter_id": 184,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -2946,7 +2946,7 @@ module.exports = indices = [
     {
         "matter_id": 185,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -2962,7 +2962,7 @@ module.exports = indices = [
     {
         "matter_id": 186,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II (150H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -2978,7 +2978,7 @@ module.exports = indices = [
     {
         "matter_id": 467,
         "matter_name": "CALCULO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -2994,7 +2994,7 @@ module.exports = indices = [
     {
         "matter_id": 187,
         "matter_name": "ALGORTIMOS E LOGICA DE PROGRAMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -3010,7 +3010,7 @@ module.exports = indices = [
     {
         "matter_id": 188,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -3025,8 +3025,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 189,
-        "matter_name": "BANCO DE DADOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -3042,7 +3042,7 @@ module.exports = indices = [
     {
         "matter_id": 190,
         "matter_name": "DESENVOLVIMENTO WEB I (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -3058,7 +3058,7 @@ module.exports = indices = [
     {
         "matter_id": 191,
         "matter_name": "ENGENHARIA DE SOFTWARES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -3074,7 +3074,7 @@ module.exports = indices = [
     {
         "matter_id": 192,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -3090,7 +3090,7 @@ module.exports = indices = [
     {
         "matter_id": 193,
         "matter_name": "GERENCIA DE DADOS SEMI- ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -3106,7 +3106,7 @@ module.exports = indices = [
     {
         "matter_id": 194,
         "matter_name": "GERENCIA DE REDES (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -3122,7 +3122,7 @@ module.exports = indices = [
     {
         "matter_id": 195,
         "matter_name": "INGLES INSTRUMENTAL (30H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -3138,7 +3138,7 @@ module.exports = indices = [
     {
         "matter_id": 196,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -3154,7 +3154,7 @@ module.exports = indices = [
     {
         "matter_id": 197,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -3170,7 +3170,7 @@ module.exports = indices = [
     {
         "matter_id": 198,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -3185,8 +3185,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 199,
-        "matter_name": "OPTATIVA I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "OPTATIVA I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -3202,7 +3202,7 @@ module.exports = indices = [
     {
         "matter_id": 200,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -3218,7 +3218,7 @@ module.exports = indices = [
     {
         "matter_id": 201,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -3234,7 +3234,7 @@ module.exports = indices = [
     {
         "matter_id": 202,
         "matter_name": "REDES DE COMPUTADORES I (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -3250,7 +3250,7 @@ module.exports = indices = [
     {
         "matter_id": 203,
         "matter_name": "REDES SEM FIO (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -3266,7 +3266,7 @@ module.exports = indices = [
     {
         "matter_id": 204,
         "matter_name": "SERVICO DE REDES (60H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -3282,7 +3282,7 @@ module.exports = indices = [
     {
         "matter_id": 205,
         "matter_name": "SISTEMAS OPERECIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -3298,7 +3298,7 @@ module.exports = indices = [
     {
         "matter_id": 206,
         "matter_name": "TECNICAS DE COMUNICACAO (30H)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -3313,8 +3313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 207,
-        "matter_name": "TEORIA GERAL DE SISTEMAS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TEORIA GERAL DE SISTEMAS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -3329,8 +3329,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 208,
-        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -3345,8 +3345,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 209,
-        "matter_name": "ARQUITETURA DE COMPUTADORES ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ARQUITETURA DE COMPUTADORES",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -3361,8 +3361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 210,
-        "matter_name": "BANCO DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -3378,7 +3378,7 @@ module.exports = indices = [
     {
         "matter_id": 211,
         "matter_name": "DESENVOLVIMENTO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -3393,8 +3393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 212,
-        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -3409,8 +3409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 213,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -3425,8 +3425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 214,
-        "matter_name": "ENGENHARIA DE SOFTWARE I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -3441,8 +3441,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 215,
-        "matter_name": "ESTRUTURA DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTRUTURA DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -3458,7 +3458,7 @@ module.exports = indices = [
     {
         "matter_id": 216,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -3473,8 +3473,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 217,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -3489,8 +3489,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 218,
-        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -3506,7 +3506,7 @@ module.exports = indices = [
     {
         "matter_id": 219,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -3521,8 +3521,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 220,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -3537,8 +3537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 221,
-        "matter_name": "METODOLOGIA CIENTIFICA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "METODOLOGIA CIENTIFICA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -3554,7 +3554,7 @@ module.exports = indices = [
     {
         "matter_id": 222,
         "matter_name": "OPTATIVA III",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -3570,7 +3570,7 @@ module.exports = indices = [
     {
         "matter_id": 223,
         "matter_name": "OPTATIVA IV",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -3586,7 +3586,7 @@ module.exports = indices = [
     {
         "matter_id": 224,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -3602,7 +3602,7 @@ module.exports = indices = [
     {
         "matter_id": 225,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -3618,7 +3618,7 @@ module.exports = indices = [
     {
         "matter_id": 226,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -3633,8 +3633,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 227,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -3649,8 +3649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 228,
-        "matter_name": "QUALIDADE DE SOFTWARE ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOFTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -3665,8 +3665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 229,
-        "matter_name": "REDES DE COMPUTADORES II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -3681,8 +3681,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 230,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -3698,7 +3698,7 @@ module.exports = indices = [
     {
         "matter_id": 468,
         "matter_name": "CALCULO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -3714,7 +3714,7 @@ module.exports = indices = [
     {
         "matter_id": 231,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -3730,7 +3730,7 @@ module.exports = indices = [
     {
         "matter_id": 232,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -3746,7 +3746,7 @@ module.exports = indices = [
     {
         "matter_id": 233,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -3762,7 +3762,7 @@ module.exports = indices = [
     {
         "matter_id": 234,
         "matter_name": "ALGORITMOS E PROGRAMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -3778,7 +3778,7 @@ module.exports = indices = [
     {
         "matter_id": 235,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -3794,7 +3794,7 @@ module.exports = indices = [
     {
         "matter_id": 236,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -3810,7 +3810,7 @@ module.exports = indices = [
     {
         "matter_id": 237,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -3826,7 +3826,7 @@ module.exports = indices = [
     {
         "matter_id": 238,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -3842,7 +3842,7 @@ module.exports = indices = [
     {
         "matter_id": 239,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -3858,7 +3858,7 @@ module.exports = indices = [
     {
         "matter_id": 240,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -3874,7 +3874,7 @@ module.exports = indices = [
     {
         "matter_id": 241,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -3890,7 +3890,7 @@ module.exports = indices = [
     {
         "matter_id": 242,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -3906,7 +3906,7 @@ module.exports = indices = [
     {
         "matter_id": 243,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -3922,7 +3922,7 @@ module.exports = indices = [
     {
         "matter_id": 244,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -3938,7 +3938,7 @@ module.exports = indices = [
     {
         "matter_id": 245,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -3954,7 +3954,7 @@ module.exports = indices = [
     {
         "matter_id": 246,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -3970,7 +3970,7 @@ module.exports = indices = [
     {
         "matter_id": 247,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -3986,7 +3986,7 @@ module.exports = indices = [
     {
         "matter_id": 248,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -4001,8 +4001,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 249,
-        "matter_name": "REDES DE COMPUTADORES ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -4018,7 +4018,7 @@ module.exports = indices = [
     {
         "matter_id": 250,
         "matter_name": "REDES SEM FIO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -4034,7 +4034,7 @@ module.exports = indices = [
     {
         "matter_id": 251,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -4050,7 +4050,7 @@ module.exports = indices = [
     {
         "matter_id": 252,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -4066,7 +4066,7 @@ module.exports = indices = [
     {
         "matter_id": 253,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -4082,7 +4082,7 @@ module.exports = indices = [
     {
         "matter_id": 254,
         "matter_name": "TECNICAS DE COMUNICACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -4098,7 +4098,7 @@ module.exports = indices = [
     {
         "matter_id": 255,
         "matter_name": "TEORIA GERAL DE SISTEMAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -4114,7 +4114,7 @@ module.exports = indices = [
     {
         "matter_id": 256,
         "matter_name": "ARQUITETURA DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -4129,8 +4129,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 257,
-        "matter_name": "BANCO DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -4145,8 +4145,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 258,
-        "matter_name": "DESENVOLVIMENTO WEB II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -4161,8 +4161,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 259,
-        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -4177,8 +4177,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 260,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -4193,8 +4193,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 261,
-        "matter_name": "ENGENHARIA DE SOFTWARE I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -4209,8 +4209,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 262,
-        "matter_name": "ESTRUTURA DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTRUTURA DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -4226,7 +4226,7 @@ module.exports = indices = [
     {
         "matter_id": 263,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -4241,8 +4241,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 264,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -4257,8 +4257,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 265,
-        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -4274,7 +4274,7 @@ module.exports = indices = [
     {
         "matter_id": 266,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -4289,8 +4289,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 267,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -4306,7 +4306,7 @@ module.exports = indices = [
     {
         "matter_id": 268,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -4322,7 +4322,7 @@ module.exports = indices = [
     {
         "matter_id": 269,
         "matter_name": "OPTATIVA III",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -4338,7 +4338,7 @@ module.exports = indices = [
     {
         "matter_id": 270,
         "matter_name": "OPTATIVA IV",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -4354,7 +4354,7 @@ module.exports = indices = [
     {
         "matter_id": 271,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -4370,7 +4370,7 @@ module.exports = indices = [
     {
         "matter_id": 272,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -4385,8 +4385,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 273,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -4402,7 +4402,7 @@ module.exports = indices = [
     {
         "matter_id": 274,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -4417,8 +4417,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 275,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -4433,8 +4433,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 276,
-        "matter_name": "QUALIDADE DE SOFTWARE ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOFTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -4449,8 +4449,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 277,
-        "matter_name": "REDES DE COMPUTADORES II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -4466,7 +4466,7 @@ module.exports = indices = [
     {
         "matter_id": 278,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -4482,7 +4482,7 @@ module.exports = indices = [
     {
         "matter_id": 279,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -4497,8 +4497,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 280,
-        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -4514,7 +4514,7 @@ module.exports = indices = [
     {
         "matter_id": 281,
         "matter_name": "ALGORITMO E PROGRAMACAO DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -4530,7 +4530,7 @@ module.exports = indices = [
     {
         "matter_id": 282,
         "matter_name": "ALGORITMO E PROGRAMACAO DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -4546,7 +4546,7 @@ module.exports = indices = [
     {
         "matter_id": 283,
         "matter_name": "ALGORITMO E PROGRAMACAO DE COMPUTADORES (ESPECIAL)",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -4562,7 +4562,7 @@ module.exports = indices = [
     {
         "matter_id": 284,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -4578,7 +4578,7 @@ module.exports = indices = [
     {
         "matter_id": 285,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -4594,7 +4594,7 @@ module.exports = indices = [
     {
         "matter_id": 286,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -4610,7 +4610,7 @@ module.exports = indices = [
     {
         "matter_id": 287,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -4626,7 +4626,7 @@ module.exports = indices = [
     {
         "matter_id": 288,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -4642,7 +4642,7 @@ module.exports = indices = [
     {
         "matter_id": 289,
         "matter_name": "ESTRUTURA DE DADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 4,
@@ -4658,7 +4658,7 @@ module.exports = indices = [
     {
         "matter_id": 290,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -4674,7 +4674,7 @@ module.exports = indices = [
     {
         "matter_id": 291,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -4690,7 +4690,7 @@ module.exports = indices = [
     {
         "matter_id": 292,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -4706,7 +4706,7 @@ module.exports = indices = [
     {
         "matter_id": 293,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -4722,7 +4722,7 @@ module.exports = indices = [
     {
         "matter_id": 294,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -4738,7 +4738,7 @@ module.exports = indices = [
     {
         "matter_id": 295,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -4754,7 +4754,7 @@ module.exports = indices = [
     {
         "matter_id": 296,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -4770,7 +4770,7 @@ module.exports = indices = [
     {
         "matter_id": 297,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -4786,7 +4786,7 @@ module.exports = indices = [
     {
         "matter_id": 298,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -4802,7 +4802,7 @@ module.exports = indices = [
     {
         "matter_id": 299,
         "matter_name": "REDES DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -4818,7 +4818,7 @@ module.exports = indices = [
     {
         "matter_id": 300,
         "matter_name": "REDES SEM FIO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -4834,7 +4834,7 @@ module.exports = indices = [
     {
         "matter_id": 301,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -4850,7 +4850,7 @@ module.exports = indices = [
     {
         "matter_id": 302,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -4866,7 +4866,7 @@ module.exports = indices = [
     {
         "matter_id": 303,
         "matter_name": "TECNICAS DE COMUNICACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -4882,7 +4882,7 @@ module.exports = indices = [
     {
         "matter_id": 304,
         "matter_name": "TEORIA GERAL DE SISTEMAS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -4898,7 +4898,7 @@ module.exports = indices = [
     {
         "matter_id": 305,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -4914,7 +4914,7 @@ module.exports = indices = [
     {
         "matter_id": 306,
         "matter_name": "ARQUITETURA DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -4929,8 +4929,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 307,
-        "matter_name": "BANCO DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "BANCO DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -4945,8 +4945,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 308,
-        "matter_name": "DESENVOLVIMENTO WEB II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "DESENVOLVIMENTO WEB II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -4961,8 +4961,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 309,
-        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -4977,8 +4977,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 310,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -4993,8 +4993,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 311,
-        "matter_name": "ENGENHARIA DE SOFTWARE I ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ENGENHARIA DE SOFTWARE I",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -5009,8 +5009,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 312,
-        "matter_name": "ESTRUTURA DE DADOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "ESTRUTURA DE DADOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -5026,7 +5026,7 @@ module.exports = indices = [
     {
         "matter_id": 313,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -5041,8 +5041,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 314,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -5057,8 +5057,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 315,
-        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -5074,7 +5074,7 @@ module.exports = indices = [
     {
         "matter_id": 316,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -5089,8 +5089,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 317,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -5106,7 +5106,7 @@ module.exports = indices = [
     {
         "matter_id": 318,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -5122,7 +5122,7 @@ module.exports = indices = [
     {
         "matter_id": 319,
         "matter_name": "OPTATIVA III",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -5138,7 +5138,7 @@ module.exports = indices = [
     {
         "matter_id": 320,
         "matter_name": "OPTATIVA IV",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -5154,7 +5154,7 @@ module.exports = indices = [
     {
         "matter_id": 321,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -5170,7 +5170,7 @@ module.exports = indices = [
     {
         "matter_id": 322,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -5186,7 +5186,7 @@ module.exports = indices = [
     {
         "matter_id": 323,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -5201,8 +5201,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 324,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -5217,8 +5217,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 325,
-        "matter_name": "QUALIDADE DE SOFTWARE ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "QUALIDADE DE SOFTWARE",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -5233,8 +5233,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 326,
-        "matter_name": "REDES DE COMPUTADORES II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "REDES DE COMPUTADORES II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -5249,8 +5249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 327,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -5266,7 +5266,7 @@ module.exports = indices = [
     {
         "matter_id": 328,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -5282,7 +5282,7 @@ module.exports = indices = [
     {
         "matter_id": 329,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -5298,7 +5298,7 @@ module.exports = indices = [
     {
         "matter_id": 330,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -5313,8 +5313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 331,
-        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II ",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -5330,7 +5330,7 @@ module.exports = indices = [
     {
         "matter_id": 332,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -5346,7 +5346,7 @@ module.exports = indices = [
     {
         "matter_id": 333,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -5362,7 +5362,7 @@ module.exports = indices = [
     {
         "matter_id": 334,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -5378,7 +5378,7 @@ module.exports = indices = [
     {
         "matter_id": 335,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -5394,7 +5394,7 @@ module.exports = indices = [
     {
         "matter_id": 336,
         "matter_name": "ARQUITETURA DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -5410,7 +5410,7 @@ module.exports = indices = [
     {
         "matter_id": 337,
         "matter_name": "ESTRUTURA DE DADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -5426,7 +5426,7 @@ module.exports = indices = [
     {
         "matter_id": 338,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -5442,7 +5442,7 @@ module.exports = indices = [
     {
         "matter_id": 339,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -5458,7 +5458,7 @@ module.exports = indices = [
     {
         "matter_id": 340,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -5474,7 +5474,7 @@ module.exports = indices = [
     {
         "matter_id": 341,
         "matter_name": "REDES DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -5490,7 +5490,7 @@ module.exports = indices = [
     {
         "matter_id": 342,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -5506,7 +5506,7 @@ module.exports = indices = [
     {
         "matter_id": 343,
         "matter_name": "ENGENHARIA DE SOFTWARE I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -5522,7 +5522,7 @@ module.exports = indices = [
     {
         "matter_id": 344,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -5538,7 +5538,7 @@ module.exports = indices = [
     {
         "matter_id": 345,
         "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -5554,7 +5554,7 @@ module.exports = indices = [
     {
         "matter_id": 346,
         "matter_name": "QUALIDADE DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -5570,7 +5570,7 @@ module.exports = indices = [
     {
         "matter_id": 347,
         "matter_name": "DESENVOLVIMENTO WEB II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -5586,7 +5586,7 @@ module.exports = indices = [
     {
         "matter_id": 348,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -5602,7 +5602,7 @@ module.exports = indices = [
     {
         "matter_id": 349,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -5618,7 +5618,7 @@ module.exports = indices = [
     {
         "matter_id": 350,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -5634,7 +5634,7 @@ module.exports = indices = [
     {
         "matter_id": 351,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -5650,7 +5650,7 @@ module.exports = indices = [
     {
         "matter_id": 352,
         "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -5666,7 +5666,7 @@ module.exports = indices = [
     {
         "matter_id": 353,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -5682,7 +5682,7 @@ module.exports = indices = [
     {
         "matter_id": 354,
         "matter_name": "GERENCIAMENTO DE PROJETO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -5698,7 +5698,7 @@ module.exports = indices = [
     {
         "matter_id": 355,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -5714,7 +5714,7 @@ module.exports = indices = [
     {
         "matter_id": 356,
         "matter_name": "CIDADES INTELIGENTES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -5730,7 +5730,7 @@ module.exports = indices = [
     {
         "matter_id": 357,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -5746,7 +5746,7 @@ module.exports = indices = [
     {
         "matter_id": 358,
         "matter_name": "FUNDAMENTOS DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -5762,7 +5762,7 @@ module.exports = indices = [
     {
         "matter_id": 359,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -5778,7 +5778,7 @@ module.exports = indices = [
     {
         "matter_id": 360,
         "matter_name": "GERENCIA DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -5794,7 +5794,7 @@ module.exports = indices = [
     {
         "matter_id": 361,
         "matter_name": "INTRODUCAO A TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -5810,7 +5810,7 @@ module.exports = indices = [
     {
         "matter_id": 362,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -5826,7 +5826,7 @@ module.exports = indices = [
     {
         "matter_id": 363,
         "matter_name": "MATEMATICA APLICADA A SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -5842,7 +5842,7 @@ module.exports = indices = [
     {
         "matter_id": 364,
         "matter_name": "MATEMATICA FUNDAMENTAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -5858,7 +5858,7 @@ module.exports = indices = [
     {
         "matter_id": 365,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -5874,7 +5874,7 @@ module.exports = indices = [
     {
         "matter_id": 366,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -5890,7 +5890,7 @@ module.exports = indices = [
     {
         "matter_id": 367,
         "matter_name": "REDES DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -5906,7 +5906,7 @@ module.exports = indices = [
     {
         "matter_id": 368,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -5922,7 +5922,7 @@ module.exports = indices = [
     {
         "matter_id": 369,
         "matter_name": "REDES SEM FIO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -5938,7 +5938,7 @@ module.exports = indices = [
     {
         "matter_id": 370,
         "matter_name": "SERVICOS DE REDES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -5954,7 +5954,7 @@ module.exports = indices = [
     {
         "matter_id": 371,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -5970,7 +5970,7 @@ module.exports = indices = [
     {
         "matter_id": 372,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -5986,7 +5986,7 @@ module.exports = indices = [
     {
         "matter_id": 373,
         "matter_name": "ANALISE E PROJETO DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -6002,7 +6002,7 @@ module.exports = indices = [
     {
         "matter_id": 374,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -6018,7 +6018,7 @@ module.exports = indices = [
     {
         "matter_id": 375,
         "matter_name": "CIDADES INTELIGENTES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -6034,7 +6034,7 @@ module.exports = indices = [
     {
         "matter_id": 376,
         "matter_name": "DESENVOLVIMENTO WEB I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -6050,7 +6050,7 @@ module.exports = indices = [
     {
         "matter_id": 377,
         "matter_name": "DESIGN THINKING EM PROJETOS DE INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -6066,7 +6066,7 @@ module.exports = indices = [
     {
         "matter_id": 378,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -6082,7 +6082,7 @@ module.exports = indices = [
     {
         "matter_id": 379,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -6098,7 +6098,7 @@ module.exports = indices = [
     {
         "matter_id": 380,
         "matter_name": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -6114,7 +6114,7 @@ module.exports = indices = [
     {
         "matter_id": 381,
         "matter_name": "GERENCIAMENTO DE PROJETO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -6130,7 +6130,7 @@ module.exports = indices = [
     {
         "matter_id": 382,
         "matter_name": "GOVERNANCA DE TECNOLOGIA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -6146,7 +6146,7 @@ module.exports = indices = [
     {
         "matter_id": 383,
         "matter_name": "LEGISLACAO E ETICA NA INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -6162,7 +6162,7 @@ module.exports = indices = [
     {
         "matter_id": 384,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -6178,7 +6178,7 @@ module.exports = indices = [
     {
         "matter_id": 385,
         "matter_name": "MATEMATICA DISCRETA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -6194,7 +6194,7 @@ module.exports = indices = [
     {
         "matter_id": 386,
         "matter_name": "PESQUISA EM INFORMATICA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -6210,7 +6210,7 @@ module.exports = indices = [
     {
         "matter_id": 387,
         "matter_name": "PESQUISA OPERACIONAL",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -6226,7 +6226,7 @@ module.exports = indices = [
     {
         "matter_id": 388,
         "matter_name": "PROBABILIDADE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -6242,7 +6242,7 @@ module.exports = indices = [
     {
         "matter_id": 389,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -6258,7 +6258,7 @@ module.exports = indices = [
     {
         "matter_id": 390,
         "matter_name": "ALGORITMOS E PROGRAMACAO DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -6274,7 +6274,7 @@ module.exports = indices = [
     {
         "matter_id": 391,
         "matter_name": "PROGRAMACAO PARA BOLSA DE VALORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -6290,7 +6290,7 @@ module.exports = indices = [
     {
         "matter_id": 392,
         "matter_name": "QUALIDADE DE SOFTWARE",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -6306,7 +6306,7 @@ module.exports = indices = [
     {
         "matter_id": 393,
         "matter_name": "REDES DE COMPUTADORES II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -6322,7 +6322,7 @@ module.exports = indices = [
     {
         "matter_id": 394,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -6338,7 +6338,7 @@ module.exports = indices = [
     {
         "matter_id": 395,
         "matter_name": "TEORIA GERAL DE ADMINISTRACAO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -6354,7 +6354,7 @@ module.exports = indices = [
     {
         "matter_id": 396,
         "matter_name": "TRABALHO DE CONCLUSAO DE CURSO II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -6370,7 +6370,7 @@ module.exports = indices = [
     {
         "matter_id": 397,
         "matter_name": "ARQUITETURA E ORGANIZACAO DE COMPUTADORES",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -6386,7 +6386,7 @@ module.exports = indices = [
     {
         "matter_id": 398,
         "matter_name": "DESENVOLVIMENTO WEB II",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -6402,7 +6402,7 @@ module.exports = indices = [
     {
         "matter_id": 399,
         "matter_name": "ECONOMIA APLICADA A TECNOLOGIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -6418,7 +6418,7 @@ module.exports = indices = [
     {
         "matter_id": 400,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -6434,7 +6434,7 @@ module.exports = indices = [
     {
         "matter_id": 401,
         "matter_name": "ENGENHARIA DE SOFTWARE I",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -6450,7 +6450,7 @@ module.exports = indices = [
     {
         "matter_id": 402,
         "matter_name": "FUNDAMENTOS DE ECONOMIA",
-        "matter_cursor": "Bacharelado em Sistemas de Informacao",
+        "matter_cursor": "BACHARELADO EM SISTEMAS DE INFORMACAO",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -6466,7 +6466,7 @@ module.exports = indices = [
     {
         "matter_id": 403,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -6482,7 +6482,7 @@ module.exports = indices = [
     {
         "matter_id": 404,
         "matter_name": "ESTAGIO SUPERVISIONADO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -6498,7 +6498,7 @@ module.exports = indices = [
     {
         "matter_id": 405,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -6514,7 +6514,7 @@ module.exports = indices = [
     {
         "matter_id": 406,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -6530,7 +6530,7 @@ module.exports = indices = [
     {
         "matter_id": 407,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -6546,7 +6546,7 @@ module.exports = indices = [
     {
         "matter_id": 408,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -6562,7 +6562,7 @@ module.exports = indices = [
     {
         "matter_id": 409,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -6578,7 +6578,7 @@ module.exports = indices = [
     {
         "matter_id": 410,
         "matter_name": "GESTAO EDUCACIONAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -6594,7 +6594,7 @@ module.exports = indices = [
     {
         "matter_id": 411,
         "matter_name": "INTRODUCAO A ALGEBRA MODERNA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -6610,7 +6610,7 @@ module.exports = indices = [
     {
         "matter_id": 412,
         "matter_name": "LABORATORIO DE PRATICA E ENSINO-APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -6626,7 +6626,7 @@ module.exports = indices = [
     {
         "matter_id": 413,
         "matter_name": "LABORATORIO DE PRATICA E ENSINO-APRENDIZAGEM II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -6642,7 +6642,7 @@ module.exports = indices = [
     {
         "matter_id": 414,
         "matter_name": "ANALISE COMBINATORIA E PROBABILIDADES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -6658,7 +6658,7 @@ module.exports = indices = [
     {
         "matter_id": 415,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -6674,7 +6674,7 @@ module.exports = indices = [
     {
         "matter_id": 416,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -6690,7 +6690,7 @@ module.exports = indices = [
     {
         "matter_id": 417,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -6706,7 +6706,7 @@ module.exports = indices = [
     {
         "matter_id": 418,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -6722,7 +6722,7 @@ module.exports = indices = [
     {
         "matter_id": 419,
         "matter_name": "POLITICAS PUBLICAS DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -6738,7 +6738,7 @@ module.exports = indices = [
     {
         "matter_id": 420,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -6754,7 +6754,7 @@ module.exports = indices = [
     {
         "matter_id": 421,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -6770,7 +6770,7 @@ module.exports = indices = [
     {
         "matter_id": 422,
         "matter_name": "CALCULO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -6786,7 +6786,7 @@ module.exports = indices = [
     {
         "matter_id": 423,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -6802,7 +6802,7 @@ module.exports = indices = [
     {
         "matter_id": 424,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -6818,7 +6818,7 @@ module.exports = indices = [
     {
         "matter_id": 425,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -6834,7 +6834,7 @@ module.exports = indices = [
     {
         "matter_id": 426,
         "matter_name": "EDUCACAO INCLUSIVA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -6850,7 +6850,7 @@ module.exports = indices = [
     {
         "matter_id": 427,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -6866,7 +6866,7 @@ module.exports = indices = [
     {
         "matter_id": 428,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -6882,7 +6882,7 @@ module.exports = indices = [
     {
         "matter_id": 429,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -6898,7 +6898,7 @@ module.exports = indices = [
     {
         "matter_id": 430,
         "matter_name": "FUNDAMENTOS DE ANALISE REAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -6914,7 +6914,7 @@ module.exports = indices = [
     {
         "matter_id": 431,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -6930,7 +6930,7 @@ module.exports = indices = [
     {
         "matter_id": 432,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -6946,7 +6946,7 @@ module.exports = indices = [
     {
         "matter_id": 433,
         "matter_name": "HISTORIA DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -6962,7 +6962,7 @@ module.exports = indices = [
     {
         "matter_id": 434,
         "matter_name": "INTRODUCAO AS MEDIDAS DE FISICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -6978,7 +6978,7 @@ module.exports = indices = [
     {
         "matter_id": 435,
         "matter_name": "LIBRAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -6994,7 +6994,7 @@ module.exports = indices = [
     {
         "matter_id": 436,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -7010,7 +7010,7 @@ module.exports = indices = [
     {
         "matter_id": 437,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -7026,7 +7026,7 @@ module.exports = indices = [
     {
         "matter_id": 438,
         "matter_name": "ANALISE COMBINATORIA E PROBABILIDADES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -7042,7 +7042,7 @@ module.exports = indices = [
     {
         "matter_id": 439,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -7058,7 +7058,7 @@ module.exports = indices = [
     {
         "matter_id": 440,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -7074,7 +7074,7 @@ module.exports = indices = [
     {
         "matter_id": 441,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -7090,7 +7090,7 @@ module.exports = indices = [
     {
         "matter_id": 442,
         "matter_name": "TECNOLOGIAS DIGITAIS NO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -7106,7 +7106,7 @@ module.exports = indices = [
     {
         "matter_id": 443,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -7122,7 +7122,7 @@ module.exports = indices = [
     {
         "matter_id": 444,
         "matter_name": "CALCULO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -7138,7 +7138,7 @@ module.exports = indices = [
     {
         "matter_id": 445,
         "matter_name": "CALCULO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -7154,7 +7154,7 @@ module.exports = indices = [
     {
         "matter_id": 446,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -7170,7 +7170,7 @@ module.exports = indices = [
     {
         "matter_id": 447,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -7186,7 +7186,7 @@ module.exports = indices = [
     {
         "matter_id": 448,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -7202,7 +7202,7 @@ module.exports = indices = [
     {
         "matter_id": 449,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -7218,7 +7218,7 @@ module.exports = indices = [
     {
         "matter_id": 450,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -7234,7 +7234,7 @@ module.exports = indices = [
     {
         "matter_id": 451,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -7250,7 +7250,7 @@ module.exports = indices = [
     {
         "matter_id": 452,
         "matter_name": "CALCULO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -7266,7 +7266,7 @@ module.exports = indices = [
     {
         "matter_id": 453,
         "matter_name": "ESTAGIO SUPERVISIONADO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -7282,7 +7282,7 @@ module.exports = indices = [
     {
         "matter_id": 454,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -7298,7 +7298,7 @@ module.exports = indices = [
     {
         "matter_id": 455,
         "matter_name": "FUNDAMENTOS TEORICOS E METODOLOGICOS DA FORMACAO E DA ATUACAO DOCENTE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -7314,7 +7314,7 @@ module.exports = indices = [
     {
         "matter_id": 456,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -7330,7 +7330,7 @@ module.exports = indices = [
     {
         "matter_id": 457,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -7346,7 +7346,7 @@ module.exports = indices = [
     {
         "matter_id": 458,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -7362,7 +7362,7 @@ module.exports = indices = [
     {
         "matter_id": 459,
         "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -7378,7 +7378,7 @@ module.exports = indices = [
     {
         "matter_id": 460,
         "matter_name": "LEITURA E PRODUCAO DE TEXTO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -7394,7 +7394,7 @@ module.exports = indices = [
     {
         "matter_id": 461,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -7410,7 +7410,7 @@ module.exports = indices = [
     {
         "matter_id": 462,
         "matter_name": "METODOLOGIA DO ENSINO DE MATEMATICA NA EDUCACAO BASICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -7426,7 +7426,7 @@ module.exports = indices = [
     {
         "matter_id": 463,
         "matter_name": "METODOLOGIA CIENTIFICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -7442,7 +7442,7 @@ module.exports = indices = [
     {
         "matter_id": 464,
         "matter_name": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -7458,7 +7458,7 @@ module.exports = indices = [
     {
         "matter_id": 465,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -7474,7 +7474,7 @@ module.exports = indices = [
     {
         "matter_id": 466,
         "matter_name": "AVALIACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -7490,7 +7490,7 @@ module.exports = indices = [
     {
         "matter_id": 469,
         "matter_name": "CONCEPCOES EM EDUCACAO MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -7506,7 +7506,7 @@ module.exports = indices = [
     {
         "matter_id": 470,
         "matter_name": "EDUCACAO E MUNDO DO TRABALHO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -7522,7 +7522,7 @@ module.exports = indices = [
     {
         "matter_id": 471,
         "matter_name": "EDUCACAO INCLUSIVA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -7538,7 +7538,7 @@ module.exports = indices = [
     {
         "matter_id": 472,
         "matter_name": "EQUACOES DIFERENCIAS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -7554,7 +7554,7 @@ module.exports = indices = [
     {
         "matter_id": 473,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -7570,7 +7570,7 @@ module.exports = indices = [
     {
         "matter_id": 474,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -7586,7 +7586,7 @@ module.exports = indices = [
     {
         "matter_id": 475,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -7602,7 +7602,7 @@ module.exports = indices = [
     {
         "matter_id": 476,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -7618,7 +7618,7 @@ module.exports = indices = [
     {
         "matter_id": 477,
         "matter_name": "INFORMATICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -7634,7 +7634,7 @@ module.exports = indices = [
     {
         "matter_id": 478,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -7650,7 +7650,7 @@ module.exports = indices = [
     {
         "matter_id": 479,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -7666,7 +7666,7 @@ module.exports = indices = [
     {
         "matter_id": 480,
         "matter_name": "METODOLOGIA DE ENSINO DE MATEMATICA NA EDUCACAO BASICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -7682,7 +7682,7 @@ module.exports = indices = [
     {
         "matter_id": 481,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -7698,7 +7698,7 @@ module.exports = indices = [
     {
         "matter_id": 482,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -7714,7 +7714,7 @@ module.exports = indices = [
     {
         "matter_id": 483,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -7730,7 +7730,7 @@ module.exports = indices = [
     {
         "matter_id": 484,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -7746,7 +7746,7 @@ module.exports = indices = [
     {
         "matter_id": 485,
         "matter_name": "CALCULO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -7762,7 +7762,7 @@ module.exports = indices = [
     {
         "matter_id": 486,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -7778,7 +7778,7 @@ module.exports = indices = [
     {
         "matter_id": 487,
         "matter_name": "EDUCACAO MATEMATICA E TECNOLOGIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -7794,7 +7794,7 @@ module.exports = indices = [
     {
         "matter_id": 488,
         "matter_name": "ESPECIAL-FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -7810,7 +7810,7 @@ module.exports = indices = [
     {
         "matter_id": 489,
         "matter_name": "ESTAGIO SUPERVISIONADO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -7826,7 +7826,7 @@ module.exports = indices = [
     {
         "matter_id": 490,
         "matter_name": "ESTAGIO SUPERVISIONADO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -7842,7 +7842,7 @@ module.exports = indices = [
     {
         "matter_id": 491,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -7858,7 +7858,7 @@ module.exports = indices = [
     {
         "matter_id": 492,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -7874,7 +7874,7 @@ module.exports = indices = [
     {
         "matter_id": 493,
         "matter_name": "FUNDAMENTOS TEORICOS E METODOLOGICOS DA FORMACAO E DA ATUACAO DOCENTE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -7890,7 +7890,7 @@ module.exports = indices = [
     {
         "matter_id": 494,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -7906,7 +7906,7 @@ module.exports = indices = [
     {
         "matter_id": 495,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -7922,7 +7922,7 @@ module.exports = indices = [
     {
         "matter_id": 496,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -7938,7 +7938,7 @@ module.exports = indices = [
     {
         "matter_id": 497,
         "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -7954,7 +7954,7 @@ module.exports = indices = [
     {
         "matter_id": 498,
         "matter_name": "LEITURA E PRODUCAO DE TEXTO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -7970,7 +7970,7 @@ module.exports = indices = [
     {
         "matter_id": 499,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -7986,7 +7986,7 @@ module.exports = indices = [
     {
         "matter_id": 500,
         "matter_name": "METODOLOGIA DO ENSINO DA MATEMATICA NA EDUCACAO BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -8002,7 +8002,7 @@ module.exports = indices = [
     {
         "matter_id": 501,
         "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -8018,7 +8018,7 @@ module.exports = indices = [
     {
         "matter_id": 502,
         "matter_name": "POLITICAS EDUCACIONAIS - ESTRUTURAS E SISTEMAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -8034,7 +8034,7 @@ module.exports = indices = [
     {
         "matter_id": 503,
         "matter_name": "PSICOLOGIA DO DESENVOLVIMENTO E DA APRENDIZAGEM",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -8050,7 +8050,7 @@ module.exports = indices = [
     {
         "matter_id": 504,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -8066,7 +8066,7 @@ module.exports = indices = [
     {
         "matter_id": 505,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -8082,7 +8082,7 @@ module.exports = indices = [
     {
         "matter_id": 506,
         "matter_name": "ANALISE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -8098,7 +8098,7 @@ module.exports = indices = [
     {
         "matter_id": 507,
         "matter_name": "AVALIACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -8114,7 +8114,7 @@ module.exports = indices = [
     {
         "matter_id": 508,
         "matter_name": "CALCULO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -8130,7 +8130,7 @@ module.exports = indices = [
     {
         "matter_id": 509,
         "matter_name": "CALCULO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -8146,7 +8146,7 @@ module.exports = indices = [
     {
         "matter_id": 510,
         "matter_name": "CONCEPCOES EM EDUCACAO MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -8162,7 +8162,7 @@ module.exports = indices = [
     {
         "matter_id": 511,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -8178,7 +8178,7 @@ module.exports = indices = [
     {
         "matter_id": 512,
         "matter_name": "EDUCACAO E MUNDO DO TRABALHO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -8194,7 +8194,7 @@ module.exports = indices = [
     {
         "matter_id": 513,
         "matter_name": "EDUCACAO INCLUSIVA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -8210,7 +8210,7 @@ module.exports = indices = [
     {
         "matter_id": 514,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -8226,7 +8226,7 @@ module.exports = indices = [
     {
         "matter_id": 515,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -8242,7 +8242,7 @@ module.exports = indices = [
     {
         "matter_id": 516,
         "matter_name": "ESTATISTICA E PROBABILIDADE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -8258,7 +8258,7 @@ module.exports = indices = [
     {
         "matter_id": 517,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -8274,7 +8274,7 @@ module.exports = indices = [
     {
         "matter_id": 518,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -8290,7 +8290,7 @@ module.exports = indices = [
     {
         "matter_id": 519,
         "matter_name": "INFORMACAO BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -8306,7 +8306,7 @@ module.exports = indices = [
     {
         "matter_id": 520,
         "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -8322,7 +8322,7 @@ module.exports = indices = [
     {
         "matter_id": 521,
         "matter_name": "LIBRAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -8338,7 +8338,7 @@ module.exports = indices = [
     {
         "matter_id": 522,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -8354,7 +8354,7 @@ module.exports = indices = [
     {
         "matter_id": 523,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -8370,7 +8370,7 @@ module.exports = indices = [
     {
         "matter_id": 524,
         "matter_name": "METODOLOGIA DE ENSINO DA MATEMATICA NA EDUCACAO BASICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -8386,7 +8386,7 @@ module.exports = indices = [
     {
         "matter_id": 525,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -8402,7 +8402,7 @@ module.exports = indices = [
     {
         "matter_id": 526,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -8418,7 +8418,7 @@ module.exports = indices = [
     {
         "matter_id": 527,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -8434,7 +8434,7 @@ module.exports = indices = [
     {
         "matter_id": 528,
         "matter_name": "CALCULO DIFERENCIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -8450,7 +8450,7 @@ module.exports = indices = [
     {
         "matter_id": 529,
         "matter_name": "CALCULO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -8466,7 +8466,7 @@ module.exports = indices = [
     {
         "matter_id": 530,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -8482,7 +8482,7 @@ module.exports = indices = [
     {
         "matter_id": 531,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -8498,7 +8498,7 @@ module.exports = indices = [
     {
         "matter_id": 532,
         "matter_name": "EDUCACAO MATEMATICA E TECNOLOGIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -8514,7 +8514,7 @@ module.exports = indices = [
     {
         "matter_id": 533,
         "matter_name": "ESTAGIO SUPERVISIONADO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -8530,7 +8530,7 @@ module.exports = indices = [
     {
         "matter_id": 534,
         "matter_name": "ESTAGIO SUPERVISIONADO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -8546,7 +8546,7 @@ module.exports = indices = [
     {
         "matter_id": 535,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -8562,7 +8562,7 @@ module.exports = indices = [
     {
         "matter_id": 536,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -8578,7 +8578,7 @@ module.exports = indices = [
     {
         "matter_id": 537,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -8594,7 +8594,7 @@ module.exports = indices = [
     {
         "matter_id": 538,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -8610,7 +8610,7 @@ module.exports = indices = [
     {
         "matter_id": 539,
         "matter_name": "LABORATORIO DE PRATICA DE ENS. APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -8626,7 +8626,7 @@ module.exports = indices = [
     {
         "matter_id": 540,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -8642,7 +8642,7 @@ module.exports = indices = [
     {
         "matter_id": 541,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -8658,7 +8658,7 @@ module.exports = indices = [
     {
         "matter_id": 542,
         "matter_name": "METODOLOGIA DO ENSINO DEMATEMATICA NA ED. BAS. II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -8674,7 +8674,7 @@ module.exports = indices = [
     {
         "matter_id": 543,
         "matter_name": "POLITICAS EDUCACIONAIS - ESTRUTURAS E SISTEMAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -8689,8 +8689,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 544,
-        "matter_name": "PSICOLOGIA ED - DESENVOLVIMENTO E APRENDIZAGEM ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "PSICOLOGIA ED - DESENVOLVIMENTO E APRENDIZAGEM",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -8706,7 +8706,7 @@ module.exports = indices = [
     {
         "matter_id": 545,
         "matter_name": "SOCIOLOGIA DA EDUCACAO (30 H)",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -8722,7 +8722,7 @@ module.exports = indices = [
     {
         "matter_id": 546,
         "matter_name": "TECNOLOGIAS DO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -8738,7 +8738,7 @@ module.exports = indices = [
     {
         "matter_id": 547,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -8754,7 +8754,7 @@ module.exports = indices = [
     {
         "matter_id": 548,
         "matter_name": "ANALISE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -8770,7 +8770,7 @@ module.exports = indices = [
     {
         "matter_id": 549,
         "matter_name": "CALCULO INTEGRAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -8786,7 +8786,7 @@ module.exports = indices = [
     {
         "matter_id": 550,
         "matter_name": "CALCULO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -8802,7 +8802,7 @@ module.exports = indices = [
     {
         "matter_id": 551,
         "matter_name": "DIDATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -8818,7 +8818,7 @@ module.exports = indices = [
     {
         "matter_id": 552,
         "matter_name": "EDUCACAO INCLUSIVA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -8834,7 +8834,7 @@ module.exports = indices = [
     {
         "matter_id": 553,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -8850,7 +8850,7 @@ module.exports = indices = [
     {
         "matter_id": 554,
         "matter_name": "ESP. FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -8866,7 +8866,7 @@ module.exports = indices = [
     {
         "matter_id": 555,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -8882,7 +8882,7 @@ module.exports = indices = [
     {
         "matter_id": 556,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -8898,7 +8898,7 @@ module.exports = indices = [
     {
         "matter_id": 557,
         "matter_name": "ESTATISTICA E PROBABILIDADE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -8914,7 +8914,7 @@ module.exports = indices = [
     {
         "matter_id": 558,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -8930,7 +8930,7 @@ module.exports = indices = [
     {
         "matter_id": 559,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -8946,7 +8946,7 @@ module.exports = indices = [
     {
         "matter_id": 560,
         "matter_name": "INTRODUCAO AS MEDIDAS EM FISICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -8962,7 +8962,7 @@ module.exports = indices = [
     {
         "matter_id": 561,
         "matter_name": "LABORATORIO DE PRATICA DE ENS.APRENDIZAGEM II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -8978,7 +8978,7 @@ module.exports = indices = [
     {
         "matter_id": 562,
         "matter_name": "LIBRAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -8994,7 +8994,7 @@ module.exports = indices = [
     {
         "matter_id": 563,
         "matter_name": "LOGICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -9010,7 +9010,7 @@ module.exports = indices = [
     {
         "matter_id": 564,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -9026,7 +9026,7 @@ module.exports = indices = [
     {
         "matter_id": 565,
         "matter_name": "METODOLOGIA DO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -9042,7 +9042,7 @@ module.exports = indices = [
     {
         "matter_id": 566,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -9058,7 +9058,7 @@ module.exports = indices = [
     {
         "matter_id": 666,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -9074,7 +9074,7 @@ module.exports = indices = [
     {
         "matter_id": 567,
         "matter_name": "POLITICAS PUBLICAS EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -9089,8 +9089,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 568,
-        "matter_name": "Algebra linear II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ALGEBRA LINEAR II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -9105,8 +9105,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 569,
-        "matter_name": "Calculo Diferencial ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "CALCULO DIFERENCIAL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -9121,8 +9121,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 570,
-        "matter_name": "Calculo de funcoes de varias variaveis ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -9137,8 +9137,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 571,
-        "matter_name": "Calculos numericos ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "CALCULOS NUMERICOS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -9153,8 +9153,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 572,
-        "matter_name": "Desenho Geometrico ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "DESENHO GEOMETRICO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -9169,8 +9169,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 573,
-        "matter_name": "Educacao matematica e tecnologias",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "EDUCACAO MATEMATICA E TECNOLOGIAS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -9185,8 +9185,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 574,
-        "matter_name": "Especial - Calculo I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESPECIAL - CALCULO I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -9201,8 +9201,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 575,
-        "matter_name": "Especial - Fisica I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESPECIAL - FISICA I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -9217,8 +9217,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 576,
-        "matter_name": "Estagio supervisionado I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADO I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -9233,8 +9233,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 577,
-        "matter_name": "Estagio supervisionado III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADO III",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -9249,8 +9249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 578,
-        "matter_name": "Filosofia da Educacao",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FILOSOFIA DA EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -9265,8 +9265,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 579,
-        "matter_name": "Fisica I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FISICA I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -9281,8 +9281,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 580,
-        "matter_name": "Geometria Plana ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "GEOMETRIA PLANA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -9297,8 +9297,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 581,
-        "matter_name": "Geometria Analitica",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "GEOMETRIA ANALITICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -9313,8 +9313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 582,
-        "matter_name": "Historia da educacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "HISTORIA DA EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -9329,8 +9329,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 583,
-        "matter_name": "Introducao a computacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "INTRODUCAO A COMPUTACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -9345,8 +9345,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 584,
-        "matter_name": "Laboraorio de praticas de ensino ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LABORAORIO DE PRATICAS DE ENSINO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -9361,8 +9361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 585,
-        "matter_name": "Leitura e producao de texto",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LEITURA E PRODUCAO DE TEXTO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -9377,8 +9377,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 586,
-        "matter_name": "Matematica  fundamental 1",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "MATEMATICA  FUNDAMENTAL 1",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -9393,8 +9393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 587,
-        "matter_name": "Pesquisa em educacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "PESQUISA EM EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -9409,8 +9409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 588,
-        "matter_name": "Politicas educacionais",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "POLITICAS EDUCACIONAIS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -9425,8 +9425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 589,
-        "matter_name": "Psicologia educacional desenvolvimento e aprendizagem ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "PSICOLOGIA EDUCACIONAL DESENVOLVIMENTO E APRENDIZAGEM",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -9441,8 +9441,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 590,
-        "matter_name": "Sociologia da educacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "SOCIOLOGIA DA EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -9457,8 +9457,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 591,
-        "matter_name": "Tecnologias no ensino da matematica ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "TECNOLOGIAS NO ENSINO DA MATEMATICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -9473,8 +9473,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 592,
-        "matter_name": "Algebra linear ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ALGEBRA LINEAR",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -9489,8 +9489,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 593,
-        "matter_name": "Analise ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ANALISE",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -9505,8 +9505,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 594,
-        "matter_name": "Calculo integral",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "CALCULO INTEGRAL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -9521,8 +9521,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 595,
-        "matter_name": "Combinatoria e calculo de probabilidades",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "COMBINATORIA E CALCULO DE PROBABILIDADES",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -9537,8 +9537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 596,
-        "matter_name": "Componentes optativas I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "COMPONENTES OPTATIVAS I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -9553,8 +9553,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 597,
-        "matter_name": "Didatica",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "DIDATICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -9569,8 +9569,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 598,
-        "matter_name": "Equacoes diferenciais ordinarias ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -9585,8 +9585,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 599,
-        "matter_name": "Especial - Estagio supervisionado IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESPECIAL - ESTAGIO SUPERVISIONADO IV",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -9601,8 +9601,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 600,
-        "matter_name": "Especial - Fisica II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESPECIAL - FISICA II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -9617,8 +9617,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 601,
-        "matter_name": "Estagio supervisionado II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADO II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -9633,8 +9633,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 602,
-        "matter_name": "Estagio supervisionadao IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADAO IV",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -9649,8 +9649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 603,
-        "matter_name": "Estatistica e probalidade",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTATISTICA E PROBALIDADE",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -9665,8 +9665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 604,
-        "matter_name": "Fisica II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FISICA II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -9681,8 +9681,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 605,
-        "matter_name": "Funcoes reais de uma variavel",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FUNCOES REAIS DE UMA VARIAVEL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -9697,8 +9697,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 606,
-        "matter_name": "Geometria espacial ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "GEOMETRIA ESPACIAL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -9713,8 +9713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 607,
-        "matter_name": "Introducao as medidas em fisica",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "INTRODUCAO AS MEDIDAS EM FISICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -9729,8 +9729,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 608,
-        "matter_name": "Laboratorio de praticas de ensino-aprendizagem II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LABORATORIO DE PRATICAS DE ENSINO-APRENDIZAGEM II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -9745,8 +9745,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 609,
-        "matter_name": "Libras",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LIBRAS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -9761,8 +9761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 610,
-        "matter_name": "Logica",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LOGICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -9777,8 +9777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 611,
-        "matter_name": "Matematica fundamental II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "MATEMATICA FUNDAMENTAL II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -9793,8 +9793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 612,
-        "matter_name": "Metodologia de ensino da matematica ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "METODOLOGIA DE ENSINO DA MATEMATICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -9809,8 +9809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 613,
-        "matter_name": "Politicas Publicas em educacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -9825,8 +9825,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 614,
-        "matter_name": "Sociologia da educacao ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "SOCIOLOGIA DA EDUCACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -9842,7 +9842,7 @@ module.exports = indices = [
     {
         "matter_id": 615,
         "matter_name": "ALGEBRA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -9858,7 +9858,7 @@ module.exports = indices = [
     {
         "matter_id": 616,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -9874,7 +9874,7 @@ module.exports = indices = [
     {
         "matter_id": 617,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -9890,7 +9890,7 @@ module.exports = indices = [
     {
         "matter_id": 667,
         "matter_name": "EQUACOES DIFERENCIAIS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -9905,8 +9905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 618,
-        "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -9922,7 +9922,7 @@ module.exports = indices = [
     {
         "matter_id": 619,
         "matter_name": "CALCULO DIFERENCIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -9938,7 +9938,7 @@ module.exports = indices = [
     {
         "matter_id": 620,
         "matter_name": "CALCULO DIFERENCIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -9953,8 +9953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 621,
-        "matter_name": "COMPONENTES OPTATIVAS II ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "COMPONENTES OPTATIVAS II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -9970,7 +9970,7 @@ module.exports = indices = [
     {
         "matter_id": 622,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -9985,8 +9985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 623,
-        "matter_name": "ESTAGIO SUPERVISIONADO I ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADO I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -10002,7 +10002,7 @@ module.exports = indices = [
     {
         "matter_id": 624,
         "matter_name": "ESTAGIO SUPERVISIONADO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -10018,7 +10018,7 @@ module.exports = indices = [
     {
         "matter_id": 625,
         "matter_name": "ESTATISTICA E TRATAMENTO DA INFORMACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -10033,8 +10033,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 626,
-        "matter_name": "FISICA I ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FISICA I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -10050,7 +10050,7 @@ module.exports = indices = [
     {
         "matter_id": 627,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -10066,7 +10066,7 @@ module.exports = indices = [
     {
         "matter_id": 628,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 47,
@@ -10082,7 +10082,7 @@ module.exports = indices = [
     {
         "matter_id": 629,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -10097,8 +10097,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 630,
-        "matter_name": "INTRODUCAO A COMPUTACAO ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "INTRODUCAO A COMPUTACAO",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -10113,8 +10113,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 631,
-        "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM I ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -10130,7 +10130,7 @@ module.exports = indices = [
     {
         "matter_id": 632,
         "matter_name": "LEITURA E PRODUCAO DE TEXTO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -10145,8 +10145,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 633,
-        "matter_name": "MATEMATICA FUNDAMENTAL I ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "MATEMATICA FUNDAMENTAL I",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -10162,7 +10162,7 @@ module.exports = indices = [
     {
         "matter_id": 634,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -10178,7 +10178,7 @@ module.exports = indices = [
     {
         "matter_id": 635,
         "matter_name": "PSICOLOGIA EDUCACIONAL DESENVOLVIMENTO E APRENDIZAGEM",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -10193,8 +10193,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 636,
-        "matter_name": "TECNOLOGIAS NO ENSINO DA MATEMATICA ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "TECNOLOGIAS NO ENSINO DA MATEMATICA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -10210,7 +10210,7 @@ module.exports = indices = [
     {
         "matter_id": 637,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -10226,7 +10226,7 @@ module.exports = indices = [
     {
         "matter_id": 638,
         "matter_name": "CALCULO INTEGRAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -10241,8 +10241,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 639,
-        "matter_name": "COMBINATORIA E CALCULO DE PROBALIDADES ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "COMBINATORIA E CALCULO DE PROBALIDADES",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -10258,7 +10258,7 @@ module.exports = indices = [
     {
         "matter_id": 640,
         "matter_name": "DIDATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -10273,8 +10273,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 641,
-        "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -10290,7 +10290,7 @@ module.exports = indices = [
     {
         "matter_id": 642,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS  ESPECIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -10306,7 +10306,7 @@ module.exports = indices = [
     {
         "matter_id": 643,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -10321,8 +10321,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 644,
-        "matter_name": "ESTAGIO SUPERVISIONADO IV  ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "ESTAGIO SUPERVISIONADO IV",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -10337,8 +10337,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 645,
-        "matter_name": "FILOSOFIA ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FILOSOFIA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -10353,8 +10353,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 646,
-        "matter_name": "FILOSOFIA ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FILOSOFIA",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -10369,8 +10369,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 647,
-        "matter_name": "FISICA II ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "FISICA II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -10386,7 +10386,7 @@ module.exports = indices = [
     {
         "matter_id": 648,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -10401,8 +10401,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 649,
-        "matter_name": "GEOMETRIA ESPACIAL ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "GEOMETRIA ESPACIAL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -10418,7 +10418,7 @@ module.exports = indices = [
     {
         "matter_id": 650,
         "matter_name": "HISTORIA DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -10434,7 +10434,7 @@ module.exports = indices = [
     {
         "matter_id": 651,
         "matter_name": "INTRODUCAO A ANALISE REAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -10450,7 +10450,7 @@ module.exports = indices = [
     {
         "matter_id": 652,
         "matter_name": "INTRODUCAO AS MEDIDAS DE FISICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -10465,8 +10465,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 653,
-        "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM II  ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -10482,7 +10482,7 @@ module.exports = indices = [
     {
         "matter_id": 654,
         "matter_name": "LIBRAS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -10498,7 +10498,7 @@ module.exports = indices = [
     {
         "matter_id": 655,
         "matter_name": "LOGICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -10513,8 +10513,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 656,
-        "matter_name": "MATEMATICA FUNDAMENTAL II ",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "MATEMATICA FUNDAMENTAL II",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -10530,7 +10530,7 @@ module.exports = indices = [
     {
         "matter_id": 657,
         "matter_name": "METODOLOGIA DO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -10546,7 +10546,7 @@ module.exports = indices = [
     {
         "matter_id": 658,
         "matter_name": "POLITICAS PUBLICAS EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -10562,7 +10562,7 @@ module.exports = indices = [
     {
         "matter_id": 659,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -10578,7 +10578,7 @@ module.exports = indices = [
     {
         "matter_id": 660,
         "matter_name": "ALGEBRA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -10594,7 +10594,7 @@ module.exports = indices = [
     {
         "matter_id": 661,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -10610,7 +10610,7 @@ module.exports = indices = [
     {
         "matter_id": 662,
         "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -10626,7 +10626,7 @@ module.exports = indices = [
     {
         "matter_id": 663,
         "matter_name": "CALCULO DIFERENCIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -10642,7 +10642,7 @@ module.exports = indices = [
     {
         "matter_id": 664,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -10658,7 +10658,7 @@ module.exports = indices = [
     {
         "matter_id": 665,
         "matter_name": "COMPONENTES OPTATIVAS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -10674,7 +10674,7 @@ module.exports = indices = [
     {
         "matter_id": 668,
         "matter_name": "ESTAGIO SUPERVISIONADO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -10690,7 +10690,7 @@ module.exports = indices = [
     {
         "matter_id": 669,
         "matter_name": "ESTAGIO SUPERVISIONADO III TURMA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 4,
@@ -10706,7 +10706,7 @@ module.exports = indices = [
     {
         "matter_id": 670,
         "matter_name": "ESTAGIO SUPERVISIONADO III TURMA IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -10722,7 +10722,7 @@ module.exports = indices = [
     {
         "matter_id": 671,
         "matter_name": "ESTATISTICA E TRATAMENTO DA INFORMACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -10738,7 +10738,7 @@ module.exports = indices = [
     {
         "matter_id": 672,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -10754,7 +10754,7 @@ module.exports = indices = [
     {
         "matter_id": 673,
         "matter_name": "FUNCOES REAIS VARIAVEL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 48,
@@ -10770,7 +10770,7 @@ module.exports = indices = [
     {
         "matter_id": 674,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -10786,7 +10786,7 @@ module.exports = indices = [
     {
         "matter_id": 675,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -10802,7 +10802,7 @@ module.exports = indices = [
     {
         "matter_id": 676,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -10818,7 +10818,7 @@ module.exports = indices = [
     {
         "matter_id": 677,
         "matter_name": "LABORATORIO DE ENSINO APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -10833,8 +10833,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 678,
-        "matter_name": " LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -10850,7 +10850,7 @@ module.exports = indices = [
     {
         "matter_id": 679,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -10866,7 +10866,7 @@ module.exports = indices = [
     {
         "matter_id": 680,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -10882,7 +10882,7 @@ module.exports = indices = [
     {
         "matter_id": 681,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -10898,7 +10898,7 @@ module.exports = indices = [
     {
         "matter_id": 682,
         "matter_name": "PSICOLOGIA EDUCACIONAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -10914,7 +10914,7 @@ module.exports = indices = [
     {
         "matter_id": 683,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -10930,7 +10930,7 @@ module.exports = indices = [
     {
         "matter_id": 684,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -10946,7 +10946,7 @@ module.exports = indices = [
     {
         "matter_id": 685,
         "matter_name": "CALCULO DE FUNCOES VARIAS VARIAVEIS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -10962,7 +10962,7 @@ module.exports = indices = [
     {
         "matter_id": 686,
         "matter_name": "CALCULO DIFERENCIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -10978,7 +10978,7 @@ module.exports = indices = [
     {
         "matter_id": 687,
         "matter_name": "CALCULO INTEGRAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -10994,7 +10994,7 @@ module.exports = indices = [
     {
         "matter_id": 688,
         "matter_name": "COMBINATORIA CALCULO DE PROBALIDADE",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -11010,7 +11010,7 @@ module.exports = indices = [
     {
         "matter_id": 689,
         "matter_name": "DIDATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -11026,7 +11026,7 @@ module.exports = indices = [
     {
         "matter_id": 690,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -11042,7 +11042,7 @@ module.exports = indices = [
     {
         "matter_id": 691,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -11058,7 +11058,7 @@ module.exports = indices = [
     {
         "matter_id": 692,
         "matter_name": "ESTAGIO SUPERVISIONADO IV T1",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -11074,7 +11074,7 @@ module.exports = indices = [
     {
         "matter_id": 693,
         "matter_name": "ESTAGIO SUPERVISIONADO IV T2",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -11090,7 +11090,7 @@ module.exports = indices = [
     {
         "matter_id": 694,
         "matter_name": "FILOSOFIA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -11106,7 +11106,7 @@ module.exports = indices = [
     {
         "matter_id": 695,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -11122,7 +11122,7 @@ module.exports = indices = [
     {
         "matter_id": 696,
         "matter_name": "FUNCOES REAIS VARIAVEL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -11138,7 +11138,7 @@ module.exports = indices = [
     {
         "matter_id": 697,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -11154,7 +11154,7 @@ module.exports = indices = [
     {
         "matter_id": 698,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -11170,7 +11170,7 @@ module.exports = indices = [
     {
         "matter_id": 699,
         "matter_name": "HISTORIA DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -11186,7 +11186,7 @@ module.exports = indices = [
     {
         "matter_id": 700,
         "matter_name": "INTRODUCAO A ANALISE REAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -11202,7 +11202,7 @@ module.exports = indices = [
     {
         "matter_id": 701,
         "matter_name": "INTRODUCAO AS MEDIDAS DE FISICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -11218,7 +11218,7 @@ module.exports = indices = [
     {
         "matter_id": 702,
         "matter_name": "LABORATORIO PRATICA ENSINO-APRENDIZAGEM",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -11234,7 +11234,7 @@ module.exports = indices = [
     {
         "matter_id": 703,
         "matter_name": "LIBRAS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -11250,7 +11250,7 @@ module.exports = indices = [
     {
         "matter_id": 704,
         "matter_name": "LIBRAS II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -11266,7 +11266,7 @@ module.exports = indices = [
     {
         "matter_id": 705,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -11282,7 +11282,7 @@ module.exports = indices = [
     {
         "matter_id": 706,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -11298,7 +11298,7 @@ module.exports = indices = [
     {
         "matter_id": 707,
         "matter_name": "METODOLOGIA ENSINO MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -11314,7 +11314,7 @@ module.exports = indices = [
     {
         "matter_id": 708,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -11330,7 +11330,7 @@ module.exports = indices = [
     {
         "matter_id": 709,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -11346,7 +11346,7 @@ module.exports = indices = [
     {
         "matter_id": 710,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -11362,7 +11362,7 @@ module.exports = indices = [
     {
         "matter_id": 711,
         "matter_name": "PESQUISA EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -11378,7 +11378,7 @@ module.exports = indices = [
     {
         "matter_id": 712,
         "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -11394,7 +11394,7 @@ module.exports = indices = [
     {
         "matter_id": 713,
         "matter_name": "ESTAGIO SUPERVISIONADO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -11410,7 +11410,7 @@ module.exports = indices = [
     {
         "matter_id": 714,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -11426,7 +11426,7 @@ module.exports = indices = [
     {
         "matter_id": 715,
         "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -11442,7 +11442,7 @@ module.exports = indices = [
     {
         "matter_id": 716,
         "matter_name": "ESTATISTICA E TRATAMENTO DA INFORMACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -11458,7 +11458,7 @@ module.exports = indices = [
     {
         "matter_id": 717,
         "matter_name": "COMPONENTES OPTATIVAS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -11474,7 +11474,7 @@ module.exports = indices = [
     {
         "matter_id": 718,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -11490,7 +11490,7 @@ module.exports = indices = [
     {
         "matter_id": 719,
         "matter_name": "ESTAGIO SUPERVISIONADO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -11506,7 +11506,7 @@ module.exports = indices = [
     {
         "matter_id": 720,
         "matter_name": "ALGEBRA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -11522,7 +11522,7 @@ module.exports = indices = [
     {
         "matter_id": 721,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -11538,7 +11538,7 @@ module.exports = indices = [
     {
         "matter_id": 722,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -11554,7 +11554,7 @@ module.exports = indices = [
     {
         "matter_id": 723,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -11570,7 +11570,7 @@ module.exports = indices = [
     {
         "matter_id": 724,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -11586,7 +11586,7 @@ module.exports = indices = [
     {
         "matter_id": 725,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -11602,7 +11602,7 @@ module.exports = indices = [
     {
         "matter_id": 726,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -11618,7 +11618,7 @@ module.exports = indices = [
     {
         "matter_id": 727,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -11634,7 +11634,7 @@ module.exports = indices = [
     {
         "matter_id": 728,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -11650,7 +11650,7 @@ module.exports = indices = [
     {
         "matter_id": 729,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -11666,7 +11666,7 @@ module.exports = indices = [
     {
         "matter_id": 730,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -11682,7 +11682,7 @@ module.exports = indices = [
     {
         "matter_id": 731,
         "matter_name": "ANALISE COMBINATORIA E PROBABILIDADES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -11698,7 +11698,7 @@ module.exports = indices = [
     {
         "matter_id": 732,
         "matter_name": "INTRODUCAO A ASTRONOMIA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -11714,7 +11714,7 @@ module.exports = indices = [
     {
         "matter_id": 733,
         "matter_name": "LABORATORIO DE PRATICA DE ENSINO-APRENDIZAGEM II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -11730,7 +11730,7 @@ module.exports = indices = [
     {
         "matter_id": 734,
         "matter_name": "LIBRAS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -11746,7 +11746,7 @@ module.exports = indices = [
     {
         "matter_id": 735,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -11762,7 +11762,7 @@ module.exports = indices = [
     {
         "matter_id": 736,
         "matter_name": "COMBINATORIA E CALCULO DE PROBABILIDADES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -11778,7 +11778,7 @@ module.exports = indices = [
     {
         "matter_id": 737,
         "matter_name": "FILOSOFIA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -11794,7 +11794,7 @@ module.exports = indices = [
     {
         "matter_id": 738,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -11810,7 +11810,7 @@ module.exports = indices = [
     {
         "matter_id": 739,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -11826,7 +11826,7 @@ module.exports = indices = [
     {
         "matter_id": 740,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -11842,7 +11842,7 @@ module.exports = indices = [
     {
         "matter_id": 741,
         "matter_name": "INTRODUCAO A ANALISE REAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -11858,7 +11858,7 @@ module.exports = indices = [
     {
         "matter_id": 742,
         "matter_name": "HISTORIA DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -11874,7 +11874,7 @@ module.exports = indices = [
     {
         "matter_id": 743,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -11890,7 +11890,7 @@ module.exports = indices = [
     {
         "matter_id": 744,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -11906,7 +11906,7 @@ module.exports = indices = [
     {
         "matter_id": 745,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -11922,7 +11922,7 @@ module.exports = indices = [
     {
         "matter_id": 746,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -11938,7 +11938,7 @@ module.exports = indices = [
     {
         "matter_id": 747,
         "matter_name": "CALCULO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -11954,7 +11954,7 @@ module.exports = indices = [
     {
         "matter_id": 748,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -11970,7 +11970,7 @@ module.exports = indices = [
     {
         "matter_id": 749,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -11986,7 +11986,7 @@ module.exports = indices = [
     {
         "matter_id": 750,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -12002,7 +12002,7 @@ module.exports = indices = [
     {
         "matter_id": 751,
         "matter_name": "TECNOLOGIAS DIGITAIS NO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -12018,7 +12018,7 @@ module.exports = indices = [
     {
         "matter_id": 752,
         "matter_name": "ALGEBRA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -12034,7 +12034,7 @@ module.exports = indices = [
     {
         "matter_id": 753,
         "matter_name": "DESENHO GEOMETRICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 47,
@@ -12050,7 +12050,7 @@ module.exports = indices = [
     {
         "matter_id": 754,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -12066,7 +12066,7 @@ module.exports = indices = [
     {
         "matter_id": 755,
         "matter_name": "EDUCACAO INCLUSIVA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -12082,7 +12082,7 @@ module.exports = indices = [
     {
         "matter_id": 756,
         "matter_name": "EQUACOES DIFERENCIAIS ORDINARIAS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -12098,7 +12098,7 @@ module.exports = indices = [
     {
         "matter_id": 757,
         "matter_name": "ESTAGIO SUPERVISIONADO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -12114,7 +12114,7 @@ module.exports = indices = [
     {
         "matter_id": 758,
         "matter_name": "ESTATISTICA E TRATAMENTO DA INFORMACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -12130,7 +12130,7 @@ module.exports = indices = [
     {
         "matter_id": 759,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -12146,7 +12146,7 @@ module.exports = indices = [
     {
         "matter_id": 760,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -12162,7 +12162,7 @@ module.exports = indices = [
     {
         "matter_id": 761,
         "matter_name": "GEOMETRIA ANALITICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -12178,7 +12178,7 @@ module.exports = indices = [
     {
         "matter_id": 762,
         "matter_name": "GEOMETRIA PLANA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 48,
@@ -12194,7 +12194,7 @@ module.exports = indices = [
     {
         "matter_id": 763,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -12210,7 +12210,7 @@ module.exports = indices = [
     {
         "matter_id": 764,
         "matter_name": "LABORATORIO DE PRATICA E ENSINO-APRENDIZAGEM I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -12226,7 +12226,7 @@ module.exports = indices = [
     {
         "matter_id": 765,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -12242,7 +12242,7 @@ module.exports = indices = [
     {
         "matter_id": 766,
         "matter_name": "LOGICA BASICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -12258,7 +12258,7 @@ module.exports = indices = [
     {
         "matter_id": 767,
         "matter_name": "MATEMATICA FUNDAMENTAL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 51,
@@ -12274,7 +12274,7 @@ module.exports = indices = [
     {
         "matter_id": 768,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -12290,7 +12290,7 @@ module.exports = indices = [
     {
         "matter_id": 769,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -12306,7 +12306,7 @@ module.exports = indices = [
     {
         "matter_id": 770,
         "matter_name": "SOCIOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 46,
@@ -12322,7 +12322,7 @@ module.exports = indices = [
     {
         "matter_id": 771,
         "matter_name": "ANALISE COMBINATORIA E PROBABILIDADES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -12338,7 +12338,7 @@ module.exports = indices = [
     {
         "matter_id": 772,
         "matter_name": "CALCULO DE FUNCOES DE VARIAS VARIAVEIS",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -12354,7 +12354,7 @@ module.exports = indices = [
     {
         "matter_id": 773,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -12370,7 +12370,7 @@ module.exports = indices = [
     {
         "matter_id": 774,
         "matter_name": "CALCULO III",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -12386,7 +12386,7 @@ module.exports = indices = [
     {
         "matter_id": 775,
         "matter_name": "CALCULO INTEGRAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -12402,7 +12402,7 @@ module.exports = indices = [
     {
         "matter_id": 776,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -12418,7 +12418,7 @@ module.exports = indices = [
     {
         "matter_id": 777,
         "matter_name": "ALGEBRA LINEAR COMPUTACIONAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -12434,7 +12434,7 @@ module.exports = indices = [
     {
         "matter_id": 778,
         "matter_name": "ESTAGIO SUPERVISIONADO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -12450,7 +12450,7 @@ module.exports = indices = [
     {
         "matter_id": 779,
         "matter_name": "ESTAGIO SUPERVISIONADO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -12466,7 +12466,7 @@ module.exports = indices = [
     {
         "matter_id": 780,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -12482,7 +12482,7 @@ module.exports = indices = [
     {
         "matter_id": 781,
         "matter_name": "FISICA I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -12498,7 +12498,7 @@ module.exports = indices = [
     {
         "matter_id": 782,
         "matter_name": "FISICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 6,
@@ -12514,7 +12514,7 @@ module.exports = indices = [
     {
         "matter_id": 783,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -12530,7 +12530,7 @@ module.exports = indices = [
     {
         "matter_id": 784,
         "matter_name": "FUNCOES REAIS DE UMA VARIAVEL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -12546,7 +12546,7 @@ module.exports = indices = [
     {
         "matter_id": 785,
         "matter_name": "GEOMETRIA ESPACIAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -12562,7 +12562,7 @@ module.exports = indices = [
     {
         "matter_id": 786,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -12578,7 +12578,7 @@ module.exports = indices = [
     {
         "matter_id": 787,
         "matter_name": "HISTORIA DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -12594,7 +12594,7 @@ module.exports = indices = [
     {
         "matter_id": 788,
         "matter_name": "ALGEBRA LINEAR I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -12610,7 +12610,7 @@ module.exports = indices = [
     {
         "matter_id": 789,
         "matter_name": "INTRODUCAO A ANALISE REAL",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -12626,7 +12626,7 @@ module.exports = indices = [
     {
         "matter_id": 790,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -12642,7 +12642,7 @@ module.exports = indices = [
     {
         "matter_id": 791,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -12658,7 +12658,7 @@ module.exports = indices = [
     {
         "matter_id": 792,
         "matter_name": "MATEMATICA FUNDAMENTAL II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -12674,7 +12674,7 @@ module.exports = indices = [
     {
         "matter_id": 793,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -12690,7 +12690,7 @@ module.exports = indices = [
     {
         "matter_id": 794,
         "matter_name": "PESQUISA E PROCESSO EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -12706,7 +12706,7 @@ module.exports = indices = [
     {
         "matter_id": 795,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -12722,7 +12722,7 @@ module.exports = indices = [
     {
         "matter_id": 796,
         "matter_name": "TECNOLOGIAS DIGITAIS NO ENSINO DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -12738,7 +12738,7 @@ module.exports = indices = [
     {
         "matter_id": 797,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -12754,7 +12754,7 @@ module.exports = indices = [
     {
         "matter_id": 798,
         "matter_name": "ALGEBRA LINEAR II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -12770,7 +12770,7 @@ module.exports = indices = [
     {
         "matter_id": 799,
         "matter_name": "CALCULO I",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -12786,7 +12786,7 @@ module.exports = indices = [
     {
         "matter_id": 800,
         "matter_name": "CALCULO II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -12802,7 +12802,7 @@ module.exports = indices = [
     {
         "matter_id": 801,
         "matter_name": "CALCULO IV",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -12818,7 +12818,7 @@ module.exports = indices = [
     {
         "matter_id": 802,
         "matter_name": "CALCULO NUMERICO",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -12834,7 +12834,7 @@ module.exports = indices = [
     {
         "matter_id": 803,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Matematica",
+        "matter_cursor": "LICENCIATURA EM MATEMATICA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -12849,8 +12849,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 804,
-        "matter_name": "Antropologia (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -12865,8 +12865,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 805,
-        "matter_name": "Corpo e Movimento (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "CORPO E MOVIMENTO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -12881,8 +12881,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 806,
-        "matter_name": "Educacao e Direitos Humanos (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -12897,8 +12897,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 807,
-        "matter_name": "Filosofia e Educacao (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FILOSOFIA E EDUCACAO (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -12913,8 +12913,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 808,
-        "matter_name": "Historia e Educacao (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "HISTORIA E EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -12929,8 +12929,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 809,
-        "matter_name": "Infancia e Educacao (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "INFANCIA E EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -12945,8 +12945,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 810,
-        "matter_name": "Leitura e Producao Textual (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -12961,8 +12961,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 811,
-        "matter_name": "Linguistica (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LINGUISTICA (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -12977,8 +12977,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 812,
-        "matter_name": "Pedagogia e Profissao Docente (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -12993,8 +12993,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 813,
-        "matter_name": "Pesquisa e Processos Educativos (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -13009,8 +13009,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 814,
-        "matter_name": "Pesquisa e Processos Educativos (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -13025,8 +13025,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 815,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -13041,8 +13041,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 816,
-        "matter_name": "DIDATICA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -13057,8 +13057,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 817,
-        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -13073,8 +13073,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 818,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -13089,8 +13089,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 819,
-        "matter_name": "JOGOS, BRINQUEDO E BRINCADEIRA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "JOGOS, BRINQUEDO E BRINCADEIRA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -13105,8 +13105,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 820,
-        "matter_name": "LITERATURA E EDUCACAO (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LITERATURA E EDUCACAO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -13121,8 +13121,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 821,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -13137,8 +13137,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 822,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -13153,8 +13153,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 823,
-        "matter_name": "TEORIAS DO DESENVOLVIMENTO E DA APRENDIZAGEM (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS DO DESENVOLVIMENTO E DA APRENDIZAGEM (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -13169,8 +13169,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 824,
-        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARRES (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARRES (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -13185,8 +13185,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 825,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -13201,8 +13201,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 826,
-        "matter_name": "ANTROPOLOGIA (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -13217,8 +13217,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 827,
-        "matter_name": "CORPO E MOVIMENTO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "CORPO E MOVIMENTO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -13233,8 +13233,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 828,
-        "matter_name": "DIDATICA II (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA II (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13249,8 +13249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 829,
-        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -13265,8 +13265,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 830,
-        "matter_name": "ESTAGIO SUPERVISIONADO-EDUCACAO INFANTIL (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO-EDUCACAO INFANTIL (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -13281,8 +13281,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 831,
-        "matter_name": "FILOSOFIA E EDUCACAO (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FILOSOFIA E EDUCACAO (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -13297,8 +13297,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 832,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DE CIENCIAS NATURAIS (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DE CIENCIAS NATURAIS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13313,8 +13313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 833,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA MATEMATICA (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA MATEMATICA (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -13329,8 +13329,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 834,
-        "matter_name": "HISTORIA DA EDUCACAO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "HISTORIA DA EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -13345,8 +13345,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 835,
-        "matter_name": "INFANCIA E EDUCACAO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "INFANCIA E EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -13361,8 +13361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 836,
-        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -13377,8 +13377,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 837,
-        "matter_name": "LINGUISTICA (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LINGUISTICA (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -13393,8 +13393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 838,
-        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE  (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE  (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -13409,8 +13409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 839,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -13425,8 +13425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 840,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -13441,8 +13441,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 841,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13457,8 +13457,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 842,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -13473,8 +13473,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 843,
-        "matter_name": "DIDATICA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -13489,8 +13489,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 844,
-        "matter_name": "EDUCACAO ESPECIAL (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO ESPECIAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -13505,8 +13505,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 845,
-        "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -13521,8 +13521,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 846,
-        "matter_name": "ESTAGIO SUPERVICIONADO-ANOS INICIAIS AO ENSINO FUNDAMENTAL (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVICIONADO-ANOS INICIAIS AO ENSINO FUNDAMENTAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -13537,8 +13537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 847,
-        "matter_name": "FUNDAMENTOS E METODOLOGIAS DA LINGUA PORTUGUESA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS DA LINGUA PORTUGUESA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -13553,8 +13553,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 848,
-        "matter_name": "FUNDAMENTOS E METODOLOGIAS EM ARTES (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS EM ARTES (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -13569,8 +13569,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 849,
-        "matter_name": "FUNDAMENTOS E METODOLOGIAS DAS CIENCIAS SOCIAIS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS DAS CIENCIAS SOCIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -13585,8 +13585,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 850,
-        "matter_name": "JOGOS BRINQUEDO E BRINCADEIRA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "JOGOS BRINQUEDO E BRINCADEIRA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -13601,8 +13601,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 851,
-        "matter_name": "LIBRAS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -13617,8 +13617,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 852,
-        "matter_name": "LITERATURA E EDUCACAO (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LITERATURA E EDUCACAO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -13633,8 +13633,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 853,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -13649,8 +13649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 854,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -13665,8 +13665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 855,
-        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -13681,8 +13681,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 856,
-        "matter_name": "TEORIAS DO DESENVOLVIMENTO E ENSINO APRENDIZAGEM (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS DO DESENVOLVIMENTO E ENSINO APRENDIZAGEM (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -13697,8 +13697,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 857,
-        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -13713,8 +13713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 858,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -13729,8 +13729,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 859,
-        "matter_name": "ANTROPOLOGIA (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -13745,8 +13745,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 860,
-        "matter_name": "CORPO E MOVIMENTO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "CORPO E MOVIMENTO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -13761,8 +13761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 861,
-        "matter_name": "DIDATICA II (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA II (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -13777,8 +13777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 862,
-        "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -13793,8 +13793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 863,
-        "matter_name": "EDUCACAO DE JOVENS E ADULTOS (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO DE JOVENS E ADULTOS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -13809,8 +13809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 864,
-        "matter_name": "EDUCACAOE DIREITOS HUMANOS (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAOE DIREITOS HUMANOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -13825,8 +13825,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 865,
-        "matter_name": "ESTAGIO SUPERVISIONADO-EDUCACAO INFANTIL (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO-EDUCACAO INFANTIL (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13841,8 +13841,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 866,
-        "matter_name": "ESTAGIO SUPERVISIONADO-MODALIDADES EM EDUCACAO BASICA (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO-MODALIDADES EM EDUCACAO BASICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -13857,8 +13857,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 867,
-        "matter_name": "ESTATISTICA (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTATISTICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -13873,8 +13873,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 868,
-        "matter_name": "FILOSOFIA E EDUCACAO (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FILOSOFIA E EDUCACAO (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -13889,8 +13889,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 869,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA CIENCIAS NATURAIS (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA CIENCIAS NATURAIS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13905,8 +13905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 870,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA MATEMATICA (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA MATEMATICA (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -13921,8 +13921,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 871,
-        "matter_name": "GESTAO EDUCACIONAL (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO EDUCACIONAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -13937,8 +13937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 872,
-        "matter_name": "HISTORIA DA EDUCACAO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "HISTORIA DA EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -13953,8 +13953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 873,
-        "matter_name": "INFANCIA E EDUCACAO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "INFANCIA E EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -13969,8 +13969,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 874,
-        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -13985,8 +13985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 875,
-        "matter_name": "LIBRAS (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -14001,8 +14001,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 876,
-        "matter_name": "LINGUISTICA (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LINGUISTICA (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -14017,8 +14017,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 877,
-        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -14033,8 +14033,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 878,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -14049,8 +14049,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 879,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -14065,8 +14065,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 880,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -14081,8 +14081,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 881,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -14097,8 +14097,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 882,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14113,8 +14113,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 883,
-        "matter_name": "DIDATICA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14129,8 +14129,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 884,
-        "matter_name": "EDUCACAO ESPECIAL (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO ESPECIAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -14145,8 +14145,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 885,
-        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -14161,8 +14161,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 886,
-        "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -14177,8 +14177,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 887,
-        "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -14193,8 +14193,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 888,
-        "matter_name": "ETICA E BIOETICA (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ETICA E BIOETICA (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14209,8 +14209,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 889,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14225,8 +14225,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 890,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DAS CIENCIAS SOCIAIS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DAS CIENCIAS SOCIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -14241,8 +14241,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 891,
-        "matter_name": "FUNDAMENTOS E METODOLOGIAS EM ARTES (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS EM ARTES (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -14257,8 +14257,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 892,
-        "matter_name": "GESTAO ESCOLAR (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO ESCOLAR (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14273,8 +14273,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 893,
-        "matter_name": "JOGOS, BRINQUEDOS E BRINCADEIRAS (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "JOGOS, BRINQUEDOS E BRINCADEIRAS (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -14289,8 +14289,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 894,
-        "matter_name": "LIBRAS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14305,8 +14305,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 895,
-        "matter_name": "LITERATURA E EDUCACAO (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LITERATURA E EDUCACAO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -14321,8 +14321,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 896,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -14337,8 +14337,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 897,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14353,8 +14353,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 898,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -14369,8 +14369,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 899,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC II (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC II (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14385,8 +14385,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 900,
-        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -14401,8 +14401,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 901,
-        "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -14417,8 +14417,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 902,
-        "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM EDUCACAO (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM EDUCACAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -14433,8 +14433,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 903,
-        "matter_name": "TEORIA DO DESENVOLVIMENTO DA APRENDIZAGEM (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIA DO DESENVOLVIMENTO DA APRENDIZAGEM (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -14449,8 +14449,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 904,
-        "matter_name": "TEORIAS  EDUCACIONAIS E CURRICULARES (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS  EDUCACIONAIS E CURRICULARES (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -14465,8 +14465,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 905,
-        "matter_name": "Alfabetizacao e letramento (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -14481,8 +14481,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 906,
-        "matter_name": "Antropologia (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -14497,8 +14497,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 907,
-        "matter_name": "Corpo e movimento (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "CORPO E MOVIMENTO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -14513,8 +14513,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 908,
-        "matter_name": "Didatica II (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA II (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -14529,8 +14529,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 909,
-        "matter_name": "Diversidade e inclusao social (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -14545,8 +14545,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 910,
-        "matter_name": "Educacao de jovens e adultos (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO DE JOVENS E ADULTOS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -14561,8 +14561,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 911,
-        "matter_name": "Educacao e direitos humanos (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -14577,8 +14577,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 912,
-        "matter_name": "Estagio supervisionado - educacao infantil (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -14593,8 +14593,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 913,
-        "matter_name": "Estagio supervisionado - modalidades da educacao basica (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADES DA EDUCACAO BASICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -14609,8 +14609,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 914,
-        "matter_name": "Estatistica (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTATISTICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -14625,8 +14625,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 915,
-        "matter_name": "Filosofia e educacao (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FILOSOFIA E EDUCACAO (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -14641,8 +14641,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 916,
-        "matter_name": "Fundamentos e metodologias da matematica (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS DA MATEMATICA (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -14657,8 +14657,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 917,
-        "matter_name": "Fundamentos e metodologias das ciencias naturais (5a fase) ",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS DAS CIENCIAS NATURAIS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -14673,8 +14673,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 918,
-        "matter_name": "Gestao educacional (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO EDUCACIONAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -14689,8 +14689,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 919,
-        "matter_name": "Historia da educacao (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "HISTORIA DA EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -14705,8 +14705,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 920,
-        "matter_name": "Infancia e educacao (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "INFANCIA E EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -14721,8 +14721,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 921,
-        "matter_name": "Leitura e Producao textual (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -14737,8 +14737,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 922,
-        "matter_name": "Libras (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -14753,8 +14753,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 923,
-        "matter_name": "Linguistica (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LINGUISTICA (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -14769,8 +14769,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 924,
-        "matter_name": "Pedagogia e profissao docente (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -14785,8 +14785,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 925,
-        "matter_name": "Pesquisa e processos educativos (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -14801,8 +14801,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 926,
-        "matter_name": "Pesquisa e processos educativos (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -14817,8 +14817,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 927,
-        "matter_name": "Pesquisa e processos ecucativos (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS ECUCATIVOS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -14833,8 +14833,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 928,
-        "matter_name": "Pesquisa e processos educativos TC I (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC I (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -14849,8 +14849,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 929,
-        "matter_name": "Alfabetizacao e letramento (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -14865,8 +14865,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 930,
-        "matter_name": "Didatica (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -14881,8 +14881,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 931,
-        "matter_name": "Educacao especial (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO ESPECIAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -14897,8 +14897,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 932,
-        "matter_name": "Educacao Trabalho e sociedade (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -14913,8 +14913,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 933,
-        "matter_name": "Estagio supervisionado - anos iniciais do ensino fundamental (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS DO ENSINO FUNDAMENTAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -14929,8 +14929,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 934,
-        "matter_name": "Estagio supervisionado - gestao (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -14945,8 +14945,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 935,
-        "matter_name": "Etica e bioetica (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ETICA E BIOETICA (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -14961,8 +14961,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 936,
-        "matter_name": "Fundamentos e metodologia das ciencias sociais (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DAS CIENCIAS SOCIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -14977,8 +14977,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 937,
-        "matter_name": "Fundamentos e metodologia da lingua portuguesa (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -14993,8 +14993,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 938,
-        "matter_name": "Fundamentos e metodologia em artes (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA EM ARTES (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -15009,8 +15009,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 939,
-        "matter_name": "Gestao escolar (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO ESCOLAR (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -15025,8 +15025,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 940,
-        "matter_name": "Jogos brinquedo e brincadeira (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "JOGOS BRINQUEDO E BRINCADEIRA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -15041,8 +15041,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 941,
-        "matter_name": "Libras (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -15057,8 +15057,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 942,
-        "matter_name": "Literatura e educacao (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LITERATURA E EDUCACAO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -15073,8 +15073,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 943,
-        "matter_name": "Pesquisa e processos educativos (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -15089,8 +15089,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 944,
-        "matter_name": "Pesquisa e processos educativos (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -15105,8 +15105,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 945,
-        "matter_name": "Pesquisa e processos educativos (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -15121,8 +15121,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 946,
-        "matter_name": "Pesquisa e processos educativos TC ll (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC LL (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -15137,8 +15137,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 947,
-        "matter_name": "Politicas publicas em educacao (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -15153,8 +15153,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 948,
-        "matter_name": "Praticas educacionais nao escolares (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -15169,8 +15169,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 949,
-        "matter_name": "Tecnologias da informacao e comunicacao em educacao (8a fase) ",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TECNOLOGIAS DA INFORMACAO E COMUNICACAO EM EDUCACAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -15185,8 +15185,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 950,
-        "matter_name": "Teorias do desenvolvimento da aprendizagem (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS DO DESENVOLVIMENTO DA APRENDIZAGEM (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -15201,8 +15201,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 951,
-        "matter_name": "Teorias educacionais e curriculares (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -15217,8 +15217,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 952,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -15233,8 +15233,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 953,
-        "matter_name": "ANTROPOLOGIA (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -15249,8 +15249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 954,
-        "matter_name": "CORPO E MOVIMENTO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "CORPO E MOVIMENTO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -15265,8 +15265,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 955,
-        "matter_name": "DIDATICA II (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA II (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -15281,8 +15281,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 956,
-        "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -15297,8 +15297,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 957,
-        "matter_name": "EDUCACAO DE JOVENS E ADULTOS (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO DE JOVENS E ADULTOS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -15313,8 +15313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 958,
-        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO E DIREITOS HUMANOS (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -15329,8 +15329,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 959,
-        "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -15345,8 +15345,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 960,
-        "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADES DA EDUCACAO BASICA (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADES DA EDUCACAO BASICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -15361,8 +15361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 961,
-        "matter_name": "ESTATISTICA (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTATISTICA (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -15377,8 +15377,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 962,
-        "matter_name": "FILOSOFIA E EDUCACAO (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FILOSOFIA E EDUCACAO (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -15393,8 +15393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 963,
-        "matter_name": "FUNDAMENTOS  METODOLOGICOS DE MATEMATICA (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS  METODOLOGICOS DE MATEMATICA (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -15409,8 +15409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 964,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DAS CIENCIAS NATURAIS (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DAS CIENCIAS NATURAIS (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -15425,8 +15425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 965,
-        "matter_name": "GESTAO EDUCACIONAL (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO EDUCACIONAL (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -15441,8 +15441,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 966,
-        "matter_name": "HISTORIA DA EDUCACAO (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "HISTORIA DA EDUCACAO (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -15457,8 +15457,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 967,
-        "matter_name": "INFANCIA E EDUCACAO INFANTIL (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "INFANCIA E EDUCACAO INFANTIL (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -15473,8 +15473,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 968,
-        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LEITURA E PRODUCAO TEXTUAL (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -15489,8 +15489,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 969,
-        "matter_name": "LIBRAS (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -15505,8 +15505,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 970,
-        "matter_name": "LINGUISTICA  (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LINGUISTICA  (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -15521,8 +15521,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 971,
-        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -15537,8 +15537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 972,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (1A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -15553,8 +15553,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 973,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (3a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (3A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -15569,8 +15569,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 974,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (5a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (5A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -15585,8 +15585,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 975,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC I (7a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC I (7A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -15601,8 +15601,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 976,
-        "matter_name": "ALFABETIZACAO E LETRAMENTO (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ALFABETIZACAO E LETRAMENTO (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -15617,8 +15617,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 977,
-        "matter_name": "DIDATICA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "DIDATICA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -15633,8 +15633,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 978,
-        "matter_name": "EDUCACAO ESPECIAL (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO ESPECIAL (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -15649,8 +15649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 979,
-        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "EDUCACAO TRABALHO E SOCIEDADE (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -15665,8 +15665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 980,
-        "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -15681,8 +15681,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 981,
-        "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -15697,8 +15697,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 982,
-        "matter_name": "ETICA E BIOETICA (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ETICA E BIOETICA (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -15713,8 +15713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 983,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA DA LINGUA PORTUGUESA (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -15729,8 +15729,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 984,
-        "matter_name": "FUNDAMENTOS E METODOLOGIA EM ARTES (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIA EM ARTES (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -15745,8 +15745,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 985,
-        "matter_name": "FUNDAMENTOS E METODOLOGIAS DAS CIENCIAS SOCIAIS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "FUNDAMENTOS E METODOLOGIAS DAS CIENCIAS SOCIAIS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -15761,8 +15761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 986,
-        "matter_name": "GESTAO ESCOLAR (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO ESCOLAR (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -15777,8 +15777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 987,
-        "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -15793,8 +15793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 988,
-        "matter_name": "LIBRAS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LIBRAS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -15809,8 +15809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 989,
-        "matter_name": "LITERATURA E EDUCACAO (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "LITERATURA E EDUCACAO (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -15825,8 +15825,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 990,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -15841,8 +15841,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 991,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (4a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS  (4A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -15857,8 +15857,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 992,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -15873,8 +15873,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 993,
-        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC II (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS TC II (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -15889,8 +15889,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 994,
-        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "POLITICAS PUBLICAS EM EDUCACAO (6A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -15905,8 +15905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 995,
-        "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -15921,8 +15921,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 996,
-        "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM EDUCACAO (8a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM EDUCACAO (8A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -15937,8 +15937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 997,
-        "matter_name": "TEORIAS DO DESENVOLVIMENTO E DA APRENDIZAGEM (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS DO DESENVOLVIMENTO E DA APRENDIZAGEM (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -15953,8 +15953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 998,
-        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES (2a fase)",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES (2A FASE)",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -15970,7 +15970,7 @@ module.exports = indices = [
     {
         "matter_id": 999,
         "matter_name": "ALFABETIZACAO E LETRAMENTO II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -15985,8 +15985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1000,
-        "matter_name": " ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ANTROPOLOGIA",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -16002,7 +16002,7 @@ module.exports = indices = [
     {
         "matter_id": 1001,
         "matter_name": "CORPO E MOVIMENTO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -16018,7 +16018,7 @@ module.exports = indices = [
     {
         "matter_id": 1002,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16034,7 +16034,7 @@ module.exports = indices = [
     {
         "matter_id": 1003,
         "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -16050,7 +16050,7 @@ module.exports = indices = [
     {
         "matter_id": 1004,
         "matter_name": "EDUCACAO DE JOVENS E ADULTOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16066,7 +16066,7 @@ module.exports = indices = [
     {
         "matter_id": 1005,
         "matter_name": "EDUCACAO E DIREITOS HUMANOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -16081,8 +16081,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1006,
-        "matter_name": " ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -16098,7 +16098,7 @@ module.exports = indices = [
     {
         "matter_id": 1007,
         "matter_name": "ESTAGIO SUPERVISIONADO-MODALIDADE ENSINO BASICO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -16113,8 +16113,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1008,
-        "matter_name": " ESTATISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "ESTATISTICA",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -16130,7 +16130,7 @@ module.exports = indices = [
     {
         "matter_id": 1009,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -16146,7 +16146,7 @@ module.exports = indices = [
     {
         "matter_id": 1010,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DAS CIENCIAS NATURAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -16161,8 +16161,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1011,
-        "matter_name": "GESTAO EDUCACIONAL ",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "GESTAO EDUCACIONAL",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -16178,7 +16178,7 @@ module.exports = indices = [
     {
         "matter_id": 1012,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DA MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -16194,7 +16194,7 @@ module.exports = indices = [
     {
         "matter_id": 1013,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -16210,7 +16210,7 @@ module.exports = indices = [
     {
         "matter_id": 1014,
         "matter_name": "INFANCIA E EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -16226,7 +16226,7 @@ module.exports = indices = [
     {
         "matter_id": 1015,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -16242,7 +16242,7 @@ module.exports = indices = [
     {
         "matter_id": 1016,
         "matter_name": "LIBRAS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -16258,7 +16258,7 @@ module.exports = indices = [
     {
         "matter_id": 1017,
         "matter_name": "LINGUISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -16273,8 +16273,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1018,
-        "matter_name": " PEDAGOGIA E PROFISSAO DOCENTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -16290,7 +16290,7 @@ module.exports = indices = [
     {
         "matter_id": 1019,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -16306,7 +16306,7 @@ module.exports = indices = [
     {
         "matter_id": 1020,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS III",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -16322,7 +16322,7 @@ module.exports = indices = [
     {
         "matter_id": 1021,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS V",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -16338,7 +16338,7 @@ module.exports = indices = [
     {
         "matter_id": 1022,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -16354,7 +16354,7 @@ module.exports = indices = [
     {
         "matter_id": 1023,
         "matter_name": "ALFABETIZACAO E LETRAMENTO I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -16370,7 +16370,7 @@ module.exports = indices = [
     {
         "matter_id": 1024,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -16386,7 +16386,7 @@ module.exports = indices = [
     {
         "matter_id": 1025,
         "matter_name": "EDUCACAO ESPECIAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -16402,7 +16402,7 @@ module.exports = indices = [
     {
         "matter_id": 1026,
         "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -16418,7 +16418,7 @@ module.exports = indices = [
     {
         "matter_id": 1027,
         "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -16434,7 +16434,7 @@ module.exports = indices = [
     {
         "matter_id": 1028,
         "matter_name": "ESTAGIO SUPERVISIONADO EM GESTAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -16450,7 +16450,7 @@ module.exports = indices = [
     {
         "matter_id": 1029,
         "matter_name": "ETICA E BIOETICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -16466,7 +16466,7 @@ module.exports = indices = [
     {
         "matter_id": 1030,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DA ARTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -16482,7 +16482,7 @@ module.exports = indices = [
     {
         "matter_id": 1031,
         "matter_name": "FUNDAMENTOS METODOLOGICOS LINGUA PORTUGUESA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -16498,7 +16498,7 @@ module.exports = indices = [
     {
         "matter_id": 1032,
         "matter_name": "FUNDAMENTOS METODOLOGICOS CIENCIAS SOCIAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -16514,7 +16514,7 @@ module.exports = indices = [
     {
         "matter_id": 1033,
         "matter_name": "GESTAO ESCOLAR",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -16530,7 +16530,7 @@ module.exports = indices = [
     {
         "matter_id": 1034,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -16546,7 +16546,7 @@ module.exports = indices = [
     {
         "matter_id": 1035,
         "matter_name": "INFANCIA E PEDAGOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -16562,7 +16562,7 @@ module.exports = indices = [
     {
         "matter_id": 1036,
         "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -16578,7 +16578,7 @@ module.exports = indices = [
     {
         "matter_id": 1037,
         "matter_name": "LIBRAS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -16594,7 +16594,7 @@ module.exports = indices = [
     {
         "matter_id": 1038,
         "matter_name": "LITERATURA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -16610,7 +16610,7 @@ module.exports = indices = [
     {
         "matter_id": 1039,
         "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -16626,7 +16626,7 @@ module.exports = indices = [
     {
         "matter_id": 1040,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 44,
@@ -16642,7 +16642,7 @@ module.exports = indices = [
     {
         "matter_id": 1041,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -16658,7 +16658,7 @@ module.exports = indices = [
     {
         "matter_id": 1042,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -16674,7 +16674,7 @@ module.exports = indices = [
     {
         "matter_id": 1043,
         "matter_name": "POLITICAS PUBLICAS EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -16690,7 +16690,7 @@ module.exports = indices = [
     {
         "matter_id": 1044,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -16706,7 +16706,7 @@ module.exports = indices = [
     {
         "matter_id": 1045,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -16722,7 +16722,7 @@ module.exports = indices = [
     {
         "matter_id": 1046,
         "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -16738,7 +16738,7 @@ module.exports = indices = [
     {
         "matter_id": 1047,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS V",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -16754,7 +16754,7 @@ module.exports = indices = [
     {
         "matter_id": 1048,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DAS CIENCIAS NATUR",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -16770,7 +16770,7 @@ module.exports = indices = [
     {
         "matter_id": 1049,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -16786,7 +16786,7 @@ module.exports = indices = [
     {
         "matter_id": 1050,
         "matter_name": "ALFABETIZACAO E LETRAMENTO II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -16802,7 +16802,7 @@ module.exports = indices = [
     {
         "matter_id": 1051,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DE MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -16818,7 +16818,7 @@ module.exports = indices = [
     {
         "matter_id": 1052,
         "matter_name": "GESTAO EDUCACIONAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16834,7 +16834,7 @@ module.exports = indices = [
     {
         "matter_id": 1053,
         "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADE EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -16850,7 +16850,7 @@ module.exports = indices = [
     {
         "matter_id": 1054,
         "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADE EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 6,
@@ -16866,7 +16866,7 @@ module.exports = indices = [
     {
         "matter_id": 1055,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16882,7 +16882,7 @@ module.exports = indices = [
     {
         "matter_id": 1056,
         "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16898,7 +16898,7 @@ module.exports = indices = [
     {
         "matter_id": 1057,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -16914,7 +16914,7 @@ module.exports = indices = [
     {
         "matter_id": 1058,
         "matter_name": "EDUCACAO DE JOVENS E ADULTOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -16930,7 +16930,7 @@ module.exports = indices = [
     {
         "matter_id": 1059,
         "matter_name": "LIBRAS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -16946,7 +16946,7 @@ module.exports = indices = [
     {
         "matter_id": 1060,
         "matter_name": "ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -16962,7 +16962,7 @@ module.exports = indices = [
     {
         "matter_id": 1061,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -16978,7 +16978,7 @@ module.exports = indices = [
     {
         "matter_id": 1062,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -16994,7 +16994,7 @@ module.exports = indices = [
     {
         "matter_id": 1063,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -17010,7 +17010,7 @@ module.exports = indices = [
     {
         "matter_id": 1064,
         "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -17026,7 +17026,7 @@ module.exports = indices = [
     {
         "matter_id": 1065,
         "matter_name": "INFANCIA E EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -17042,7 +17042,7 @@ module.exports = indices = [
     {
         "matter_id": 1066,
         "matter_name": "LINGUAGEM, CORPO E MOVIMENTO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -17058,7 +17058,7 @@ module.exports = indices = [
     {
         "matter_id": 1067,
         "matter_name": "LINGUISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -17074,7 +17074,7 @@ module.exports = indices = [
     {
         "matter_id": 1068,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS III",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -17090,7 +17090,7 @@ module.exports = indices = [
     {
         "matter_id": 1069,
         "matter_name": "ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -17106,7 +17106,7 @@ module.exports = indices = [
     {
         "matter_id": 1070,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -17122,7 +17122,7 @@ module.exports = indices = [
     {
         "matter_id": 1071,
         "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -17138,7 +17138,7 @@ module.exports = indices = [
     {
         "matter_id": 1072,
         "matter_name": "LINGUISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -17154,7 +17154,7 @@ module.exports = indices = [
     {
         "matter_id": 1073,
         "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -17170,7 +17170,7 @@ module.exports = indices = [
     {
         "matter_id": 1074,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -17186,7 +17186,7 @@ module.exports = indices = [
     {
         "matter_id": 1075,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DA LINGUA PORT...",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -17202,7 +17202,7 @@ module.exports = indices = [
     {
         "matter_id": 1076,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 3,
@@ -17218,7 +17218,7 @@ module.exports = indices = [
     {
         "matter_id": 1077,
         "matter_name": "LIBRAS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -17234,7 +17234,7 @@ module.exports = indices = [
     {
         "matter_id": 1078,
         "matter_name": "EDUCACAO ESPECIAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -17250,7 +17250,7 @@ module.exports = indices = [
     {
         "matter_id": 1079,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DAS CIENCIAS SOCIAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -17266,7 +17266,7 @@ module.exports = indices = [
     {
         "matter_id": 1080,
         "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS DO ENSINO F.",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -17282,7 +17282,7 @@ module.exports = indices = [
     {
         "matter_id": 1081,
         "matter_name": "FUNDAMENTOS METODOLOGICOS DA ARTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -17298,7 +17298,7 @@ module.exports = indices = [
     {
         "matter_id": 1082,
         "matter_name": "POLITICAS PUBLICAS EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -17314,7 +17314,7 @@ module.exports = indices = [
     {
         "matter_id": 1083,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VI",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -17330,7 +17330,7 @@ module.exports = indices = [
     {
         "matter_id": 1084,
         "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -17346,7 +17346,7 @@ module.exports = indices = [
     {
         "matter_id": 1085,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -17362,7 +17362,7 @@ module.exports = indices = [
     {
         "matter_id": 1086,
         "matter_name": "ETICA E BIOETICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -17378,7 +17378,7 @@ module.exports = indices = [
     {
         "matter_id": 1087,
         "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -17394,7 +17394,7 @@ module.exports = indices = [
     {
         "matter_id": 1088,
         "matter_name": "GESTAO ESCOLAR",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -17410,7 +17410,7 @@ module.exports = indices = [
     {
         "matter_id": 1089,
         "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM ED.",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -17426,7 +17426,7 @@ module.exports = indices = [
     {
         "matter_id": 1090,
         "matter_name": "INFANCIA E PEDAGOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 43,
@@ -17442,7 +17442,7 @@ module.exports = indices = [
     {
         "matter_id": 1091,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -17458,7 +17458,7 @@ module.exports = indices = [
     {
         "matter_id": 1092,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 41,
@@ -17474,7 +17474,7 @@ module.exports = indices = [
     {
         "matter_id": 1093,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -17490,7 +17490,7 @@ module.exports = indices = [
     {
         "matter_id": 1094,
         "matter_name": "ALFABETIZACAO E LETRAMENTO I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -17506,7 +17506,7 @@ module.exports = indices = [
     {
         "matter_id": 1095,
         "matter_name": "FUNDAMENTOS EM MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -17522,7 +17522,7 @@ module.exports = indices = [
     {
         "matter_id": 1096,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -17538,7 +17538,7 @@ module.exports = indices = [
     {
         "matter_id": 1097,
         "matter_name": "ALFABETIZACAO E LETRAMENTO II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -17554,7 +17554,7 @@ module.exports = indices = [
     {
         "matter_id": 1098,
         "matter_name": "ESTAGIO SUPERVISIONADO I - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -17570,7 +17570,7 @@ module.exports = indices = [
     {
         "matter_id": 1099,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -17586,7 +17586,7 @@ module.exports = indices = [
     {
         "matter_id": 1100,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -17602,7 +17602,7 @@ module.exports = indices = [
     {
         "matter_id": 1101,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM CIENCIAS NATURAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -17618,7 +17618,7 @@ module.exports = indices = [
     {
         "matter_id": 1102,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -17634,7 +17634,7 @@ module.exports = indices = [
     {
         "matter_id": 1103,
         "matter_name": "GESTAO EDUCACIONAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -17650,7 +17650,7 @@ module.exports = indices = [
     {
         "matter_id": 1104,
         "matter_name": "INFANCIA E EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -17666,7 +17666,7 @@ module.exports = indices = [
     {
         "matter_id": 1105,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -17682,7 +17682,7 @@ module.exports = indices = [
     {
         "matter_id": 1106,
         "matter_name": "LIBRAS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -17698,7 +17698,7 @@ module.exports = indices = [
     {
         "matter_id": 1107,
         "matter_name": "LINGUAGEM, CORPO E MOVIMENTO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -17714,7 +17714,7 @@ module.exports = indices = [
     {
         "matter_id": 1108,
         "matter_name": "ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -17730,7 +17730,7 @@ module.exports = indices = [
     {
         "matter_id": 1109,
         "matter_name": "LINGUISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -17746,7 +17746,7 @@ module.exports = indices = [
     {
         "matter_id": 1110,
         "matter_name": "LITERATURA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -17762,7 +17762,7 @@ module.exports = indices = [
     {
         "matter_id": 1111,
         "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -17778,7 +17778,7 @@ module.exports = indices = [
     {
         "matter_id": 1112,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -17794,7 +17794,7 @@ module.exports = indices = [
     {
         "matter_id": 1113,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS III",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -17810,7 +17810,7 @@ module.exports = indices = [
     {
         "matter_id": 1114,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS V",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -17826,7 +17826,7 @@ module.exports = indices = [
     {
         "matter_id": 1115,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -17842,7 +17842,7 @@ module.exports = indices = [
     {
         "matter_id": 1116,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -17858,7 +17858,7 @@ module.exports = indices = [
     {
         "matter_id": 1117,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -17874,7 +17874,7 @@ module.exports = indices = [
     {
         "matter_id": 1118,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -17890,7 +17890,7 @@ module.exports = indices = [
     {
         "matter_id": 1119,
         "matter_name": "DIVERSIDADE E INCLUSAO SOCIAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -17906,7 +17906,7 @@ module.exports = indices = [
     {
         "matter_id": 1120,
         "matter_name": "EDUCACAO DE JOVENS E ADULTOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -17922,7 +17922,7 @@ module.exports = indices = [
     {
         "matter_id": 1121,
         "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 2,
@@ -17938,7 +17938,7 @@ module.exports = indices = [
     {
         "matter_id": 1122,
         "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS DO ENSINO F.",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -17954,7 +17954,7 @@ module.exports = indices = [
     {
         "matter_id": 1123,
         "matter_name": "ESTAGIO SUPERVISIONADO - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 4,
@@ -17970,7 +17970,7 @@ module.exports = indices = [
     {
         "matter_id": 1124,
         "matter_name": "ALFABETIZACAO E LETRAMENTO I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -17986,7 +17986,7 @@ module.exports = indices = [
     {
         "matter_id": 1125,
         "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -18002,7 +18002,7 @@ module.exports = indices = [
     {
         "matter_id": 1126,
         "matter_name": "ESTAGIO SUPERVISIONADO II - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -18018,7 +18018,7 @@ module.exports = indices = [
     {
         "matter_id": 1127,
         "matter_name": "ETICA E BIOETICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -18034,7 +18034,7 @@ module.exports = indices = [
     {
         "matter_id": 1128,
         "matter_name": "FILOSOFIA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -18050,7 +18050,7 @@ module.exports = indices = [
     {
         "matter_id": 1129,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM ARTES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -18066,7 +18066,7 @@ module.exports = indices = [
     {
         "matter_id": 1130,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM GEOGRAFIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -18082,7 +18082,7 @@ module.exports = indices = [
     {
         "matter_id": 1131,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM HISTORIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -18098,7 +18098,7 @@ module.exports = indices = [
     {
         "matter_id": 1132,
         "matter_name": "LPB0323",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -18114,7 +18114,7 @@ module.exports = indices = [
     {
         "matter_id": 1133,
         "matter_name": "FUNDAMENTOS EM MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -18130,7 +18130,7 @@ module.exports = indices = [
     {
         "matter_id": 1134,
         "matter_name": "GESTAO ESCOLAR",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -18146,7 +18146,7 @@ module.exports = indices = [
     {
         "matter_id": 1135,
         "matter_name": "ALFABETIZACAO E LETRAMENTO II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -18162,7 +18162,7 @@ module.exports = indices = [
     {
         "matter_id": 1136,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -18178,7 +18178,7 @@ module.exports = indices = [
     {
         "matter_id": 1137,
         "matter_name": "INFANCIA E EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -18194,7 +18194,7 @@ module.exports = indices = [
     {
         "matter_id": 1138,
         "matter_name": "INFANCIA E PEDAGOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -18210,7 +18210,7 @@ module.exports = indices = [
     {
         "matter_id": 1139,
         "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -18226,7 +18226,7 @@ module.exports = indices = [
     {
         "matter_id": 1140,
         "matter_name": "LITERATURA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -18242,7 +18242,7 @@ module.exports = indices = [
     {
         "matter_id": 1141,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 40,
@@ -18258,7 +18258,7 @@ module.exports = indices = [
     {
         "matter_id": 1142,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -18274,7 +18274,7 @@ module.exports = indices = [
     {
         "matter_id": 1143,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS V",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -18290,7 +18290,7 @@ module.exports = indices = [
     {
         "matter_id": 1144,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VI",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -18306,7 +18306,7 @@ module.exports = indices = [
     {
         "matter_id": 1145,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -18322,7 +18322,7 @@ module.exports = indices = [
     {
         "matter_id": 1146,
         "matter_name": "ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -18338,7 +18338,7 @@ module.exports = indices = [
     {
         "matter_id": 1147,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII - TC",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -18354,7 +18354,7 @@ module.exports = indices = [
     {
         "matter_id": 1148,
         "matter_name": "POLITICAS PUBLICAS DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -18370,7 +18370,7 @@ module.exports = indices = [
     {
         "matter_id": 1149,
         "matter_name": "PRATICAS EDUCACIONAIS NAO ESCOLARES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -18386,7 +18386,7 @@ module.exports = indices = [
     {
         "matter_id": 1150,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -18402,7 +18402,7 @@ module.exports = indices = [
     {
         "matter_id": 1151,
         "matter_name": "TECNOLOGIAS DE INFORMACAO E COMUNICACAO EM ED.",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -18418,7 +18418,7 @@ module.exports = indices = [
     {
         "matter_id": 1152,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -18434,7 +18434,7 @@ module.exports = indices = [
     {
         "matter_id": 1153,
         "matter_name": "EDUCACAO DE JOVENS E ADULTOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -18450,7 +18450,7 @@ module.exports = indices = [
     {
         "matter_id": 1154,
         "matter_name": "EDUCACAO E DIREITOS HUMANOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -18466,7 +18466,7 @@ module.exports = indices = [
     {
         "matter_id": 1155,
         "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -18482,7 +18482,7 @@ module.exports = indices = [
     {
         "matter_id": 1156,
         "matter_name": "ESTAGIO SUPERVISIONADO - ANOS INICIAIS DO ENSINO F.",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -18498,7 +18498,7 @@ module.exports = indices = [
     {
         "matter_id": 1157,
         "matter_name": "ALFABETIZACAO E LETRAMENTO I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -18514,7 +18514,7 @@ module.exports = indices = [
     {
         "matter_id": 1158,
         "matter_name": "LPB0350",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -18530,7 +18530,7 @@ module.exports = indices = [
     {
         "matter_id": 1159,
         "matter_name": "FILOSOFIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -18546,7 +18546,7 @@ module.exports = indices = [
     {
         "matter_id": 1160,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM CIENCIAS NATURAIS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -18562,7 +18562,7 @@ module.exports = indices = [
     {
         "matter_id": 1161,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -18578,7 +18578,7 @@ module.exports = indices = [
     {
         "matter_id": 1162,
         "matter_name": "GESTAO EDUCACIONAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -18594,7 +18594,7 @@ module.exports = indices = [
     {
         "matter_id": 1163,
         "matter_name": "INFANCIA E EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -18610,7 +18610,7 @@ module.exports = indices = [
     {
         "matter_id": 1164,
         "matter_name": "INFANCIA E PEDAGOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -18626,7 +18626,7 @@ module.exports = indices = [
     {
         "matter_id": 1165,
         "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 2,
@@ -18642,7 +18642,7 @@ module.exports = indices = [
     {
         "matter_id": 1166,
         "matter_name": "LEITURA E PRODUCAO TEXTUAL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -18658,7 +18658,7 @@ module.exports = indices = [
     {
         "matter_id": 1167,
         "matter_name": "LIBRAS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -18674,7 +18674,7 @@ module.exports = indices = [
     {
         "matter_id": 1168,
         "matter_name": "ALFABETIZACAO E LETRAMENTO II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -18690,7 +18690,7 @@ module.exports = indices = [
     {
         "matter_id": 1169,
         "matter_name": "LINGUAGEM, CORPO E MOVIMENTO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -18706,7 +18706,7 @@ module.exports = indices = [
     {
         "matter_id": 1170,
         "matter_name": "LINGUISTICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -18722,7 +18722,7 @@ module.exports = indices = [
     {
         "matter_id": 1171,
         "matter_name": "LITERATURA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 5,
@@ -18738,7 +18738,7 @@ module.exports = indices = [
     {
         "matter_id": 1172,
         "matter_name": "MODALIDADES DA EDUCACAO BASICA I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -18754,7 +18754,7 @@ module.exports = indices = [
     {
         "matter_id": 1173,
         "matter_name": "PEDAGOGIA E PROFISSAO DOCENTE",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -18770,7 +18770,7 @@ module.exports = indices = [
     {
         "matter_id": 1174,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -18786,7 +18786,7 @@ module.exports = indices = [
     {
         "matter_id": 1175,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS III",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -18802,7 +18802,7 @@ module.exports = indices = [
     {
         "matter_id": 1176,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS V",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -18818,7 +18818,7 @@ module.exports = indices = [
     {
         "matter_id": 1177,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VII",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -18834,7 +18834,7 @@ module.exports = indices = [
     {
         "matter_id": 1178,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -18850,7 +18850,7 @@ module.exports = indices = [
     {
         "matter_id": 1179,
         "matter_name": "ANTROPOLOGIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -18866,7 +18866,7 @@ module.exports = indices = [
     {
         "matter_id": 1180,
         "matter_name": "TEORIAS EDUCACIONAIS E CURRICULARES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -18882,7 +18882,7 @@ module.exports = indices = [
     {
         "matter_id": 1181,
         "matter_name": "DIDATICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -18898,7 +18898,7 @@ module.exports = indices = [
     {
         "matter_id": 1182,
         "matter_name": "DIVERSIDADE, INCLUSAO E DIREITOS HUMANOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -18914,7 +18914,7 @@ module.exports = indices = [
     {
         "matter_id": 1183,
         "matter_name": "EDUCACAO DE JOVENS E ADULTOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 2,
@@ -18930,7 +18930,7 @@ module.exports = indices = [
     {
         "matter_id": 1184,
         "matter_name": "ESTAGIO SUPERVISIONADO - GESTAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -18946,7 +18946,7 @@ module.exports = indices = [
     {
         "matter_id": 1185,
         "matter_name": "ESTAGIO SUPERVISIONADO - MODALIDADE EM EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 4,
@@ -18962,7 +18962,7 @@ module.exports = indices = [
     {
         "matter_id": 1186,
         "matter_name": "ALFABETIZACAO E LETRAMENTO I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -18978,7 +18978,7 @@ module.exports = indices = [
     {
         "matter_id": 1187,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM HISTORIA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -18994,7 +18994,7 @@ module.exports = indices = [
     {
         "matter_id": 1188,
         "matter_name": "LPB0377",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -19010,7 +19010,7 @@ module.exports = indices = [
     {
         "matter_id": 1189,
         "matter_name": "FUNDAMENTOS EM MATEMATICA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -19026,7 +19026,7 @@ module.exports = indices = [
     {
         "matter_id": 1190,
         "matter_name": "GESTAO ESCOLAR",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -19042,7 +19042,7 @@ module.exports = indices = [
     {
         "matter_id": 1191,
         "matter_name": "HISTORIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -19058,7 +19058,7 @@ module.exports = indices = [
     {
         "matter_id": 1192,
         "matter_name": "JOGO, BRINQUEDO E BRINCADEIRA",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -19074,7 +19074,7 @@ module.exports = indices = [
     {
         "matter_id": 1193,
         "matter_name": "LITERATURA E EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -19090,7 +19090,7 @@ module.exports = indices = [
     {
         "matter_id": 1194,
         "matter_name": "MODALIDADES DA EDUCACAO BASICA II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -19106,7 +19106,7 @@ module.exports = indices = [
     {
         "matter_id": 1195,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS II",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -19122,7 +19122,7 @@ module.exports = indices = [
     {
         "matter_id": 1196,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS IV",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -19138,7 +19138,7 @@ module.exports = indices = [
     {
         "matter_id": 1197,
         "matter_name": "DIDATICA I",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -19154,7 +19154,7 @@ module.exports = indices = [
     {
         "matter_id": 1198,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VI",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -19170,7 +19170,7 @@ module.exports = indices = [
     {
         "matter_id": 1199,
         "matter_name": "PESQUISA E PROCESSOS EDUCATIVOS VIII",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -19186,7 +19186,7 @@ module.exports = indices = [
     {
         "matter_id": 1200,
         "matter_name": "POLITICAS PUBLICAS DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -19202,7 +19202,7 @@ module.exports = indices = [
     {
         "matter_id": 1201,
         "matter_name": "PSICOLOGIA DA EDUCACAO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -19218,7 +19218,7 @@ module.exports = indices = [
     {
         "matter_id": 1202,
         "matter_name": "LPB0364",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -19234,7 +19234,7 @@ module.exports = indices = [
     {
         "matter_id": 1203,
         "matter_name": "EDUCACAO E DIREITOS HUMANOS",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -19250,7 +19250,7 @@ module.exports = indices = [
     {
         "matter_id": 1204,
         "matter_name": "LPB0366",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -19266,7 +19266,7 @@ module.exports = indices = [
     {
         "matter_id": 1205,
         "matter_name": "EDUCACAO, SOCIEDADE E TRABALHO",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -19282,7 +19282,7 @@ module.exports = indices = [
     {
         "matter_id": 1206,
         "matter_name": "ESTAGIO SUPERVISIONADO II - EDUCACAO INFANTIL",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -19298,7 +19298,7 @@ module.exports = indices = [
     {
         "matter_id": 1207,
         "matter_name": "LPB0358",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -19314,7 +19314,7 @@ module.exports = indices = [
     {
         "matter_id": 1208,
         "matter_name": "FUNDAMENTOS E METODOLOGIA EM ARTES",
-        "matter_cursor": "Licenciatura em Pedagogia",
+        "matter_cursor": "LICENCIATURA EM PEDAGOGIA",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -19330,7 +19330,7 @@ module.exports = indices = [
     {
         "matter_id": 1209,
         "matter_name": "ADMINISTRACAO FINANCEIRA, ORCAMENTARIA E CONTABIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -19346,7 +19346,7 @@ module.exports = indices = [
     {
         "matter_id": 1210,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -19361,8 +19361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1211,
-        "matter_name": "AVALIACAO DE IMOVEIS ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "AVALIACAO DE IMOVEIS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -19378,7 +19378,7 @@ module.exports = indices = [
     {
         "matter_id": 1212,
         "matter_name": "COMUNICACAO ESCRITA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -19394,7 +19394,7 @@ module.exports = indices = [
     {
         "matter_id": 1213,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -19410,7 +19410,7 @@ module.exports = indices = [
     {
         "matter_id": 1214,
         "matter_name": "DESENHO ARQUITETONICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -19425,8 +19425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1215,
-        "matter_name": " DESENHO TECNICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DESENHO TECNICO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -19442,7 +19442,7 @@ module.exports = indices = [
     {
         "matter_id": 1216,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -19458,7 +19458,7 @@ module.exports = indices = [
     {
         "matter_id": 1217,
         "matter_name": "ECONOMIA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -19474,7 +19474,7 @@ module.exports = indices = [
     {
         "matter_id": 1218,
         "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -19490,7 +19490,7 @@ module.exports = indices = [
     {
         "matter_id": 1219,
         "matter_name": "GESTAO DE CONDOMINIOS, BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -19506,7 +19506,7 @@ module.exports = indices = [
     {
         "matter_id": 1220,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -19522,7 +19522,7 @@ module.exports = indices = [
     {
         "matter_id": 1221,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -19537,8 +19537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1222,
-        "matter_name": " INCORPORACAO, INSTITUICAO DE CONDOMINIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "INCORPORACAO, INSTITUICAO DE CONDOMINIO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -19554,7 +19554,7 @@ module.exports = indices = [
     {
         "matter_id": 1223,
         "matter_name": "INFORMATICA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -19570,7 +19570,7 @@ module.exports = indices = [
     {
         "matter_id": 1224,
         "matter_name": "MATEMATICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -19586,7 +19586,7 @@ module.exports = indices = [
     {
         "matter_id": 1225,
         "matter_name": "MERCADO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -19602,7 +19602,7 @@ module.exports = indices = [
     {
         "matter_id": 1226,
         "matter_name": "METODOLOGIA DO TRABALHO ACADEMICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -19618,7 +19618,7 @@ module.exports = indices = [
     {
         "matter_id": 1227,
         "matter_name": "OPERACOES IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -19634,7 +19634,7 @@ module.exports = indices = [
     {
         "matter_id": 1228,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -19650,7 +19650,7 @@ module.exports = indices = [
     {
         "matter_id": 1229,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -19666,7 +19666,7 @@ module.exports = indices = [
     {
         "matter_id": 1230,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -19682,7 +19682,7 @@ module.exports = indices = [
     {
         "matter_id": 1231,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -19698,7 +19698,7 @@ module.exports = indices = [
     {
         "matter_id": 1232,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -19714,7 +19714,7 @@ module.exports = indices = [
     {
         "matter_id": 1233,
         "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -19730,7 +19730,7 @@ module.exports = indices = [
     {
         "matter_id": 1234,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DA PROPRIEDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -19746,7 +19746,7 @@ module.exports = indices = [
     {
         "matter_id": 1235,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -19762,7 +19762,7 @@ module.exports = indices = [
     {
         "matter_id": 1236,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -19778,7 +19778,7 @@ module.exports = indices = [
     {
         "matter_id": 1237,
         "matter_name": "ECONOMIA REGIONAL E URBANA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -19794,7 +19794,7 @@ module.exports = indices = [
     {
         "matter_id": 1238,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -19810,7 +19810,7 @@ module.exports = indices = [
     {
         "matter_id": 1239,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -19826,7 +19826,7 @@ module.exports = indices = [
     {
         "matter_id": 1240,
         "matter_name": "ESTATISTICA BASICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -19842,7 +19842,7 @@ module.exports = indices = [
     {
         "matter_id": 1241,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -19858,7 +19858,7 @@ module.exports = indices = [
     {
         "matter_id": 1242,
         "matter_name": "GESTAO DE VENDAS E LOCACOES",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -19874,7 +19874,7 @@ module.exports = indices = [
     {
         "matter_id": 1243,
         "matter_name": "INFORMATICA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -19890,7 +19890,7 @@ module.exports = indices = [
     {
         "matter_id": 1244,
         "matter_name": "MARKETING IMOBILIARIO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -19906,7 +19906,7 @@ module.exports = indices = [
     {
         "matter_id": 1245,
         "matter_name": "MATEMATICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -19922,7 +19922,7 @@ module.exports = indices = [
     {
         "matter_id": 1246,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -19938,7 +19938,7 @@ module.exports = indices = [
     {
         "matter_id": 1247,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -19954,7 +19954,7 @@ module.exports = indices = [
     {
         "matter_id": 1248,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -19970,7 +19970,7 @@ module.exports = indices = [
     {
         "matter_id": 1249,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -19986,7 +19986,7 @@ module.exports = indices = [
     {
         "matter_id": 1250,
         "matter_name": "PRATICAS IMOBILIARIAS IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -20002,7 +20002,7 @@ module.exports = indices = [
     {
         "matter_id": 1251,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -20018,7 +20018,7 @@ module.exports = indices = [
     {
         "matter_id": 1252,
         "matter_name": "SISTEMA REGISTRAL E NOTARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -20034,7 +20034,7 @@ module.exports = indices = [
     {
         "matter_id": 1253,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -20050,7 +20050,7 @@ module.exports = indices = [
     {
         "matter_id": 1254,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -20066,7 +20066,7 @@ module.exports = indices = [
     {
         "matter_id": 1255,
         "matter_name": "ESPANHOL I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -20082,7 +20082,7 @@ module.exports = indices = [
     {
         "matter_id": 1256,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 7,
@@ -20098,7 +20098,7 @@ module.exports = indices = [
     {
         "matter_id": 1257,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -20114,7 +20114,7 @@ module.exports = indices = [
     {
         "matter_id": 1258,
         "matter_name": "INCORPORACAO, INSTITUICAO DE CONDOMINIO E SFH-SFI",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -20130,7 +20130,7 @@ module.exports = indices = [
     {
         "matter_id": 1259,
         "matter_name": "INFORMATICA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -20146,7 +20146,7 @@ module.exports = indices = [
     {
         "matter_id": 1260,
         "matter_name": "INTEGRACAO COM A COMUNIDADE I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -20162,7 +20162,7 @@ module.exports = indices = [
     {
         "matter_id": 1261,
         "matter_name": "INTEGRACAO COM A COMUNIDADE II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 10,
@@ -20178,7 +20178,7 @@ module.exports = indices = [
     {
         "matter_id": 1262,
         "matter_name": "MARKETING I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -20194,7 +20194,7 @@ module.exports = indices = [
     {
         "matter_id": 1263,
         "matter_name": "MARKETING II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -20210,7 +20210,7 @@ module.exports = indices = [
     {
         "matter_id": 1264,
         "matter_name": "MARKETING III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 9,
@@ -20226,7 +20226,7 @@ module.exports = indices = [
     {
         "matter_id": 1265,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -20242,7 +20242,7 @@ module.exports = indices = [
     {
         "matter_id": 1266,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -20258,7 +20258,7 @@ module.exports = indices = [
     {
         "matter_id": 1267,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -20274,7 +20274,7 @@ module.exports = indices = [
     {
         "matter_id": 1268,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -20290,7 +20290,7 @@ module.exports = indices = [
     {
         "matter_id": 1269,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -20306,7 +20306,7 @@ module.exports = indices = [
     {
         "matter_id": 1270,
         "matter_name": "CONTABILIDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -20322,7 +20322,7 @@ module.exports = indices = [
     {
         "matter_id": 1271,
         "matter_name": "INTEGRACAO COM A COMUNIDADE III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -20338,7 +20338,7 @@ module.exports = indices = [
     {
         "matter_id": 1272,
         "matter_name": "LINGUA BRASILEIRA DE SINAIS - LIBRAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -20354,7 +20354,7 @@ module.exports = indices = [
     {
         "matter_id": 1273,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -20370,7 +20370,7 @@ module.exports = indices = [
     {
         "matter_id": 1274,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -20386,7 +20386,7 @@ module.exports = indices = [
     {
         "matter_id": 1275,
         "matter_name": "PLANEJAMENTO URBANO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -20402,7 +20402,7 @@ module.exports = indices = [
     {
         "matter_id": 1276,
         "matter_name": "PLANEJAMENTO URBANO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 7,
@@ -20418,7 +20418,7 @@ module.exports = indices = [
     {
         "matter_id": 1277,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -20434,7 +20434,7 @@ module.exports = indices = [
     {
         "matter_id": 1278,
         "matter_name": "SISTEMA REGISTRAL E NOTORIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -20450,7 +20450,7 @@ module.exports = indices = [
     {
         "matter_id": 1279,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -20466,7 +20466,7 @@ module.exports = indices = [
     {
         "matter_id": 1280,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -20482,7 +20482,7 @@ module.exports = indices = [
     {
         "matter_id": 1281,
         "matter_name": "ECONOMIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -20498,7 +20498,7 @@ module.exports = indices = [
     {
         "matter_id": 1282,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -20514,7 +20514,7 @@ module.exports = indices = [
     {
         "matter_id": 1283,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -20530,7 +20530,7 @@ module.exports = indices = [
     {
         "matter_id": 1284,
         "matter_name": "ESPANHOL II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 5,
@@ -20546,7 +20546,7 @@ module.exports = indices = [
     {
         "matter_id": 1285,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -20562,7 +20562,7 @@ module.exports = indices = [
     {
         "matter_id": 1286,
         "matter_name": "GESTAO DE VENDAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -20578,7 +20578,7 @@ module.exports = indices = [
     {
         "matter_id": 1287,
         "matter_name": "ADMINISTRACAO FINANCEIRA ORNAMENTARIA E CONTABIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20594,7 +20594,7 @@ module.exports = indices = [
     {
         "matter_id": 1288,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -20610,7 +20610,7 @@ module.exports = indices = [
     {
         "matter_id": 1289,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20626,7 +20626,7 @@ module.exports = indices = [
     {
         "matter_id": 1290,
         "matter_name": "COMUNICACAO ESCRITA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -20642,7 +20642,7 @@ module.exports = indices = [
     {
         "matter_id": 1291,
         "matter_name": "COMUNICACAO ORGANIZACIONAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -20658,7 +20658,7 @@ module.exports = indices = [
     {
         "matter_id": 1292,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -20674,7 +20674,7 @@ module.exports = indices = [
     {
         "matter_id": 1293,
         "matter_name": "DESENHO TECNICO E LOTEAMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -20690,7 +20690,7 @@ module.exports = indices = [
     {
         "matter_id": 1294,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -20705,8 +20705,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1295,
-        "matter_name": "ECONOMIA APLICADA ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ECONOMIA APLICADA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -20722,7 +20722,7 @@ module.exports = indices = [
     {
         "matter_id": 1296,
         "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20738,7 +20738,7 @@ module.exports = indices = [
     {
         "matter_id": 1297,
         "matter_name": "GESTAO DE CONDOMINIOS  BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -20754,7 +20754,7 @@ module.exports = indices = [
     {
         "matter_id": 1298,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -20770,7 +20770,7 @@ module.exports = indices = [
     {
         "matter_id": 1299,
         "matter_name": "INCORPORACAO INSTITUICAO DE CONDOMINIO E SISTEMAS FINANCEIROS DE HABILITACAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -20786,7 +20786,7 @@ module.exports = indices = [
     {
         "matter_id": 1300,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -20802,7 +20802,7 @@ module.exports = indices = [
     {
         "matter_id": 1301,
         "matter_name": "MATEMATICA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -20818,7 +20818,7 @@ module.exports = indices = [
     {
         "matter_id": 1302,
         "matter_name": "MERCADO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -20834,7 +20834,7 @@ module.exports = indices = [
     {
         "matter_id": 1303,
         "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -20850,7 +20850,7 @@ module.exports = indices = [
     {
         "matter_id": 1304,
         "matter_name": "OPERACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20866,7 +20866,7 @@ module.exports = indices = [
     {
         "matter_id": 1305,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20882,7 +20882,7 @@ module.exports = indices = [
     {
         "matter_id": 1306,
         "matter_name": "PESQUISA IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -20898,7 +20898,7 @@ module.exports = indices = [
     {
         "matter_id": 1307,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -20914,7 +20914,7 @@ module.exports = indices = [
     {
         "matter_id": 1308,
         "matter_name": "PRATICAS IMOBILIARIAS III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -20930,7 +20930,7 @@ module.exports = indices = [
     {
         "matter_id": 1309,
         "matter_name": "TECNICAS DE GESTAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -20946,7 +20946,7 @@ module.exports = indices = [
     {
         "matter_id": 1310,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -20962,7 +20962,7 @@ module.exports = indices = [
     {
         "matter_id": 1311,
         "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -20978,7 +20978,7 @@ module.exports = indices = [
     {
         "matter_id": 1312,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DE PROPRIEDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -20994,7 +20994,7 @@ module.exports = indices = [
     {
         "matter_id": 1313,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -21010,7 +21010,7 @@ module.exports = indices = [
     {
         "matter_id": 1314,
         "matter_name": "ECONOMIA REGIONAL E URBANA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21026,7 +21026,7 @@ module.exports = indices = [
     {
         "matter_id": 1315,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21042,7 +21042,7 @@ module.exports = indices = [
     {
         "matter_id": 1316,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21058,7 +21058,7 @@ module.exports = indices = [
     {
         "matter_id": 1317,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21073,8 +21073,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1318,
-        "matter_name": "GESTAO DE VENDAS E LOCACOES ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "GESTAO DE VENDAS E LOCACOES",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21090,7 +21090,7 @@ module.exports = indices = [
     {
         "matter_id": 1319,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -21106,7 +21106,7 @@ module.exports = indices = [
     {
         "matter_id": 1320,
         "matter_name": "MATEMATICA EMPRESARIAL E FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -21122,7 +21122,7 @@ module.exports = indices = [
     {
         "matter_id": 1321,
         "matter_name": "MARKETING IMOBILIARIO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -21138,7 +21138,7 @@ module.exports = indices = [
     {
         "matter_id": 1322,
         "matter_name": "MARKETING IMOBILIARIO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21154,7 +21154,7 @@ module.exports = indices = [
     {
         "matter_id": 1323,
         "matter_name": "OPERACOES IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -21170,7 +21170,7 @@ module.exports = indices = [
     {
         "matter_id": 1324,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21186,7 +21186,7 @@ module.exports = indices = [
     {
         "matter_id": 1325,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -21202,7 +21202,7 @@ module.exports = indices = [
     {
         "matter_id": 1326,
         "matter_name": "PRATICAS IMOBILIARIAS IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -21218,7 +21218,7 @@ module.exports = indices = [
     {
         "matter_id": 1327,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21234,7 +21234,7 @@ module.exports = indices = [
     {
         "matter_id": 1328,
         "matter_name": "SISTEMA REGISTRAL E NOTARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21250,7 +21250,7 @@ module.exports = indices = [
     {
         "matter_id": 1329,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21266,7 +21266,7 @@ module.exports = indices = [
     {
         "matter_id": 1330,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21282,7 +21282,7 @@ module.exports = indices = [
     {
         "matter_id": 1331,
         "matter_name": "ADMINISTRACAO FINANCEIRA ORCAMENTARIA E CONTABIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -21298,7 +21298,7 @@ module.exports = indices = [
     {
         "matter_id": 1332,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -21314,7 +21314,7 @@ module.exports = indices = [
     {
         "matter_id": 1333,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -21330,7 +21330,7 @@ module.exports = indices = [
     {
         "matter_id": 1334,
         "matter_name": "COMUNICACAO ESCRITA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -21346,7 +21346,7 @@ module.exports = indices = [
     {
         "matter_id": 1335,
         "matter_name": "COMUNICACAO ORGANIZACIONAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -21362,7 +21362,7 @@ module.exports = indices = [
     {
         "matter_id": 1336,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -21378,7 +21378,7 @@ module.exports = indices = [
     {
         "matter_id": 1337,
         "matter_name": "DESENHO TECNICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -21394,7 +21394,7 @@ module.exports = indices = [
     {
         "matter_id": 1338,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -21410,7 +21410,7 @@ module.exports = indices = [
     {
         "matter_id": 1339,
         "matter_name": "ECONOMIA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -21426,7 +21426,7 @@ module.exports = indices = [
     {
         "matter_id": 1340,
         "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -21442,7 +21442,7 @@ module.exports = indices = [
     {
         "matter_id": 1341,
         "matter_name": "ESTATISTICA BASICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -21458,7 +21458,7 @@ module.exports = indices = [
     {
         "matter_id": 1342,
         "matter_name": "GESTAO DE CONDOMINIOS BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -21474,7 +21474,7 @@ module.exports = indices = [
     {
         "matter_id": 1343,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -21490,7 +21490,7 @@ module.exports = indices = [
     {
         "matter_id": 1344,
         "matter_name": "INCORPORACAO INSTITUICAO DE CONDOMINIO E SISTEMAS FINANCEIROS DE HABILITACAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -21506,7 +21506,7 @@ module.exports = indices = [
     {
         "matter_id": 1345,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -21522,7 +21522,7 @@ module.exports = indices = [
     {
         "matter_id": 1346,
         "matter_name": "MATEMATICA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -21538,7 +21538,7 @@ module.exports = indices = [
     {
         "matter_id": 1347,
         "matter_name": "MERCADO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -21554,7 +21554,7 @@ module.exports = indices = [
     {
         "matter_id": 1348,
         "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -21570,7 +21570,7 @@ module.exports = indices = [
     {
         "matter_id": 1349,
         "matter_name": "OPERACOES IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -21586,7 +21586,7 @@ module.exports = indices = [
     {
         "matter_id": 1350,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -21602,7 +21602,7 @@ module.exports = indices = [
     {
         "matter_id": 1351,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -21618,7 +21618,7 @@ module.exports = indices = [
     {
         "matter_id": 1352,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -21634,7 +21634,7 @@ module.exports = indices = [
     {
         "matter_id": 1353,
         "matter_name": "PRATICAS IMOBILIARIAS III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -21650,7 +21650,7 @@ module.exports = indices = [
     {
         "matter_id": 1354,
         "matter_name": "TECNICAS DE GESTAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -21666,7 +21666,7 @@ module.exports = indices = [
     {
         "matter_id": 1355,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -21682,7 +21682,7 @@ module.exports = indices = [
     {
         "matter_id": 1356,
         "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -21698,7 +21698,7 @@ module.exports = indices = [
     {
         "matter_id": 1357,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DE PROBABILIDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -21714,7 +21714,7 @@ module.exports = indices = [
     {
         "matter_id": 1358,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21730,7 +21730,7 @@ module.exports = indices = [
     {
         "matter_id": 1359,
         "matter_name": "ECONOMIA REGIONAL E URBANA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -21746,7 +21746,7 @@ module.exports = indices = [
     {
         "matter_id": 1360,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -21762,7 +21762,7 @@ module.exports = indices = [
     {
         "matter_id": 1361,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -21778,7 +21778,7 @@ module.exports = indices = [
     {
         "matter_id": 1362,
         "matter_name": "ESTATISTICA BASICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -21794,7 +21794,7 @@ module.exports = indices = [
     {
         "matter_id": 1363,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -21810,7 +21810,7 @@ module.exports = indices = [
     {
         "matter_id": 1364,
         "matter_name": "GESTAO DE VENDAS E LOCACOES",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -21826,7 +21826,7 @@ module.exports = indices = [
     {
         "matter_id": 1365,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -21842,7 +21842,7 @@ module.exports = indices = [
     {
         "matter_id": 1366,
         "matter_name": "MARKETING IMOBILIARIO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -21858,7 +21858,7 @@ module.exports = indices = [
     {
         "matter_id": 1367,
         "matter_name": "MARKETING IMOBILIARIO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -21874,7 +21874,7 @@ module.exports = indices = [
     {
         "matter_id": 1368,
         "matter_name": "MATEMATICA EMPRESARIAL E APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -21890,7 +21890,7 @@ module.exports = indices = [
     {
         "matter_id": 1369,
         "matter_name": "OPERACOES IMOBILIARIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -21906,7 +21906,7 @@ module.exports = indices = [
     {
         "matter_id": 1370,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -21922,7 +21922,7 @@ module.exports = indices = [
     {
         "matter_id": 1371,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -21938,7 +21938,7 @@ module.exports = indices = [
     {
         "matter_id": 1372,
         "matter_name": "PRATICAS IMOBILIARIAS IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -21954,7 +21954,7 @@ module.exports = indices = [
     {
         "matter_id": 1373,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -21970,7 +21970,7 @@ module.exports = indices = [
     {
         "matter_id": 1374,
         "matter_name": "SISTEMA REGIONAL E NOTORIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -21986,7 +21986,7 @@ module.exports = indices = [
     {
         "matter_id": 1375,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -22002,7 +22002,7 @@ module.exports = indices = [
     {
         "matter_id": 1376,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -22018,7 +22018,7 @@ module.exports = indices = [
     {
         "matter_id": 1377,
         "matter_name": "ADMINISTRACAO FINANCEIRA ORCAMENTARIA E CONTABIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -22034,7 +22034,7 @@ module.exports = indices = [
     {
         "matter_id": 1378,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -22050,7 +22050,7 @@ module.exports = indices = [
     {
         "matter_id": 1379,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -22066,7 +22066,7 @@ module.exports = indices = [
     {
         "matter_id": 1380,
         "matter_name": "COMUNICACAO ESCRITA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -22082,7 +22082,7 @@ module.exports = indices = [
     {
         "matter_id": 1381,
         "matter_name": "COMUNICACAO ORGANIZACIONAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -22098,7 +22098,7 @@ module.exports = indices = [
     {
         "matter_id": 1382,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -22114,7 +22114,7 @@ module.exports = indices = [
     {
         "matter_id": 1383,
         "matter_name": "DESENHO TECNICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -22130,7 +22130,7 @@ module.exports = indices = [
     {
         "matter_id": 1384,
         "matter_name": "DIREITO E LEGISLACAO APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -22146,7 +22146,7 @@ module.exports = indices = [
     {
         "matter_id": 1385,
         "matter_name": "ECONOMIA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -22162,7 +22162,7 @@ module.exports = indices = [
     {
         "matter_id": 1386,
         "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -22178,7 +22178,7 @@ module.exports = indices = [
     {
         "matter_id": 1387,
         "matter_name": "GESTAO DE CONDOMINIOS BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -22194,7 +22194,7 @@ module.exports = indices = [
     {
         "matter_id": 1388,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -22210,7 +22210,7 @@ module.exports = indices = [
     {
         "matter_id": 1389,
         "matter_name": "INCORPORACAO,INSTITUICAO DE CONDOMINIO E SISTEMAS FINANCEIROS DE HABILITACAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -22226,7 +22226,7 @@ module.exports = indices = [
     {
         "matter_id": 1390,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -22242,7 +22242,7 @@ module.exports = indices = [
     {
         "matter_id": 1391,
         "matter_name": "MATEMATICA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -22258,7 +22258,7 @@ module.exports = indices = [
     {
         "matter_id": 1392,
         "matter_name": "MERCADO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -22274,7 +22274,7 @@ module.exports = indices = [
     {
         "matter_id": 1393,
         "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -22290,7 +22290,7 @@ module.exports = indices = [
     {
         "matter_id": 1394,
         "matter_name": "OPERACOES IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -22306,7 +22306,7 @@ module.exports = indices = [
     {
         "matter_id": 1395,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -22322,7 +22322,7 @@ module.exports = indices = [
     {
         "matter_id": 1396,
         "matter_name": "PESQUISA IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -22338,7 +22338,7 @@ module.exports = indices = [
     {
         "matter_id": 1397,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -22354,7 +22354,7 @@ module.exports = indices = [
     {
         "matter_id": 1398,
         "matter_name": "PRATICAS IMOBILIARIAS III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -22370,7 +22370,7 @@ module.exports = indices = [
     {
         "matter_id": 1399,
         "matter_name": "TECNICAS DE GESTAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -22386,7 +22386,7 @@ module.exports = indices = [
     {
         "matter_id": 1400,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -22402,7 +22402,7 @@ module.exports = indices = [
     {
         "matter_id": 1401,
         "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -22417,8 +22417,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1402,
-        "matter_name": "DIREITO AMBIENTAL E RESTRICOES DE PROPRIEDADE ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DIREITO AMBIENTAL E RESTRICOES DE PROPRIEDADE",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -22434,7 +22434,7 @@ module.exports = indices = [
     {
         "matter_id": 1403,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -22450,7 +22450,7 @@ module.exports = indices = [
     {
         "matter_id": 1404,
         "matter_name": "ECONOMIA REGIONAL E URBANA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -22466,7 +22466,7 @@ module.exports = indices = [
     {
         "matter_id": 1405,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -22482,7 +22482,7 @@ module.exports = indices = [
     {
         "matter_id": 1406,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -22498,7 +22498,7 @@ module.exports = indices = [
     {
         "matter_id": 1407,
         "matter_name": "ESTATISTICA BASICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -22514,7 +22514,7 @@ module.exports = indices = [
     {
         "matter_id": 1408,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -22530,7 +22530,7 @@ module.exports = indices = [
     {
         "matter_id": 1409,
         "matter_name": "GESTAO DE VENDAS E LOCACOES",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -22546,7 +22546,7 @@ module.exports = indices = [
     {
         "matter_id": 1410,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -22562,7 +22562,7 @@ module.exports = indices = [
     {
         "matter_id": 1411,
         "matter_name": "MATEMATICA EMPRESARIAL E FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -22578,7 +22578,7 @@ module.exports = indices = [
     {
         "matter_id": 1412,
         "matter_name": "MARKETING IMOBILIARIO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -22594,7 +22594,7 @@ module.exports = indices = [
     {
         "matter_id": 1413,
         "matter_name": "MARKETING IMOBILIARIO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -22610,7 +22610,7 @@ module.exports = indices = [
     {
         "matter_id": 1414,
         "matter_name": "OPERACOES IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -22626,7 +22626,7 @@ module.exports = indices = [
     {
         "matter_id": 1415,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -22642,7 +22642,7 @@ module.exports = indices = [
     {
         "matter_id": 1416,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -22658,7 +22658,7 @@ module.exports = indices = [
     {
         "matter_id": 1417,
         "matter_name": "PRATICAS IMOBILIARIAS IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -22674,7 +22674,7 @@ module.exports = indices = [
     {
         "matter_id": 1418,
         "matter_name": "SEMINARIO INTERDISCILINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -22690,7 +22690,7 @@ module.exports = indices = [
     {
         "matter_id": 1419,
         "matter_name": "SISTEMA REGISTRAL E NOTORIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -22706,7 +22706,7 @@ module.exports = indices = [
     {
         "matter_id": 1420,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -22722,7 +22722,7 @@ module.exports = indices = [
     {
         "matter_id": 1421,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -22737,8 +22737,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1422,
-        "matter_name": "Administracao financeira orcamentaria e contabil",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ADMINISTRACAO FINANCEIRA ORCAMENTARIA E CONTABIL",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -22753,8 +22753,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1423,
-        "matter_name": "Avaliacao de imoveis",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "AVALIACAO DE IMOVEIS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -22769,8 +22769,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1424,
-        "matter_name": "Aspectos processuais em transacoes imobiliarias ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -22785,8 +22785,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1425,
-        "matter_name": "Comunicacao Organizacional",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "COMUNICACAO ORGANIZACIONAL",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -22801,8 +22801,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1426,
-        "matter_name": "Comunicacao Escrita",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "COMUNICACAO ESCRITA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -22817,8 +22817,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1427,
-        "matter_name": "Construcao Civil ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "CONSTRUCAO CIVIL",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -22833,8 +22833,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1428,
-        "matter_name": "Desenho Tecnico",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DESENHO TECNICO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -22849,8 +22849,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1429,
-        "matter_name": "Direito e legislacao Imobiliaria",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -22865,8 +22865,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1430,
-        "matter_name": "Economia Aplicada",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ECONOMIA APLICADA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -22881,8 +22881,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1431,
-        "matter_name": "Espanhol Aplicada ao ramo imobiliario ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ESPANHOL APLICADA AO RAMO IMOBILIARIO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -22897,8 +22897,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1432,
-        "matter_name": "Gestao de Condominios, Bens e Servicos ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "GESTAO DE CONDOMINIOS, BENS E SERVICOS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -22913,8 +22913,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1433,
-        "matter_name": "Gestao de Pessoas",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "GESTAO DE PESSOAS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -22929,8 +22929,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1434,
-        "matter_name": "Informacao Aplicada a Atividade Imobiliaria",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "INFORMACAO APLICADA A ATIVIDADE IMOBILIARIA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -22945,8 +22945,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1435,
-        "matter_name": "Incorporacao, instituicao de condominio e sistemas financeiros de habilitacao",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "INCORPORACAO, INSTITUICAO DE CONDOMINIO E SISTEMAS FINANCEIROS DE HABILITACAO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -22961,8 +22961,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1436,
-        "matter_name": "Matematica Aplicada",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MATEMATICA APLICADA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -22977,8 +22977,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1437,
-        "matter_name": "Mercado Imobiliario ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MERCADO IMOBILIARIO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -22994,7 +22994,7 @@ module.exports = indices = [
     {
         "matter_id": 1528,
         "matter_name": "ECONOMIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -23009,8 +23009,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1438,
-        "matter_name": "Metodologia do trabalho cientifico",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -23025,8 +23025,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1439,
-        "matter_name": "Operacao imobiliarias II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "OPERACAO IMOBILIARIAS II",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -23041,8 +23041,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1440,
-        "matter_name": "Organizacao de Eventos ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ORGANIZACAO DE EVENTOS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -23057,8 +23057,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1441,
-        "matter_name": "Pesquisa Imobiliaria ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PESQUISA IMOBILIARIA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -23073,8 +23073,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1442,
-        "matter_name": "Praticas imobiliarias I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS I",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -23089,8 +23089,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1443,
-        "matter_name": "Praticas imobiliarias III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS III",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -23105,8 +23105,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1444,
-        "matter_name": "Desenho Arquitetonico e Arquitetura Aplicada",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -23121,8 +23121,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1445,
-        "matter_name": "Desenho Arquitetonico Auxiliado por computador ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -23137,8 +23137,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1446,
-        "matter_name": "Direito Ambiental e Restricoes da Propriedade",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DIREITO AMBIENTAL E RESTRICOES DA PROPRIEDADE",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -23153,8 +23153,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1447,
-        "matter_name": "Direito do Consumidor",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DIREITO DO CONSUMIDOR",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -23169,8 +23169,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1448,
-        "matter_name": "Economia regional e urbana ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ECONOMIA REGIONAL E URBANA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -23185,8 +23185,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1449,
-        "matter_name": "Elaboracao de empreendimentos",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -23201,8 +23201,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1450,
-        "matter_name": "Empreendedorismo ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -23217,8 +23217,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1451,
-        "matter_name": "Estatistica Basica",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ESTATISTICA BASICA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -23233,8 +23233,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1452,
-        "matter_name": "Etica Profissional e Legislacao Trabalhista ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -23249,8 +23249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1453,
-        "matter_name": "Gestao de Vendas e Locacoes",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "GESTAO DE VENDAS E LOCACOES",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -23265,8 +23265,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1454,
-        "matter_name": "Infomatica Aplicada a Atividade Imobiliaria",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "INFOMATICA APLICADA A ATIVIDADE IMOBILIARIA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -23281,8 +23281,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1455,
-        "matter_name": "Marketing imobiliario I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MARKETING IMOBILIARIO I",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -23297,8 +23297,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1456,
-        "matter_name": "Marketing imobiliario II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MARKETING IMOBILIARIO II",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -23313,8 +23313,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1457,
-        "matter_name": "Matematica Empresarial e Financeira",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MATEMATICA EMPRESARIAL E FINANCEIRA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -23329,8 +23329,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1458,
-        "matter_name": "Operacoes Imobiliarias I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "OPERACOES IMOBILIARIAS I",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -23345,8 +23345,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1459,
-        "matter_name": "Pesquisa imobiliaria II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PESQUISA IMOBILIARIA II",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -23361,8 +23361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1460,
-        "matter_name": "Praticas imobiliarias II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS II",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -23377,8 +23377,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1461,
-        "matter_name": "Praticas imobiliarias IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS IV",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -23393,8 +23393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1462,
-        "matter_name": "Seminario interdisciplinar ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "SEMINARIO INTERDISCIPLINAR",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -23409,8 +23409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1463,
-        "matter_name": "Sistema registral e notorial ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "SISTEMA REGISTRAL E NOTORIAL",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -23425,8 +23425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1464,
-        "matter_name": "Topicos Avancados em direito imobiliario ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -23442,7 +23442,7 @@ module.exports = indices = [
     {
         "matter_id": 1465,
         "matter_name": "ADMINISTRACAO FINANCEIRA ORCAMENTARIA E CONTABIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 11,
@@ -23458,7 +23458,7 @@ module.exports = indices = [
     {
         "matter_id": 1466,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -23474,7 +23474,7 @@ module.exports = indices = [
     {
         "matter_id": 1467,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -23490,7 +23490,7 @@ module.exports = indices = [
     {
         "matter_id": 1468,
         "matter_name": "COMUNICACAO ESCRITA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -23506,7 +23506,7 @@ module.exports = indices = [
     {
         "matter_id": 1469,
         "matter_name": "COMUNICACAO ORGANIZACIONAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -23522,7 +23522,7 @@ module.exports = indices = [
     {
         "matter_id": 1470,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -23538,7 +23538,7 @@ module.exports = indices = [
     {
         "matter_id": 1471,
         "matter_name": "DESENHO TECNICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -23554,7 +23554,7 @@ module.exports = indices = [
     {
         "matter_id": 1472,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -23570,7 +23570,7 @@ module.exports = indices = [
     {
         "matter_id": 1473,
         "matter_name": "ECONOMIA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -23585,8 +23585,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1474,
-        "matter_name": " ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -23602,7 +23602,7 @@ module.exports = indices = [
     {
         "matter_id": 1475,
         "matter_name": "GESTAO DE CONDOMINIOS BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -23618,7 +23618,7 @@ module.exports = indices = [
     {
         "matter_id": 1476,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -23634,7 +23634,7 @@ module.exports = indices = [
     {
         "matter_id": 1477,
         "matter_name": "INCORPORACAO,INSTITUICAO DE CONDOMINIO E SISTEMAS FINANCEIROS DE HABITACAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -23650,7 +23650,7 @@ module.exports = indices = [
     {
         "matter_id": 1478,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -23666,7 +23666,7 @@ module.exports = indices = [
     {
         "matter_id": 1479,
         "matter_name": "MATEMATICA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -23682,7 +23682,7 @@ module.exports = indices = [
     {
         "matter_id": 1480,
         "matter_name": "MERCADO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -23698,7 +23698,7 @@ module.exports = indices = [
     {
         "matter_id": 1481,
         "matter_name": "METODOLOGIA DO TRABALHO CIENTIFICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -23713,8 +23713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1482,
-        "matter_name": "OPERACOES IMOBILIARIAS II ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "OPERACOES IMOBILIARIAS II",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -23730,7 +23730,7 @@ module.exports = indices = [
     {
         "matter_id": 1483,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -23746,7 +23746,7 @@ module.exports = indices = [
     {
         "matter_id": 1484,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -23762,7 +23762,7 @@ module.exports = indices = [
     {
         "matter_id": 1485,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -23777,8 +23777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1486,
-        "matter_name": "PRATICAS IMOBILIARIAS III ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS III",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -23794,7 +23794,7 @@ module.exports = indices = [
     {
         "matter_id": 1487,
         "matter_name": "TECNICAS DE GESTAO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -23809,8 +23809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1488,
-        "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUTADOR",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -23826,7 +23826,7 @@ module.exports = indices = [
     {
         "matter_id": 1489,
         "matter_name": "DESENHO ARQUITETONICO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -23842,7 +23842,7 @@ module.exports = indices = [
     {
         "matter_id": 1490,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DA PROPRIEDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -23858,7 +23858,7 @@ module.exports = indices = [
     {
         "matter_id": 1491,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -23874,7 +23874,7 @@ module.exports = indices = [
     {
         "matter_id": 1492,
         "matter_name": "ECONOMIA REGIONAL E URBANA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -23890,7 +23890,7 @@ module.exports = indices = [
     {
         "matter_id": 1493,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -23906,7 +23906,7 @@ module.exports = indices = [
     {
         "matter_id": 1494,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -23922,7 +23922,7 @@ module.exports = indices = [
     {
         "matter_id": 1495,
         "matter_name": "ESTATISTICA BASICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -23937,8 +23937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1496,
-        "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -23953,8 +23953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1497,
-        "matter_name": "GESTAO DE VENDAS E LOCACOES ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "GESTAO DE VENDAS E LOCACOES",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -23970,7 +23970,7 @@ module.exports = indices = [
     {
         "matter_id": 1498,
         "matter_name": "INFORMATICA APLICADA A ATIVIDADE IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -23986,7 +23986,7 @@ module.exports = indices = [
     {
         "matter_id": 1499,
         "matter_name": "MARKETING IMOBILIARIO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -24002,7 +24002,7 @@ module.exports = indices = [
     {
         "matter_id": 1500,
         "matter_name": "MARKETING IMOBILIARIO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -24017,8 +24017,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1501,
-        "matter_name": "MATEMATICA EMPRESARIAL E FINANCEIRA ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "MATEMATICA EMPRESARIAL E FINANCEIRA",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -24034,7 +24034,7 @@ module.exports = indices = [
     {
         "matter_id": 1502,
         "matter_name": "OPERACOES IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -24050,7 +24050,7 @@ module.exports = indices = [
     {
         "matter_id": 1503,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -24066,7 +24066,7 @@ module.exports = indices = [
     {
         "matter_id": 1504,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -24081,8 +24081,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1505,
-        "matter_name": "PRATICAS IMOBILIARIAS IV ",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_name": "PRATICAS IMOBILIARIAS IV",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -24098,7 +24098,7 @@ module.exports = indices = [
     {
         "matter_id": 1506,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -24114,7 +24114,7 @@ module.exports = indices = [
     {
         "matter_id": 1507,
         "matter_name": "SISTEMA REGISTRAL E NOTARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -24130,7 +24130,7 @@ module.exports = indices = [
     {
         "matter_id": 1508,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -24146,7 +24146,7 @@ module.exports = indices = [
     {
         "matter_id": 1509,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -24162,7 +24162,7 @@ module.exports = indices = [
     {
         "matter_id": 1510,
         "matter_name": "METODOLOGIA DO TRABALHO ACADEMICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -24178,7 +24178,7 @@ module.exports = indices = [
     {
         "matter_id": 1511,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -24194,7 +24194,7 @@ module.exports = indices = [
     {
         "matter_id": 1512,
         "matter_name": "PRATICAS IMOBILIARIAS IV",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -24210,7 +24210,7 @@ module.exports = indices = [
     {
         "matter_id": 1513,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -24226,7 +24226,7 @@ module.exports = indices = [
     {
         "matter_id": 1514,
         "matter_name": "ADMINISTRACAO FINANCEIRA ORCAMENTARIA E CONTAB.",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -24242,7 +24242,7 @@ module.exports = indices = [
     {
         "matter_id": 1515,
         "matter_name": "GESTAO DE CONDOMINIOS, BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -24258,7 +24258,7 @@ module.exports = indices = [
     {
         "matter_id": 1516,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -24274,7 +24274,7 @@ module.exports = indices = [
     {
         "matter_id": 1517,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -24290,7 +24290,7 @@ module.exports = indices = [
     {
         "matter_id": 1518,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -24306,7 +24306,7 @@ module.exports = indices = [
     {
         "matter_id": 1519,
         "matter_name": "INCORPORACAO, INSTITUICAO DE CONDOMINIO E SIST.",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -24322,7 +24322,7 @@ module.exports = indices = [
     {
         "matter_id": 1520,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -24338,7 +24338,7 @@ module.exports = indices = [
     {
         "matter_id": 1521,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -24354,7 +24354,7 @@ module.exports = indices = [
     {
         "matter_id": 1522,
         "matter_name": "DESENHO ARQUITETONICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -24370,7 +24370,7 @@ module.exports = indices = [
     {
         "matter_id": 1523,
         "matter_name": "INFORMATICA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -24386,7 +24386,7 @@ module.exports = indices = [
     {
         "matter_id": 1524,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -24402,7 +24402,7 @@ module.exports = indices = [
     {
         "matter_id": 1525,
         "matter_name": "MATEMATICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -24418,7 +24418,7 @@ module.exports = indices = [
     {
         "matter_id": 1526,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -24434,7 +24434,7 @@ module.exports = indices = [
     {
         "matter_id": 1527,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -24450,7 +24450,7 @@ module.exports = indices = [
     {
         "matter_id": 1529,
         "matter_name": "MARKETING I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -24466,7 +24466,7 @@ module.exports = indices = [
     {
         "matter_id": 1530,
         "matter_name": "DIREITO URBANISTICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -24482,7 +24482,7 @@ module.exports = indices = [
     {
         "matter_id": 1531,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -24498,7 +24498,7 @@ module.exports = indices = [
     {
         "matter_id": 1532,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -24514,7 +24514,7 @@ module.exports = indices = [
     {
         "matter_id": 1533,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -24530,7 +24530,7 @@ module.exports = indices = [
     {
         "matter_id": 1534,
         "matter_name": "OPERACOES IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -24546,7 +24546,7 @@ module.exports = indices = [
     {
         "matter_id": 1535,
         "matter_name": "OPERACOES IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -24562,7 +24562,7 @@ module.exports = indices = [
     {
         "matter_id": 1536,
         "matter_name": "ESPANHOL APLICADO AO RAMO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 4,
@@ -24578,7 +24578,7 @@ module.exports = indices = [
     {
         "matter_id": 1537,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -24594,7 +24594,7 @@ module.exports = indices = [
     {
         "matter_id": 1538,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -24610,7 +24610,7 @@ module.exports = indices = [
     {
         "matter_id": 1539,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUT.",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -24626,7 +24626,7 @@ module.exports = indices = [
     {
         "matter_id": 1540,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -24642,7 +24642,7 @@ module.exports = indices = [
     {
         "matter_id": 1541,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -24658,7 +24658,7 @@ module.exports = indices = [
     {
         "matter_id": 1542,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -24674,7 +24674,7 @@ module.exports = indices = [
     {
         "matter_id": 1543,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -24690,7 +24690,7 @@ module.exports = indices = [
     {
         "matter_id": 1544,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -24706,7 +24706,7 @@ module.exports = indices = [
     {
         "matter_id": 1545,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -24722,7 +24722,7 @@ module.exports = indices = [
     {
         "matter_id": 1546,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -24738,7 +24738,7 @@ module.exports = indices = [
     {
         "matter_id": 1547,
         "matter_name": "INFORMATICA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -24754,7 +24754,7 @@ module.exports = indices = [
     {
         "matter_id": 1548,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -24770,7 +24770,7 @@ module.exports = indices = [
     {
         "matter_id": 1549,
         "matter_name": "MARKETING II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -24786,7 +24786,7 @@ module.exports = indices = [
     {
         "matter_id": 1550,
         "matter_name": "ECONOMIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -24802,7 +24802,7 @@ module.exports = indices = [
     {
         "matter_id": 1551,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -24818,7 +24818,7 @@ module.exports = indices = [
     {
         "matter_id": 1552,
         "matter_name": "SISTEMA REGISTRAL E NOTORIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -24834,7 +24834,7 @@ module.exports = indices = [
     {
         "matter_id": 1553,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -24850,7 +24850,7 @@ module.exports = indices = [
     {
         "matter_id": 1554,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUT.",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -24866,7 +24866,7 @@ module.exports = indices = [
     {
         "matter_id": 1555,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DA PROPRIEDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -24882,7 +24882,7 @@ module.exports = indices = [
     {
         "matter_id": 1556,
         "matter_name": "ASPECTOS PROCESSUAIS EM TRANSACOES IMOBILIARIAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -24898,7 +24898,7 @@ module.exports = indices = [
     {
         "matter_id": 1557,
         "matter_name": "GESTAO DE PESSOAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -24914,7 +24914,7 @@ module.exports = indices = [
     {
         "matter_id": 1558,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -24930,7 +24930,7 @@ module.exports = indices = [
     {
         "matter_id": 1559,
         "matter_name": "INCORPORACAO, INSTITUICAO DE CONDOMINIO E SFH-SFI",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -24946,7 +24946,7 @@ module.exports = indices = [
     {
         "matter_id": 1560,
         "matter_name": "INFORMATICA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -24962,7 +24962,7 @@ module.exports = indices = [
     {
         "matter_id": 1561,
         "matter_name": "INTEGRACAO COM A COMUNIDADE I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -24978,7 +24978,7 @@ module.exports = indices = [
     {
         "matter_id": 1562,
         "matter_name": "INTEGRACAO COM A COMUNIDADE II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -24994,7 +24994,7 @@ module.exports = indices = [
     {
         "matter_id": 1563,
         "matter_name": "MARKETING I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -25010,7 +25010,7 @@ module.exports = indices = [
     {
         "matter_id": 1564,
         "matter_name": "MARKETING III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -25026,7 +25026,7 @@ module.exports = indices = [
     {
         "matter_id": 1565,
         "matter_name": "MATEMATICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -25042,7 +25042,7 @@ module.exports = indices = [
     {
         "matter_id": 1566,
         "matter_name": "ORGANIZACAO DE EVENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -25058,7 +25058,7 @@ module.exports = indices = [
     {
         "matter_id": 1567,
         "matter_name": "AVALIACAO DE IMOVEIS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -25074,7 +25074,7 @@ module.exports = indices = [
     {
         "matter_id": 1568,
         "matter_name": "PESQUISA IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -25090,7 +25090,7 @@ module.exports = indices = [
     {
         "matter_id": 1569,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -25106,7 +25106,7 @@ module.exports = indices = [
     {
         "matter_id": 1570,
         "matter_name": "PRATICAS IMOBILIARIAS I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -25122,7 +25122,7 @@ module.exports = indices = [
     {
         "matter_id": 1571,
         "matter_name": "CONSTRUCAO CIVIL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -25138,7 +25138,7 @@ module.exports = indices = [
     {
         "matter_id": 1572,
         "matter_name": "DESENHO ARQUITETONICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -25154,7 +25154,7 @@ module.exports = indices = [
     {
         "matter_id": 1573,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -25170,7 +25170,7 @@ module.exports = indices = [
     {
         "matter_id": 1574,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -25186,7 +25186,7 @@ module.exports = indices = [
     {
         "matter_id": 1575,
         "matter_name": "DIREITO URBANISTICO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -25202,7 +25202,7 @@ module.exports = indices = [
     {
         "matter_id": 1576,
         "matter_name": "ECONOMIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -25218,7 +25218,7 @@ module.exports = indices = [
     {
         "matter_id": 1577,
         "matter_name": "CONTABILIDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -25234,7 +25234,7 @@ module.exports = indices = [
     {
         "matter_id": 1578,
         "matter_name": "ESTATISTICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -25250,7 +25250,7 @@ module.exports = indices = [
     {
         "matter_id": 1579,
         "matter_name": "ETICA PROFISSIONAL E LEGISLACAO TRABALHISTA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -25266,7 +25266,7 @@ module.exports = indices = [
     {
         "matter_id": 1580,
         "matter_name": "GESTAO DE CONDOMINIOS, BENS E SERVICOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -25282,7 +25282,7 @@ module.exports = indices = [
     {
         "matter_id": 1581,
         "matter_name": "GESTAO DE VENDAS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -25298,7 +25298,7 @@ module.exports = indices = [
     {
         "matter_id": 1582,
         "matter_name": "INFORMATICA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -25314,7 +25314,7 @@ module.exports = indices = [
     {
         "matter_id": 1583,
         "matter_name": "INTEGRACAO COM A COMUNIDADE III",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -25330,7 +25330,7 @@ module.exports = indices = [
     {
         "matter_id": 1584,
         "matter_name": "MARKETING II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -25346,7 +25346,7 @@ module.exports = indices = [
     {
         "matter_id": 1585,
         "matter_name": "MATEMATICA FINANCEIRA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -25362,7 +25362,7 @@ module.exports = indices = [
     {
         "matter_id": 1586,
         "matter_name": "PESQUISA IMOBILIARIA I",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -25378,7 +25378,7 @@ module.exports = indices = [
     {
         "matter_id": 1587,
         "matter_name": "PLANEJAMENTO URBANO E ARQUITETURA APLICADA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -25394,7 +25394,7 @@ module.exports = indices = [
     {
         "matter_id": 1588,
         "matter_name": "DESENHO ARQUITETONICO AUXILIADO POR COMPUT.",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -25410,7 +25410,7 @@ module.exports = indices = [
     {
         "matter_id": 1589,
         "matter_name": "PORTUGUES INSTRUMENTAL E COMUNICACAO II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -25426,7 +25426,7 @@ module.exports = indices = [
     {
         "matter_id": 1590,
         "matter_name": "PRATICAS IMOBILIARIAS II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -25442,7 +25442,7 @@ module.exports = indices = [
     {
         "matter_id": 1591,
         "matter_name": "RELACOES HUMANAS E ETICA",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -25458,7 +25458,7 @@ module.exports = indices = [
     {
         "matter_id": 1592,
         "matter_name": "SEMINARIO INTERDISCIPLINAR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -25474,7 +25474,7 @@ module.exports = indices = [
     {
         "matter_id": 1593,
         "matter_name": "SISTEMA REGISTRAL E NOTORIAL",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -25490,7 +25490,7 @@ module.exports = indices = [
     {
         "matter_id": 1594,
         "matter_name": "TOPICOS AVANCADOS EM DIREITO IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 2,
@@ -25506,7 +25506,7 @@ module.exports = indices = [
     {
         "matter_id": 1595,
         "matter_name": "TOPICOS AVANCADOS EM MARKETING IMOBILIARIO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -25522,7 +25522,7 @@ module.exports = indices = [
     {
         "matter_id": 1596,
         "matter_name": "DIREITO AMBIENTAL E AS RESTRICOES DA PROPRIEDADE",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -25538,7 +25538,7 @@ module.exports = indices = [
     {
         "matter_id": 1597,
         "matter_name": "DIREITO DO CONSUMIDOR",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -25554,7 +25554,7 @@ module.exports = indices = [
     {
         "matter_id": 1598,
         "matter_name": "DIREITO E LEGISLACAO IMOBILIARIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -25570,7 +25570,7 @@ module.exports = indices = [
     {
         "matter_id": 1599,
         "matter_name": "ECONOMIA II",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -25586,7 +25586,7 @@ module.exports = indices = [
     {
         "matter_id": 1600,
         "matter_name": "ELABORACAO DE EMPREENDIMENTOS",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -25602,7 +25602,7 @@ module.exports = indices = [
     {
         "matter_id": 1601,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Negocios Imobiliarios",
+        "matter_cursor": "TECNOLOGIA EM NEGOCIOS IMOBILIARIOS",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -25618,7 +25618,7 @@ module.exports = indices = [
     {
         "matter_id": 1602,
         "matter_name": "ALGORITIMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -25634,7 +25634,7 @@ module.exports = indices = [
     {
         "matter_id": 1603,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -25649,8 +25649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1604,
-        "matter_name": "BANCO DE DADOS I ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "BANCO DE DADOS I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -25665,8 +25665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1605,
-        "matter_name": "DESIGN GRAFICO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "DESIGN GRAFICO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -25682,7 +25682,7 @@ module.exports = indices = [
     {
         "matter_id": 1606,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -25698,7 +25698,7 @@ module.exports = indices = [
     {
         "matter_id": 1607,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -25714,7 +25714,7 @@ module.exports = indices = [
     {
         "matter_id": 1608,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 66,
@@ -25730,7 +25730,7 @@ module.exports = indices = [
     {
         "matter_id": 1609,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -25746,7 +25746,7 @@ module.exports = indices = [
     {
         "matter_id": 1610,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -25761,8 +25761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1611,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -25778,7 +25778,7 @@ module.exports = indices = [
     {
         "matter_id": 1612,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -25793,8 +25793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1613,
-        "matter_name": "PROJETO DE INTEGRADOR II ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO DE INTEGRADOR II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -25810,7 +25810,7 @@ module.exports = indices = [
     {
         "matter_id": 1614,
         "matter_name": "SOCIOLOGIA E INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -25826,7 +25826,7 @@ module.exports = indices = [
     {
         "matter_id": 1615,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -25842,7 +25842,7 @@ module.exports = indices = [
     {
         "matter_id": 1616,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -25858,7 +25858,7 @@ module.exports = indices = [
     {
         "matter_id": 1617,
         "matter_name": "DESIGN PATTEMS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -25874,7 +25874,7 @@ module.exports = indices = [
     {
         "matter_id": 1618,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -25890,7 +25890,7 @@ module.exports = indices = [
     {
         "matter_id": 1619,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -25905,8 +25905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1620,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -25922,7 +25922,7 @@ module.exports = indices = [
     {
         "matter_id": 1621,
         "matter_name": "MULTIMEDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -25937,8 +25937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1622,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -25953,8 +25953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1623,
-        "matter_name": "PROGRAMACAO WEB ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -25970,7 +25970,7 @@ module.exports = indices = [
     {
         "matter_id": 1624,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -25985,8 +25985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1625,
-        "matter_name": "PROJETO INTEGRADOR I ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -26002,7 +26002,7 @@ module.exports = indices = [
     {
         "matter_id": 1626,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -26017,8 +26017,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1627,
-        "matter_name": "SISTEMAS OPERACIONAIS ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SISTEMAS OPERACIONAIS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -26034,7 +26034,7 @@ module.exports = indices = [
     {
         "matter_id": 1628,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2012,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -26050,7 +26050,7 @@ module.exports = indices = [
     {
         "matter_id": 1629,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -26066,7 +26066,7 @@ module.exports = indices = [
     {
         "matter_id": 1630,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -26082,7 +26082,7 @@ module.exports = indices = [
     {
         "matter_id": 1631,
         "matter_name": "BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 30,
@@ -26098,7 +26098,7 @@ module.exports = indices = [
     {
         "matter_id": 1632,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -26113,8 +26113,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1633,
-        "matter_name": "EMPREENDEDORISMO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -26130,7 +26130,7 @@ module.exports = indices = [
     {
         "matter_id": 1634,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -26146,7 +26146,7 @@ module.exports = indices = [
     {
         "matter_id": 1635,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -26162,7 +26162,7 @@ module.exports = indices = [
     {
         "matter_id": 1636,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -26178,7 +26178,7 @@ module.exports = indices = [
     {
         "matter_id": 1637,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -26194,7 +26194,7 @@ module.exports = indices = [
     {
         "matter_id": 1638,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -26210,7 +26210,7 @@ module.exports = indices = [
     {
         "matter_id": 1639,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -26226,7 +26226,7 @@ module.exports = indices = [
     {
         "matter_id": 1640,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -26242,7 +26242,7 @@ module.exports = indices = [
     {
         "matter_id": 1641,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -26258,7 +26258,7 @@ module.exports = indices = [
     {
         "matter_id": 1642,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -26274,7 +26274,7 @@ module.exports = indices = [
     {
         "matter_id": 1643,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -26290,7 +26290,7 @@ module.exports = indices = [
     {
         "matter_id": 1644,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -26306,7 +26306,7 @@ module.exports = indices = [
     {
         "matter_id": 1645,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -26322,7 +26322,7 @@ module.exports = indices = [
     {
         "matter_id": 1646,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -26338,7 +26338,7 @@ module.exports = indices = [
     {
         "matter_id": 1647,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -26353,8 +26353,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1648,
-        "matter_name": "SOCIOLOGIA  ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SOCIOLOGIA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -26370,7 +26370,7 @@ module.exports = indices = [
     {
         "matter_id": 1649,
         "matter_name": "TOPICOS AVANCADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -26386,7 +26386,7 @@ module.exports = indices = [
     {
         "matter_id": 1650,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -26402,7 +26402,7 @@ module.exports = indices = [
     {
         "matter_id": 1651,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -26418,7 +26418,7 @@ module.exports = indices = [
     {
         "matter_id": 1652,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -26434,7 +26434,7 @@ module.exports = indices = [
     {
         "matter_id": 1653,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -26449,8 +26449,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1654,
-        "matter_name": "GERENCIAMENTO DE PROJETOS ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -26466,7 +26466,7 @@ module.exports = indices = [
     {
         "matter_id": 1655,
         "matter_name": "MULTIMEDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -26482,7 +26482,7 @@ module.exports = indices = [
     {
         "matter_id": 1656,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -26498,7 +26498,7 @@ module.exports = indices = [
     {
         "matter_id": 1657,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -26514,7 +26514,7 @@ module.exports = indices = [
     {
         "matter_id": 1658,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS  II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -26530,7 +26530,7 @@ module.exports = indices = [
     {
         "matter_id": 1659,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -26546,7 +26546,7 @@ module.exports = indices = [
     {
         "matter_id": 1660,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -26562,7 +26562,7 @@ module.exports = indices = [
     {
         "matter_id": 1661,
         "matter_name": "PROJETO INTEGRADOR I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -26578,7 +26578,7 @@ module.exports = indices = [
     {
         "matter_id": 1662,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -26594,7 +26594,7 @@ module.exports = indices = [
     {
         "matter_id": 1663,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -26609,8 +26609,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1664,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -26626,7 +26626,7 @@ module.exports = indices = [
     {
         "matter_id": 1665,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -26642,7 +26642,7 @@ module.exports = indices = [
     {
         "matter_id": 1666,
         "matter_name": "TIC",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -26658,7 +26658,7 @@ module.exports = indices = [
     {
         "matter_id": 1667,
         "matter_name": "TOPICOS AVANCADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -26674,7 +26674,7 @@ module.exports = indices = [
     {
         "matter_id": 1668,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -26690,7 +26690,7 @@ module.exports = indices = [
     {
         "matter_id": 1669,
         "matter_name": "WEBSERVICES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2013,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -26706,7 +26706,7 @@ module.exports = indices = [
     {
         "matter_id": 1670,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -26722,7 +26722,7 @@ module.exports = indices = [
     {
         "matter_id": 1671,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -26738,7 +26738,7 @@ module.exports = indices = [
     {
         "matter_id": 1672,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -26754,7 +26754,7 @@ module.exports = indices = [
     {
         "matter_id": 1673,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -26770,7 +26770,7 @@ module.exports = indices = [
     {
         "matter_id": 1674,
         "matter_name": "DESIGN PATTEMS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -26786,7 +26786,7 @@ module.exports = indices = [
     {
         "matter_id": 1675,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -26802,7 +26802,7 @@ module.exports = indices = [
     {
         "matter_id": 1676,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -26818,7 +26818,7 @@ module.exports = indices = [
     {
         "matter_id": 1677,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -26834,7 +26834,7 @@ module.exports = indices = [
     {
         "matter_id": 1678,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 17,
@@ -26850,7 +26850,7 @@ module.exports = indices = [
     {
         "matter_id": 1679,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 41,
@@ -26866,7 +26866,7 @@ module.exports = indices = [
     {
         "matter_id": 1680,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -26882,7 +26882,7 @@ module.exports = indices = [
     {
         "matter_id": 1681,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -26898,7 +26898,7 @@ module.exports = indices = [
     {
         "matter_id": 1682,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -26914,7 +26914,7 @@ module.exports = indices = [
     {
         "matter_id": 1683,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -26930,7 +26930,7 @@ module.exports = indices = [
     {
         "matter_id": 1684,
         "matter_name": "OPTATIVA 1",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -26946,7 +26946,7 @@ module.exports = indices = [
     {
         "matter_id": 1685,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -26962,7 +26962,7 @@ module.exports = indices = [
     {
         "matter_id": 1686,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -26978,7 +26978,7 @@ module.exports = indices = [
     {
         "matter_id": 1687,
         "matter_name": "PROJETO DE INTERFACE",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -26994,7 +26994,7 @@ module.exports = indices = [
     {
         "matter_id": 1688,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -27010,7 +27010,7 @@ module.exports = indices = [
     {
         "matter_id": 1689,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -27026,7 +27026,7 @@ module.exports = indices = [
     {
         "matter_id": 1690,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -27042,7 +27042,7 @@ module.exports = indices = [
     {
         "matter_id": 1691,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -27058,7 +27058,7 @@ module.exports = indices = [
     {
         "matter_id": 1692,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -27074,7 +27074,7 @@ module.exports = indices = [
     {
         "matter_id": 1693,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -27090,7 +27090,7 @@ module.exports = indices = [
     {
         "matter_id": 1694,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -27106,7 +27106,7 @@ module.exports = indices = [
     {
         "matter_id": 1695,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -27122,7 +27122,7 @@ module.exports = indices = [
     {
         "matter_id": 1696,
         "matter_name": "MULTIMEDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -27138,7 +27138,7 @@ module.exports = indices = [
     {
         "matter_id": 1697,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -27154,7 +27154,7 @@ module.exports = indices = [
     {
         "matter_id": 1698,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -27169,8 +27169,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1699,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -27186,7 +27186,7 @@ module.exports = indices = [
     {
         "matter_id": 1700,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 37,
@@ -27202,7 +27202,7 @@ module.exports = indices = [
     {
         "matter_id": 1701,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 41,
@@ -27218,7 +27218,7 @@ module.exports = indices = [
     {
         "matter_id": 1702,
         "matter_name": "PROJETO INTEGRADOR I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 38,
@@ -27234,7 +27234,7 @@ module.exports = indices = [
     {
         "matter_id": 1703,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -27250,7 +27250,7 @@ module.exports = indices = [
     {
         "matter_id": 1704,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -27265,8 +27265,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1705,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -27282,7 +27282,7 @@ module.exports = indices = [
     {
         "matter_id": 1706,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -27298,7 +27298,7 @@ module.exports = indices = [
     {
         "matter_id": 1707,
         "matter_name": "TIC",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -27314,7 +27314,7 @@ module.exports = indices = [
     {
         "matter_id": 1708,
         "matter_name": "TOPICOS AVANCADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -27330,7 +27330,7 @@ module.exports = indices = [
     {
         "matter_id": 1709,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -27346,7 +27346,7 @@ module.exports = indices = [
     {
         "matter_id": 1710,
         "matter_name": "WEBSERVICE",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2014,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -27361,8 +27361,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1711,
-        "matter_name": "Algoritmos e Tecnicas de programacao",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -27377,8 +27377,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1712,
-        "matter_name": "Analise e Projeto de Sistemas",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "ANALISE E PROJETO DE SISTEMAS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -27393,8 +27393,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1713,
-        "matter_name": "Banco de Dados ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "BANCO DE DADOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -27409,8 +27409,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1714,
-        "matter_name": "Design Grafico",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "DESIGN GRAFICO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 42,
@@ -27425,8 +27425,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1715,
-        "matter_name": "Design pattems",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "DESIGN PATTEMS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -27441,8 +27441,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1716,
-        "matter_name": "Empreendedorismo",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "EMPREENDEDORISMO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -27457,8 +27457,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1717,
-        "matter_name": "Etica e Filosofia ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "ETICA E FILOSOFIA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -27473,8 +27473,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1718,
-        "matter_name": "Fundamentos de Redes de computadores ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -27489,8 +27489,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1719,
-        "matter_name": "Gestao empresarial ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "GESTAO EMPRESARIAL",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -27505,8 +27505,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1720,
-        "matter_name": "Ingles Instrumental",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "INGLES INSTRUMENTAL",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -27521,8 +27521,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1721,
-        "matter_name": "Introducao a Computacao",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "INTRODUCAO A COMPUTACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -27537,8 +27537,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1722,
-        "matter_name": "Introducao a Programacao Web",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -27553,8 +27553,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1723,
-        "matter_name": "Legislacao aplicada a informatica",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -27569,8 +27569,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1724,
-        "matter_name": "Marketing eletronico",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -27585,8 +27585,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1725,
-        "matter_name": "Optativa I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "OPTATIVA I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -27601,8 +27601,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1726,
-        "matter_name": "Programacao Orientada  a Objetos I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA  A OBJETOS I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -27617,8 +27617,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1727,
-        "matter_name": "Programacao para dispositivos moveis ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -27633,8 +27633,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1728,
-        "matter_name": "Projeto de interface",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO DE INTERFACE",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 31,
@@ -27649,8 +27649,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1729,
-        "matter_name": "Projeto integrador II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -27665,8 +27665,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1730,
-        "matter_name": "Projeto  intregador IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO  INTREGADOR IV",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -27681,8 +27681,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1731,
-        "matter_name": "Sociologia ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SOCIOLOGIA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 1,
         "matter_students_active": 44,
@@ -27697,8 +27697,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1732,
-        "matter_name": "Adiministracao de servidores ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "ADIMINISTRACAO DE SERVIDORES",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -27713,8 +27713,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1733,
-        "matter_name": "Comunicacao e Producao Academica ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -27729,8 +27729,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1734,
-        "matter_name": "Design  pattens ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "DESIGN  PATTENS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -27745,8 +27745,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1735,
-        "matter_name": "Engenharia de Requisitos ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "ENGENHARIA DE REQUISITOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -27761,8 +27761,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1736,
-        "matter_name": "Gerenciamento de dados semi-estruturados ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "GERENCIAMENTO DE DADOS SEMI-ESTRUTURADOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -27777,8 +27777,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1737,
-        "matter_name": "Gerenciamento de projetos ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "GERENCIAMENTO DE PROJETOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -27793,8 +27793,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1738,
-        "matter_name": "Multimidia para web",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "MULTIMIDIA PARA WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -27809,8 +27809,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1739,
-        "matter_name": "Negocios na internet ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "NEGOCIOS NA INTERNET",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -27825,8 +27825,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1740,
-        "matter_name": "Optativa II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "OPTATIVA II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -27841,8 +27841,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1741,
-        "matter_name": "Programacao Orientada a objetos  II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS  II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -27857,8 +27857,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1742,
-        "matter_name": "Progrmacao Web ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRMACAO WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 34,
@@ -27873,8 +27873,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1743,
-        "matter_name": "Projeto De Banco de Dados",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO DE BANCO DE DADOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -27889,8 +27889,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1744,
-        "matter_name": "Projeto Integrador I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR I",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -27905,8 +27905,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1745,
-        "matter_name": "Projeto integrador II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -27921,8 +27921,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1746,
-        "matter_name": "Projeto integrador V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR V",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 10,
@@ -27937,8 +27937,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1747,
-        "matter_name": "Seguranca da Informacao ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -27953,8 +27953,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1748,
-        "matter_name": "Sistemas Operacionais",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SISTEMAS OPERACIONAIS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -27970,7 +27970,7 @@ module.exports = indices = [
     {
         "matter_id": 1749,
         "matter_name": "TIC 02",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 13,
@@ -27985,8 +27985,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1750,
-        "matter_name": "Web Services",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "WEB SERVICES",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -28001,8 +28001,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1751,
-        "matter_name": "Web Design ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "WEB DESIGN",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2015,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -28018,7 +28018,7 @@ module.exports = indices = [
     {
         "matter_id": 1752,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 45,
@@ -28034,7 +28034,7 @@ module.exports = indices = [
     {
         "matter_id": 1753,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -28050,7 +28050,7 @@ module.exports = indices = [
     {
         "matter_id": 1754,
         "matter_name": "BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -28066,7 +28066,7 @@ module.exports = indices = [
     {
         "matter_id": 1755,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 43,
@@ -28082,7 +28082,7 @@ module.exports = indices = [
     {
         "matter_id": 1756,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -28098,7 +28098,7 @@ module.exports = indices = [
     {
         "matter_id": 1757,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -28114,7 +28114,7 @@ module.exports = indices = [
     {
         "matter_id": 1758,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -28130,7 +28130,7 @@ module.exports = indices = [
     {
         "matter_id": 1759,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -28146,7 +28146,7 @@ module.exports = indices = [
     {
         "matter_id": 1760,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -28162,7 +28162,7 @@ module.exports = indices = [
     {
         "matter_id": 1761,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -28178,7 +28178,7 @@ module.exports = indices = [
     {
         "matter_id": 1762,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -28194,7 +28194,7 @@ module.exports = indices = [
     {
         "matter_id": 1763,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -28209,8 +28209,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1764,
-        "matter_name": "MARKETING ELETRONICO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "MARKETING ELETRONICO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -28226,7 +28226,7 @@ module.exports = indices = [
     {
         "matter_id": 1765,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -28242,7 +28242,7 @@ module.exports = indices = [
     {
         "matter_id": 1766,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -28258,7 +28258,7 @@ module.exports = indices = [
     {
         "matter_id": 1767,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -28274,7 +28274,7 @@ module.exports = indices = [
     {
         "matter_id": 1768,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -28290,7 +28290,7 @@ module.exports = indices = [
     {
         "matter_id": 1769,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -28305,8 +28305,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1770,
-        "matter_name": "PROJETO INTEGRADOR IV ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR IV",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -28321,8 +28321,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1771,
-        "matter_name": "SOCIOLOGIA ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SOCIOLOGIA",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -28337,8 +28337,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1772,
-        "matter_name": "TOPICOS AVANCADOS ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "TOPICOS AVANCADOS",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -28354,7 +28354,7 @@ module.exports = indices = [
     {
         "matter_id": 1773,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -28370,7 +28370,7 @@ module.exports = indices = [
     {
         "matter_id": 1774,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -28386,7 +28386,7 @@ module.exports = indices = [
     {
         "matter_id": 1775,
         "matter_name": "DESIGN PATTEMS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -28402,7 +28402,7 @@ module.exports = indices = [
     {
         "matter_id": 1776,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -28418,7 +28418,7 @@ module.exports = indices = [
     {
         "matter_id": 1777,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -28434,7 +28434,7 @@ module.exports = indices = [
     {
         "matter_id": 1778,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -28449,8 +28449,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1779,
-        "matter_name": "MULTIMEDIA PARA WEB ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "MULTIMEDIA PARA WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -28466,7 +28466,7 @@ module.exports = indices = [
     {
         "matter_id": 1780,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -28482,7 +28482,7 @@ module.exports = indices = [
     {
         "matter_id": 1781,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -28497,8 +28497,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1782,
-        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -28513,8 +28513,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1783,
-        "matter_name": "PROGRAMACAO WEB ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROGRAMACAO WEB",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 36,
@@ -28530,7 +28530,7 @@ module.exports = indices = [
     {
         "matter_id": 1784,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -28546,7 +28546,7 @@ module.exports = indices = [
     {
         "matter_id": 1785,
         "matter_name": "PROJETO INTEGRADOR I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -28561,8 +28561,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1786,
-        "matter_name": "PROJETO INTEGRADOR III ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "PROJETO INTEGRADOR III",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -28578,7 +28578,7 @@ module.exports = indices = [
     {
         "matter_id": 1787,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -28593,8 +28593,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1788,
-        "matter_name": "SEGURANCA DA INFORMACAO ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "SEGURANCA DA INFORMACAO",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -28610,7 +28610,7 @@ module.exports = indices = [
     {
         "matter_id": 1789,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -28626,7 +28626,7 @@ module.exports = indices = [
     {
         "matter_id": 1790,
         "matter_name": "TIC",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -28642,7 +28642,7 @@ module.exports = indices = [
     {
         "matter_id": 1791,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -28657,8 +28657,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1792,
-        "matter_name": "WEBSERVICES ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "WEBSERVICES",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2016,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -28674,7 +28674,7 @@ module.exports = indices = [
     {
         "matter_id": 1793,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 37,
@@ -28690,7 +28690,7 @@ module.exports = indices = [
     {
         "matter_id": 1794,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -28706,7 +28706,7 @@ module.exports = indices = [
     {
         "matter_id": 1795,
         "matter_name": "BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -28722,7 +28722,7 @@ module.exports = indices = [
     {
         "matter_id": 1796,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -28738,7 +28738,7 @@ module.exports = indices = [
     {
         "matter_id": 1797,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -28754,7 +28754,7 @@ module.exports = indices = [
     {
         "matter_id": 1798,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -28770,7 +28770,7 @@ module.exports = indices = [
     {
         "matter_id": 1799,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADOR",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -28786,7 +28786,7 @@ module.exports = indices = [
     {
         "matter_id": 1800,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -28802,7 +28802,7 @@ module.exports = indices = [
     {
         "matter_id": 1801,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -28818,7 +28818,7 @@ module.exports = indices = [
     {
         "matter_id": 1802,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -28834,7 +28834,7 @@ module.exports = indices = [
     {
         "matter_id": 1803,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 40,
@@ -28850,7 +28850,7 @@ module.exports = indices = [
     {
         "matter_id": 1804,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -28866,7 +28866,7 @@ module.exports = indices = [
     {
         "matter_id": 1805,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -28882,7 +28882,7 @@ module.exports = indices = [
     {
         "matter_id": 1806,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -28898,7 +28898,7 @@ module.exports = indices = [
     {
         "matter_id": 1807,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -28914,7 +28914,7 @@ module.exports = indices = [
     {
         "matter_id": 1808,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -28930,7 +28930,7 @@ module.exports = indices = [
     {
         "matter_id": 1809,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -28946,7 +28946,7 @@ module.exports = indices = [
     {
         "matter_id": 1810,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -28962,7 +28962,7 @@ module.exports = indices = [
     {
         "matter_id": 1811,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -28978,7 +28978,7 @@ module.exports = indices = [
     {
         "matter_id": 1812,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -28994,7 +28994,7 @@ module.exports = indices = [
     {
         "matter_id": 1813,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 11,
@@ -29010,7 +29010,7 @@ module.exports = indices = [
     {
         "matter_id": 1814,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -29026,7 +29026,7 @@ module.exports = indices = [
     {
         "matter_id": 1815,
         "matter_name": "DESIGN PATTERNS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -29042,7 +29042,7 @@ module.exports = indices = [
     {
         "matter_id": 1816,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -29058,7 +29058,7 @@ module.exports = indices = [
     {
         "matter_id": 1817,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -29074,7 +29074,7 @@ module.exports = indices = [
     {
         "matter_id": 1818,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -29090,7 +29090,7 @@ module.exports = indices = [
     {
         "matter_id": 1819,
         "matter_name": "MULTIMIDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -29106,7 +29106,7 @@ module.exports = indices = [
     {
         "matter_id": 1820,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -29122,7 +29122,7 @@ module.exports = indices = [
     {
         "matter_id": 1821,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -29138,7 +29138,7 @@ module.exports = indices = [
     {
         "matter_id": 1822,
         "matter_name": "PROGRAMACAO ORIENTADA OBJETOS II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 14,
@@ -29154,7 +29154,7 @@ module.exports = indices = [
     {
         "matter_id": 1823,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -29170,7 +29170,7 @@ module.exports = indices = [
     {
         "matter_id": 1824,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -29186,7 +29186,7 @@ module.exports = indices = [
     {
         "matter_id": 1825,
         "matter_name": "PROJETO INTEGRADOR I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -29202,7 +29202,7 @@ module.exports = indices = [
     {
         "matter_id": 1826,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -29218,7 +29218,7 @@ module.exports = indices = [
     {
         "matter_id": 1827,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -29234,7 +29234,7 @@ module.exports = indices = [
     {
         "matter_id": 1828,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -29249,8 +29249,8 @@ module.exports = indices = [
     },
     {
         "matter_id": 1829,
-        "matter_name": "TIC ",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_name": "TIC",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -29266,7 +29266,7 @@ module.exports = indices = [
     {
         "matter_id": 1830,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -29282,7 +29282,7 @@ module.exports = indices = [
     {
         "matter_id": 1831,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2017,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -29298,7 +29298,7 @@ module.exports = indices = [
     {
         "matter_id": 1832,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -29314,7 +29314,7 @@ module.exports = indices = [
     {
         "matter_id": 1833,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -29330,7 +29330,7 @@ module.exports = indices = [
     {
         "matter_id": 1834,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -29346,7 +29346,7 @@ module.exports = indices = [
     {
         "matter_id": 1835,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -29362,7 +29362,7 @@ module.exports = indices = [
     {
         "matter_id": 1836,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -29378,7 +29378,7 @@ module.exports = indices = [
     {
         "matter_id": 1837,
         "matter_name": "ETICA E FILOSOFIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -29394,7 +29394,7 @@ module.exports = indices = [
     {
         "matter_id": 1838,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 33,
@@ -29410,7 +29410,7 @@ module.exports = indices = [
     {
         "matter_id": 1839,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -29426,7 +29426,7 @@ module.exports = indices = [
     {
         "matter_id": 1840,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -29442,7 +29442,7 @@ module.exports = indices = [
     {
         "matter_id": 1841,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -29458,7 +29458,7 @@ module.exports = indices = [
     {
         "matter_id": 1842,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -29474,7 +29474,7 @@ module.exports = indices = [
     {
         "matter_id": 1843,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -29490,7 +29490,7 @@ module.exports = indices = [
     {
         "matter_id": 1844,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 25,
@@ -29506,7 +29506,7 @@ module.exports = indices = [
     {
         "matter_id": 1845,
         "matter_name": "BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 24,
@@ -29522,7 +29522,7 @@ module.exports = indices = [
     {
         "matter_id": 1846,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -29538,7 +29538,7 @@ module.exports = indices = [
     {
         "matter_id": 1847,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 13,
@@ -29554,7 +29554,7 @@ module.exports = indices = [
     {
         "matter_id": 1848,
         "matter_name": "OPTATIVA I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 3,
@@ -29570,7 +29570,7 @@ module.exports = indices = [
     {
         "matter_id": 1849,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -29586,7 +29586,7 @@ module.exports = indices = [
     {
         "matter_id": 1850,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 14,
@@ -29602,7 +29602,7 @@ module.exports = indices = [
     {
         "matter_id": 1851,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 1,
         "matter_students_active": 12,
@@ -29618,7 +29618,7 @@ module.exports = indices = [
     {
         "matter_id": 1852,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 31,
@@ -29634,7 +29634,7 @@ module.exports = indices = [
     {
         "matter_id": 1853,
         "matter_name": "PROJETO DE BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 28,
@@ -29650,7 +29650,7 @@ module.exports = indices = [
     {
         "matter_id": 1854,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 29,
@@ -29666,7 +29666,7 @@ module.exports = indices = [
     {
         "matter_id": 1855,
         "matter_name": "PROJETO INTEGRADOR I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 33,
@@ -29682,7 +29682,7 @@ module.exports = indices = [
     {
         "matter_id": 1856,
         "matter_name": "ENGENHARIA DE REQUISITOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -29698,7 +29698,7 @@ module.exports = indices = [
     {
         "matter_id": 1857,
         "matter_name": "COMUNICACAO E PRODUCAO ACADEMICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -29714,7 +29714,7 @@ module.exports = indices = [
     {
         "matter_id": 1858,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 30,
@@ -29730,7 +29730,7 @@ module.exports = indices = [
     {
         "matter_id": 1859,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -29746,7 +29746,7 @@ module.exports = indices = [
     {
         "matter_id": 1860,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -29762,7 +29762,7 @@ module.exports = indices = [
     {
         "matter_id": 1861,
         "matter_name": "MULTIMIDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -29778,7 +29778,7 @@ module.exports = indices = [
     {
         "matter_id": 1862,
         "matter_name": "DESIGN PATTERNS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -29794,7 +29794,7 @@ module.exports = indices = [
     {
         "matter_id": 1863,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -29810,7 +29810,7 @@ module.exports = indices = [
     {
         "matter_id": 1864,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -29826,7 +29826,7 @@ module.exports = indices = [
     {
         "matter_id": 1865,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -29842,7 +29842,7 @@ module.exports = indices = [
     {
         "matter_id": 1866,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -29858,7 +29858,7 @@ module.exports = indices = [
     {
         "matter_id": 1867,
         "matter_name": "OPTATIVA II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -29874,7 +29874,7 @@ module.exports = indices = [
     {
         "matter_id": 1868,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 9,
@@ -29890,7 +29890,7 @@ module.exports = indices = [
     {
         "matter_id": 1869,
         "matter_name": "WEBSERVICES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -29906,7 +29906,7 @@ module.exports = indices = [
     {
         "matter_id": 1870,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2018,
         "matter_semester": 2,
         "matter_students_active": 8,
@@ -29922,7 +29922,7 @@ module.exports = indices = [
     {
         "matter_id": 1871,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO TURMA A",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -29938,7 +29938,7 @@ module.exports = indices = [
     {
         "matter_id": 1872,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO TURMA B",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -29954,7 +29954,7 @@ module.exports = indices = [
     {
         "matter_id": 1873,
         "matter_name": "ANALISE E PROJETO DE SISTEMAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 34,
@@ -29970,7 +29970,7 @@ module.exports = indices = [
     {
         "matter_id": 1874,
         "matter_name": "BANCO DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -29986,7 +29986,7 @@ module.exports = indices = [
     {
         "matter_id": 1875,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -30002,7 +30002,7 @@ module.exports = indices = [
     {
         "matter_id": 1876,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -30018,7 +30018,7 @@ module.exports = indices = [
     {
         "matter_id": 1877,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -30034,7 +30034,7 @@ module.exports = indices = [
     {
         "matter_id": 1878,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 32,
@@ -30050,7 +30050,7 @@ module.exports = indices = [
     {
         "matter_id": 1879,
         "matter_name": "INTRODUCAO A COMPUTACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -30066,7 +30066,7 @@ module.exports = indices = [
     {
         "matter_id": 1880,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 39,
@@ -30082,7 +30082,7 @@ module.exports = indices = [
     {
         "matter_id": 1881,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -30098,7 +30098,7 @@ module.exports = indices = [
     {
         "matter_id": 1882,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -30114,7 +30114,7 @@ module.exports = indices = [
     {
         "matter_id": 1883,
         "matter_name": "MATEMATICA ELEMENTAR",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -30130,7 +30130,7 @@ module.exports = indices = [
     {
         "matter_id": 1884,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 19,
@@ -30146,7 +30146,7 @@ module.exports = indices = [
     {
         "matter_id": 1885,
         "matter_name": "PROGRAMACAO AVANCADA EM WEBMAPAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 8,
@@ -30162,7 +30162,7 @@ module.exports = indices = [
     {
         "matter_id": 1886,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -30178,7 +30178,7 @@ module.exports = indices = [
     {
         "matter_id": 1887,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -30194,7 +30194,7 @@ module.exports = indices = [
     {
         "matter_id": 1888,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -30210,7 +30210,7 @@ module.exports = indices = [
     {
         "matter_id": 1889,
         "matter_name": "PROJETO DE INTERFACES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 1,
         "matter_students_active": 27,
@@ -30226,7 +30226,7 @@ module.exports = indices = [
     {
         "matter_id": 1890,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -30242,7 +30242,7 @@ module.exports = indices = [
     {
         "matter_id": 1891,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 39,
@@ -30258,7 +30258,7 @@ module.exports = indices = [
     {
         "matter_id": 1892,
         "matter_name": "DESIGN PATTERNS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -30274,7 +30274,7 @@ module.exports = indices = [
     {
         "matter_id": 1893,
         "matter_name": "ENGENHARIA DE SOFTWARE I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 35,
@@ -30290,7 +30290,7 @@ module.exports = indices = [
     {
         "matter_id": 1894,
         "matter_name": "ESTRUTURA DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 19,
@@ -30306,7 +30306,7 @@ module.exports = indices = [
     {
         "matter_id": 1895,
         "matter_name": "GERENCIA DE DADOS SEMI-ESTRUTURADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -30322,7 +30322,7 @@ module.exports = indices = [
     {
         "matter_id": 1896,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -30338,7 +30338,7 @@ module.exports = indices = [
     {
         "matter_id": 1897,
         "matter_name": "MULTIMIDIA PARA WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -30354,7 +30354,7 @@ module.exports = indices = [
     {
         "matter_id": 1898,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -30370,7 +30370,7 @@ module.exports = indices = [
     {
         "matter_id": 1899,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 18,
@@ -30386,7 +30386,7 @@ module.exports = indices = [
     {
         "matter_id": 1900,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 24,
@@ -30402,7 +30402,7 @@ module.exports = indices = [
     {
         "matter_id": 1901,
         "matter_name": "PROJETO INTEGRADOR II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -30418,7 +30418,7 @@ module.exports = indices = [
     {
         "matter_id": 1902,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 25,
@@ -30434,7 +30434,7 @@ module.exports = indices = [
     {
         "matter_id": 1903,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 12,
@@ -30450,7 +30450,7 @@ module.exports = indices = [
     {
         "matter_id": 1904,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -30466,7 +30466,7 @@ module.exports = indices = [
     {
         "matter_id": 1905,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 32,
@@ -30482,7 +30482,7 @@ module.exports = indices = [
     {
         "matter_id": 1906,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 1,
@@ -30498,7 +30498,7 @@ module.exports = indices = [
     {
         "matter_id": 1907,
         "matter_name": "TIC - TECNOLOGIA DA INFORMACAO E COMUNICACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -30514,7 +30514,7 @@ module.exports = indices = [
     {
         "matter_id": 1908,
         "matter_name": "WEBSEMANTICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2019,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -30530,7 +30530,7 @@ module.exports = indices = [
     {
         "matter_id": 1909,
         "matter_name": "ADMINISTRACAO DE SERVIDORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -30546,7 +30546,7 @@ module.exports = indices = [
     {
         "matter_id": 1910,
         "matter_name": "INTRODUCAO A PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 38,
@@ -30562,7 +30562,7 @@ module.exports = indices = [
     {
         "matter_id": 1911,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -30578,7 +30578,7 @@ module.exports = indices = [
     {
         "matter_id": 1912,
         "matter_name": "LEGISLACAO APLICADA A INFORMATICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 26,
@@ -30594,7 +30594,7 @@ module.exports = indices = [
     {
         "matter_id": 1913,
         "matter_name": "MARKETING ELETRONICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -30610,7 +30610,7 @@ module.exports = indices = [
     {
         "matter_id": 1914,
         "matter_name": "MATEMATICA ELEMENTAR",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 36,
@@ -30626,7 +30626,7 @@ module.exports = indices = [
     {
         "matter_id": 1915,
         "matter_name": "PROGRAMACAO AVANCADA EM WEBMAPAS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -30642,7 +30642,7 @@ module.exports = indices = [
     {
         "matter_id": 1916,
         "matter_name": "PROGRAMACAO ORIENTADA A OBJETOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -30658,7 +30658,7 @@ module.exports = indices = [
     {
         "matter_id": 1917,
         "matter_name": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 29,
@@ -30674,7 +30674,7 @@ module.exports = indices = [
     {
         "matter_id": 1918,
         "matter_name": "PROJETO INTEGRADOR III",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 2,
@@ -30690,7 +30690,7 @@ module.exports = indices = [
     {
         "matter_id": 1919,
         "matter_name": "PROJETO INTEGRADOR IV",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -30706,7 +30706,7 @@ module.exports = indices = [
     {
         "matter_id": 1920,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 18,
@@ -30722,7 +30722,7 @@ module.exports = indices = [
     {
         "matter_id": 1921,
         "matter_name": "SISTEMAS OPERACIONAIS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 15,
@@ -30738,7 +30738,7 @@ module.exports = indices = [
     {
         "matter_id": 1922,
         "matter_name": "SOCIOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 28,
@@ -30754,7 +30754,7 @@ module.exports = indices = [
     {
         "matter_id": 1923,
         "matter_name": "TOPICOS AVANCADOS EM PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -30770,7 +30770,7 @@ module.exports = indices = [
     {
         "matter_id": 1924,
         "matter_name": "WEBDESIGN",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 1,
@@ -30786,7 +30786,7 @@ module.exports = indices = [
     {
         "matter_id": 1925,
         "matter_name": "WEBSERVICES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 16,
@@ -30802,7 +30802,7 @@ module.exports = indices = [
     {
         "matter_id": 1926,
         "matter_name": "ALGORITMOS E TECNICAS DE PROGRAMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -30818,7 +30818,7 @@ module.exports = indices = [
     {
         "matter_id": 1927,
         "matter_name": "BANCO DE DADOS II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 20,
@@ -30834,7 +30834,7 @@ module.exports = indices = [
     {
         "matter_id": 1928,
         "matter_name": "DESIGN GRAFICO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 21,
@@ -30850,7 +30850,7 @@ module.exports = indices = [
     {
         "matter_id": 1929,
         "matter_name": "EMPREENDEDORISMO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 22,
@@ -30866,7 +30866,7 @@ module.exports = indices = [
     {
         "matter_id": 1930,
         "matter_name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 23,
@@ -30882,7 +30882,7 @@ module.exports = indices = [
     {
         "matter_id": 1931,
         "matter_name": "INGLES INSTRUMENTAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 1,
         "matter_students_active": 35,
@@ -30898,7 +30898,7 @@ module.exports = indices = [
     {
         "matter_id": 1932,
         "matter_name": "BANCO DE DADOS I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 26,
@@ -30914,7 +30914,7 @@ module.exports = indices = [
     {
         "matter_id": 1933,
         "matter_name": "PROGRAMACAO WEB",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 15,
@@ -30930,7 +30930,7 @@ module.exports = indices = [
     {
         "matter_id": 1934,
         "matter_name": "PROJETO INTEGRADOR V",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 16,
@@ -30946,7 +30946,7 @@ module.exports = indices = [
     {
         "matter_id": 1935,
         "matter_name": "SEGURANCA DA INFORMACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -30962,7 +30962,7 @@ module.exports = indices = [
     {
         "matter_id": 1936,
         "matter_name": "TIC - TECNOLOGIA DA INFORMACAO E COMUNICACAO",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -30978,7 +30978,7 @@ module.exports = indices = [
     {
         "matter_id": 1937,
         "matter_name": "WEBSEMANTICA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -30994,7 +30994,7 @@ module.exports = indices = [
     {
         "matter_id": 1938,
         "matter_name": "ENGENHARIA DE SOFTWARE I",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 20,
@@ -31010,7 +31010,7 @@ module.exports = indices = [
     {
         "matter_id": 1939,
         "matter_name": "ENGENHARIA DE SOFTWARE II",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 17,
@@ -31026,7 +31026,7 @@ module.exports = indices = [
     {
         "matter_id": 1940,
         "matter_name": "ESTRUTURA DE DADOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 21,
@@ -31042,7 +31042,7 @@ module.exports = indices = [
     {
         "matter_id": 1941,
         "matter_name": "FILOSOFIA DA TECNOLOGIA",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 22,
@@ -31058,7 +31058,7 @@ module.exports = indices = [
     {
         "matter_id": 1942,
         "matter_name": "GERENCIAMENTO DE PROJETOS",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 27,
@@ -31074,7 +31074,7 @@ module.exports = indices = [
     {
         "matter_id": 1943,
         "matter_name": "GESTAO EMPRESARIAL",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 23,
@@ -31090,7 +31090,7 @@ module.exports = indices = [
     {
         "matter_id": 1944,
         "matter_name": "NEGOCIOS NA INTERNET",
-        "matter_cursor": "Tecnologia em Sistemas para a Internet",
+        "matter_cursor": "TECNOLOGIA EM SISTEMAS PARA A INTERNET",
         "matter_year": 2020,
         "matter_semester": 2,
         "matter_students_active": 16,
