@@ -16,15 +16,18 @@ const yearsSelected = [];
 
 
 // Put years in select
-for (const year of hashMap.getYears().sort()) {
-    const pYear = document.createElement("p");
-    pYear.textContent = year;
-    pYear.className = "p-2 transition delay-50 hover:text-lg hover:text-black hover:bg-green-300";
-    selectYears.appendChild(pYear);
-
-    // Add event to click in option years for add year in input
-    pYear.addEventListener("click", () => addAndRemoveYearToSelected(year));
+function loadYears(years) {
+    for (const year of years) {
+        const pYear = document.createElement("p");
+        pYear.textContent = year;
+        pYear.className = "p-2 transition delay-50 hover:text-lg hover:text-black hover:bg-green-300";
+        selectYears.appendChild(pYear);
+    
+        // Add event to click in option years for add year in input
+        pYear.addEventListener("click", () => addAndRemoveYearToSelected(year));
+    };
 };
+
 
 // Function for add years in selectedyears div
 function addAndRemoveYearToSelected(matterName) {
@@ -58,4 +61,4 @@ function addAndRemoveYearToSelected(matterName) {
     };
 };
 
-module.exports = { yearsSelected };
+module.exports = { yearsSelected, loadYears };

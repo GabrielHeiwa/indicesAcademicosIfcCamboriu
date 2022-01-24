@@ -352,20 +352,20 @@ class HashMap {
             datasets,
         };
 
-        const title =  `Gráfico sobre ${informaion_relations[information]}`;
+        const title = `Gráfico sobre ${informaion_relations[information]}`;
         let max = Math.ceil(biggerValue / 10) * 10;
         const scale = {
             title: {
                 display: true,
-                text: informaion_relations[information] === "Número de aluno" 
-                    ? "Número de alunos" 
+                text: informaion_relations[information] === "Número de aluno"
+                    ? "Número de alunos"
                     : informaion_relations[information] + " (%)",
             },
             max,
         };
 
         return {
-            data, 
+            data,
             title,
             scale
         };
@@ -373,7 +373,38 @@ class HashMap {
         function compare(matter, mattername, year, cursor) {
             return matter.toUpperCase() === mattername.toUpperCase() && years.includes(year) && cursor.toUpperCase() === discipline.toUpperCase();
         };
-    }
+    };
+
+
+    /*
+        getYearsOfMatters return an array with all years the matter was given
+        @params: mattersNames {String[]}, matterCursor {String}
+        @returns: Array<String>[]
+    */
+    getYearsOfMatter(mattersNames, matterCursor) {
+        const yearsThatTheMatterWasGiven = [];
+
+        let index = 0;
+        for (; index < mattersNames.length; index++) {
+            const matter = mattersNames[index];
+            const hashing = this.hashing(matter);
+            let current = this.#table[hashing];
+
+            if (mattersNames.includes(current.value.matter_name) && current.value.matter_cursor.toUpperCase() === matterCursor.toUpperCase()) {
+                yearsThatTheMatterWasGiven.push(current.value.matter_year);
+            };
+
+            while (current.next !== null) {
+                current = current.next;
+
+                if (mattersNames.includes(current.value.matter_name) && current.value.matter_cursor.toUpperCase() === matterCursor.toUpperCase()) {
+                    yearsThatTheMatterWasGiven.push(current.value.matter_year);
+                };
+            };
+        };
+
+        return yearsThatTheMatterWasGiven;
+    };
 };
 
 const hashMap = new HashMap();

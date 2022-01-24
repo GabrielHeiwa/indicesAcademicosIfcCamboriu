@@ -2,7 +2,7 @@
 const hashMap = require('./[2]hashMap');
 const { inputSelectDiscipline } = require('./[3]disciplines');
 const { loadMattersInSelect } = require('./[4]matters');
-console.log(true)
+
 let ctx = document.getElementById("chart");
 const chartConfig =  {
     type: "line",

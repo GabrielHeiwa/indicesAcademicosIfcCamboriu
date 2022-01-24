@@ -33,8 +33,8 @@ btnGenerateChart.addEventListener('change', () => {
     chartConfig.options.scales.y = result.scale;
     chart.update();
 
-    window.scrollTo(0, document.getElementById('stage-5').scrollHeight);
-    console.log('going to stage-5');
+    const stage5 = document.querySelector(".stage-5");
+    window.scrollTo(stage5.offsetLeft, stage5.offsetTop);
 
     inputInformation.value = "Selecione uma informação";
 });

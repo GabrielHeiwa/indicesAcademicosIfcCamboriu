@@ -1,3 +1,5 @@
+const { loadYears } = require("./[6]years");
+const hashMap = require("./[2]hashMap");
 
 // Get selected matters
 const selectMatters = document.querySelector(".select-matters");
@@ -79,7 +81,7 @@ function searchMattersInSelect() {
             matter.style.display = "none";
         };
     };
-}
+};
 
 function debounce(func, delay) {
     let timer;
@@ -97,6 +99,11 @@ btnNextStage.addEventListener("click", () => {
     if (mattersSelected.length === 0) {
         alert("Selecione pelo menos uma matéria");
     } else {
+        const discipline = document.querySelector('.select-cursor input').value;
+        const years = hashMap.getYearsOfMatter(mattersSelected, discipline);
+        console.log(discipline, mattersSelected, years);
+        loadYears(years);
+
         const stage3 = document.querySelector(".stage-3");
         window.scrollTo(stage3.offsetLeft, stage3.offsetTop);
     };
