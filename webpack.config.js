@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const HTMLWebpackPlugin = require('html-webpack-plugin');
 
 const entryDir = path.resolve(__dirname, 'src/scripts');
 
@@ -28,6 +29,9 @@ module.exports = {
         },
         compress: true,
         port: 9000,
-        liveReload: true,
-    }
+        hot: true,
+    },
+    plugins: [
+        new HTMLWebpackPlugin()
+    ]
 }
