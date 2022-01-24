@@ -18,9 +18,16 @@ module.exports = {
             import: './src/data/[1]indice.js'
         }
     },
-    // entry: './src/scripts/[1]indice.js',
     output: {
         path: path.resolve(__dirname, 'dist/scripts'),
         filename: '[name].bundle.js'
+    },
+    devServer: {
+        static: {
+            directory: path.join(__dirname, 'dist')
+        },
+        compress: true,
+        port: 9000,
+        liveReload: true,
     }
 }

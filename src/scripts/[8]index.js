@@ -4,7 +4,7 @@ const { inputSelectDiscipline } = require('./[3]disciplines');
 const { loadMattersInSelect } = require('./[4]matters');
 
 let ctx = document.getElementById("chart");
-let chart = new Chart(ctx, {
+const chartConfig =  {
     type: "line",
     data: {
         labels: [],
@@ -35,7 +35,8 @@ let chart = new Chart(ctx, {
             }
         }
     }
-});
+};
+let chart = new Chart(ctx, chartConfig);
 
 window.onload = () => {
     const discipline = inputSelectDiscipline.value;
@@ -46,12 +47,4 @@ window.onload = () => {
     window.scrollTo(0, 0);
 };
 
-module.exports = { chart };
-
-// const compareOptions = {
-//     matters: ["BANCO DE DADOS I", "BANCO DE DADOS II"],
-//     years: [2019, 2018],
-//     information: "matter_total",
-//     discipline: "Bacharel em Sistemas de Informação",
-// };
-
+module.exports = { chart, chartConfig };
