@@ -2,14 +2,17 @@ const { mattersSelected  } = require('./[4]matters');
 const { inputInformation } = require('./[5]information');
 const { inputSelectDiscipline } = require('./[3]disciplines');
 const { yearsSelected } = require('./[6]years');
-const { chart } = require('./[8]index');
+const { chart, chartConfig } = require('./[8]index');
 
 const hashMap = require('./[2]hashMap');
 
 const btnGenerateChart = document.querySelector(".btn-generate-chart");
 const pTitleChart = document.querySelector('.title-chart');
+const selectChartType = document.querySelector('#chart-type-option');
 
-btnGenerateChart.addEventListener('click', () => {
+const stage5 = document.querySelector('.stage-5');
+
+btnGenerateChart.addEventListener('change', () => {
     const discipline = inputSelectDiscipline.value;
     const matters = mattersSelected;
     const years = yearsSelected.sort();
@@ -23,11 +26,15 @@ btnGenerateChart.addEventListener('click', () => {
     };
 
     const result = hashMap.get(getOptions);
-    chart.data = result.data;
-    chart.options.scales.y = result.scale;
     pTitleChart.textContent = result.title;
-
+    
+    chartConfig.type = selectChartType.value;
+    chartConfig.data = result.data
+    chartConfig.options.scales.y = result.scale;
     chart.update();
+
+    window.scrollTo(0, document.getElementById('stage-5').scrollHeight);
+    console.log('going to stage-5');
 
     inputInformation.value = "Selecione uma informação";
 });

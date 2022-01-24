@@ -168,13 +168,23 @@
                             hover:bg-white hover:border-green-500" href="#stage-3">
                             <p>Voltar</p>
                         </a>
+
                         <a class="
                             p-2 mt-1
                             border-2 border-green-700
-                            rounded-sm
                             transition delay-50
-                            hover:bg-white hover:border-green-500 btn-generate-chart" href="#stage-5">
-                            <p>Gerar gráfico</p>
+                            hover:bg-white hover:border-green-500 ">
+                            <select 
+                                class="
+                                    w-full h-full 
+                                    px-4 rounded-none 
+                                    btn-generate-chart"
+                                name="chart-type-option" 
+                                id="chart-type-option">
+                                <option value="null">Tipo de gráfico</option>
+                                <option value="line">Gerar gráfico em Linha</option>
+                                <option value="bar">Gerar gráfico em Barra</option>
+                            </select>
                         </a>
                     </div>
 
@@ -184,7 +194,7 @@
         </div>
     </div>
 
-    <div id="stage-5" class="stage-6 graph w-full h-full flex items-center justify-center flex-col">
+    <div id="stage-5" class="stage-5 graph w-full h-full flex items-center justify-center flex-col">
         <div class="stage-5-content w-2/3 h-auto pb-16 bg-green-900">
             <p class="text-white text-lg text-center font-sans py-2 title-chart">Titulo</p>
             <canvas class="

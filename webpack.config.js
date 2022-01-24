@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const HTMLWebpackPlugin = require('html-webpack-plugin');
 
 const entryDir = path.resolve(__dirname, 'src/scripts');
 
@@ -18,9 +19,16 @@ module.exports = {
             import: './src/data/[1]indice.js'
         }
     },
-    // entry: './src/scripts/[1]indice.js',
     output: {
         path: path.resolve(__dirname, 'dist/scripts'),
-        filename: '[name].bundle.js'
-    }
+        filename: '[name].bundle.js',
+        clean: true
+    },
+    devServer: {
+        static: {
+            directory: path.join(__dirname, 'dist')
+        },
+        compress: true,
+        port: 9000,
+    },
 }
