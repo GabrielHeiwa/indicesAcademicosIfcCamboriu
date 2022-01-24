@@ -21,7 +21,8 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'dist/scripts'),
-        filename: '[name].bundle.js'
+        filename: '[name].bundle.js',
+        clean: true
     },
     devServer: {
         static: {
@@ -29,9 +30,5 @@ module.exports = {
         },
         compress: true,
         port: 9000,
-        hot: true,
     },
-    plugins: [
-        new HTMLWebpackPlugin()
-    ]
 }
